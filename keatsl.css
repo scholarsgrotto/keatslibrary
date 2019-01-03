@@ -1,0 +1,209 @@
+/* **** Standard styling elements **** */
+
+
+body{
+
+	/* background-color: #DFC184; */
+	background-color: #FFFFFF;
+	/* min-width: 1080px; */
+	font-family:Georgia,"Times New Roman",serif;
+	margin: 0;
+	padding: 0;
+
+}
+
+
+h2{
+	font-size:130%;
+}
+
+h3{
+	font-size:120%;
+}
+
+html {
+	margin: 0;
+	padding: 0;
+}
+
+img{
+	border:0;
+}
+
+
+p{
+
+}
+
+
+#plainHTML
+{
+	background-color: #FFFFFF;
+	min-width: 480px;
+	max-width: 640px;
+	font-family:Georgia,"Times New Roman",serif;
+	margin: 0;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+
+
+span.tab{
+	padding: 0 12px; 
+}
+
+
+
+
+/* **** Special classes and IDs **** */
+
+.centeredText{
+
+	display:block;
+	text-align:center;
+
+}
+
+
+#contentWrapper{
+	
+	display: inline-block;
+
+	background:#FFFFFF;
+	width: 85%;
+	min-width:380px;
+	max-width: 640px;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	margin-right: 5px;
+	margin-left: 5px;
+	text-align:left;
+	/* box-shadow: 0px 0px 13px 0px; */
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+
+
+#headerBar {
+	width: 100%;
+	position: relative;
+	min-width: 400px;
+	top: 0; 
+    height: 100px;
+	/* background-color:#274257; */
+	background-color:#F0EAD6;
+	margin-bottom: 10px;
+	padding: 0;
+	-webkit-box-shadow: 0 8px 6px -6px #999;
+	-moz-box-shadow: 0 8px 6px -6px #999;
+	box-shadow: 0 8px 6px -6px #999;
+	
+	
+}
+
+
+#headerBar h1 {
+	font-family:Garamond,"Times New Roman",serif; 
+	font-size:250%;
+}
+
+#headerBar h2 {
+	font-family:Garamond,"Times New Roman",serif; 
+	 font-size:125%;
+}
+
+#headerBar ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+#headerBar li	{
+			display:inline;
+		}
+
+
+
+
+.hoverLink {
+	display:block;
+	opacity:0.4;
+	filter:alpha(opacity=40); /* For IE8 and earlier */
+}
+
+.hoverLink:hover {
+	opacity:1.0;
+	filter:alpha(opacity=100); /* For IE8 and earlier */
+}
+
+.infotext-box {
+	/* font-family:"Courier New",Courier,sans-serif; font-size:100%; */
+	border:1px solid ;
+	padding:10px 5px 5px 5px; 
+	margin:5px 10px 10px 10px; 
+	
+	}
+
+.mini-header{
+
+	background-color: #E0E0E0; 
+	font-size:110%;
+	margin: 2px 3px 2px 4px;
+
+}
+
+.pageLink{
+	/* background-color: #274257; */
+	color: #84a2df;
+	padding-right:5px;
+	padding-left:5px;
+	text-decoration:none; 
+}
+
+.pageLink:hover{
+	background-color: #2A75A9;
+	
+}
+
+
+#pageWrapper{
+	overflow:auto;
+	min-width: 400px;
+  	text-align: center;
+	
+}
+
+
+
+	
+.source-attribution {
+	font-family:"Times New Roman",serif;
+	font-size:75%;
+	font-weight:bold;
+	}
+
+	
+.textEmphasis {
+	font-weight:bold;
+}
+	
+
+.titleAttribution {
+	font-style:italic;
+}
+
+.usageText {
+	font-family:Verdana,Arial,sans-serif;
+	font-size:90%;
+
+}
+
+.workTitle{
+	font-size:130%;
+	font-weight:bold;
+}
