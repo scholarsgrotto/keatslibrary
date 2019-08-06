@@ -1,0 +1,12 @@
+[16-Apr-2019 16:36:04 UTC] PHP Warning:  include(../head.php): failed to open stream: No such file or directory in /home/keatslib/public_html/paradise-lost/edition_beta/index.php on line 21
+[16-Apr-2019 16:36:04 UTC] PHP Warning:  include(): Failed opening '../head.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/keatslib/public_html/paradise-lost/edition_beta/index.php on line 21
+[16-Apr-2019 16:36:10 UTC] PHP Warning:  include(../head.php): failed to open stream: No such file or directory in /home/keatslib/public_html/paradise-lost/edition_beta/plviewer.php on line 499
+[16-Apr-2019 16:36:10 UTC] PHP Warning:  include(): Failed opening '../head.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/keatslib/public_html/paradise-lost/edition_beta/plviewer.php on line 499
+[16-Apr-2019 16:36:10 UTC] PHP Warning:  include(../head.php): failed to open stream: No such file or directory in /home/keatslib/public_html/paradise-lost/edition_beta/keatspl.php on line 14
+[16-Apr-2019 16:36:10 UTC] PHP Warning:  include(): Failed opening '../head.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/keatslib/public_html/paradise-lost/edition_beta/keatspl.php on line 14
+[16-Apr-2019 16:36:30 UTC] PHP Warning:  include(../head.php): failed to open stream: No such file or directory in /home/keatslib/public_html/paradise-lost/edition_beta/keatspl.php on line 14
+[16-Apr-2019 16:36:30 UTC] PHP Warning:  include(): Failed opening '../head.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/keatslib/public_html/paradise-lost/edition_beta/keatspl.php on line 14
+[16-Apr-2019 16:36:31 UTC] PHP Warning:  include(../head.php): failed to open stream: No such file or directory in /home/keatslib/public_html/paradise-lost/edition_beta/keatspl.php on line 14
+[16-Apr-2019 16:36:31 UTC] PHP Warning:  include(): Failed opening '../head.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/keatslib/public_html/paradise-lost/edition_beta/keatspl.php on line 14
+[16-Apr-2019 18:04:09 UTC] PHP Warning:  include(../head.php): failed to open stream: No such file or directory in /home/keatslib/public_html/paradise-lost/edition_beta/index.php on line 21
+[16-Apr-2019 18:04:09 UTC] PHP Warning:  include(): Failed opening '../head.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/keatslib/public_html/paradise-lost/edition_beta/index.php on line 21
