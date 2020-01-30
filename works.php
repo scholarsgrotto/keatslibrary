@@ -27,7 +27,7 @@
                 <h2>Books with Keats's Marginalia</h2>
             </div>
             <div class="infotext-box">
-                <p><span class="workTitle"><a href="/paradise-lost">Paradise Lost</a></span> <span class="usage-text" style="color:red;">BETA</span><br/>
+                <p><span class="workTitle"><a href="/paradise-lost">Paradise Lost</a></span> <span class="usage-text" style="color:red;">RELEASE CANDIDATE 2</span><br/>
                 By John Milton, 1807 ed., printed by W&amp;J. Deas</p>
             </div>
 

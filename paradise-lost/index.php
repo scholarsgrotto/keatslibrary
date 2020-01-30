@@ -14,7 +14,7 @@
                     <?php include '../head.php';?>
                     </div>
       <div id="pageWrapper">
-         <div id="contentWrapper"><span style="font-size:135%;font-weight:bold;">Keats's Paradise Lost: a Digital Edition </span><br><span class="usageText" style="color:red;">Release Candidate 1, last updated Apr. 16, 2019</span><p><a href="plviewer.php"><img src="images/pl-small-title.jpg" alt="Link to the Keats copy of Paradise Lost" title="Open Keats's Paradise Lost" align="middle" style="margin:0px 10px 0px 0px;float:left;"></a><br><span style="font-size:120%"><a href="plviewer.php" title="Paradise Lost">OPEN Keats's <span class="titleAttribution">Paradise Lost</span></a></span><br><br>
+         <div id="contentWrapper"><span style="font-size:135%;font-weight:bold;">Keats's Paradise Lost: a Digital Edition </span><br><span class="usageText" style="color:red;">Release Candidate 2, last updated Oct. 31, 2019</span><p><a href="plviewer.php"><img src="images/pl-small-title.jpg" alt="Link to the Keats copy of Paradise Lost" title="Open Keats's Paradise Lost" align="middle" style="margin:0px 10px 0px 0px;float:left;"></a><br><span style="font-size:120%"><a href="plviewer.php" title="Paradise Lost">OPEN Keats's <span class="titleAttribution">Paradise Lost</span></a></span><br><br>
                
                ... <a href="#schol_in" title="Scholarly Introduction">View scholarly introduction</a> by Beth Lau<br>
                
@@ -25,8 +25,8 @@
                ... View documentation <span class="usageText" style="color:red;">[in development]</span><br>
                
                ... <a href="#contrib" title="Contributors">View contributors</a><br><br></p><br><h3 id="schol_in">Scholarly Introduction</h3>Keats’s two-volume, 1807 copy of Milton’s <span class="titleAttribution">Paradise Lost</span> is one of the most valuable of the poet’s surviving books.  H. J. Jackson claims
-            that only two of Keats’s annotated books contain notes that offer “serious critical commentary”: his <span class="titleAttribution">Paradise Lost</span> and his folio Shakespeare (191).
-            <span class="noteTooltip">(NOTE)<span class="noteTooltipText"><span class="titleAttribution">Mr. William Shakespeare’s Comedies, Histories, &amp; Tragedies</span>. 1623. Rpt. London, 1808.  Owned by Keats House and stored in the London Metropolitan
+            that only two of Keats’s annotated books contain notes that offer “serious critical commentary:” his <span class="titleAttribution">Paradise Lost</span> and his folio Shakespeare (191).
+            <span class="noteTooltip">(NOTE)<span class="noteTooltipText"><span class="titleAttribution">Mr. William Shakespeare’s Comedies, Histories, &amp; Tragedies</span>. 1623. Rpt. London, 1808. Owned by Keats House and stored in the London Metropolitan
                   Archives.</span></span> 
             
             In the latter, however, only five plays are marked by Keats and of these only two
@@ -34,19 +34,19 @@
             <span class="noteTooltip">(NOTE)<span class="noteTooltipText">According to Forman, “<span class="titleAttribution">The First Part of King Henry the Fourth</span> is marked only in the first eight pages . . . in <span class="titleAttribution">Romeo and Juliet</span> the markings extend over the first half of the play. . . . [and] in <span class="titleAttribution">A Midsummer Night’s Dream</span> there are but two pages” marked (5: 269n).</span></span>  
             
             The <span class="titleAttribution">Paradise Lost</span> volumes, by contrast, contain markings and annotations throughout the entirety of
-            Milton’s poem.   The book provides a remarkable record, not just of Keats’s response
+            Milton’s poem. The book provides a remarkable record, not just of Keats’s response
             to one of his most important literary precursors, but of his reading practices, aesthetic
             tastes, and habits of mind more broadly.<br><br>
             
             Keats’s edition of <span class="titleAttribution">Paradise Lost</span> was published in Edinburgh, printed for W. &amp; J. Deas, in duodecimo format.
-            <span id="intro-1775ref" class="noteTooltip">(NOTE)<span class="noteTooltipText">Keats also possessed a 1775 edition of <span class="titleAttribution">Paradise Lost</span> (8th ed., 2 vols., printed in London for J. Beercroft et al.), the first volume of
+            <span id="intro-1775ref" class="noteTooltip">(NOTE) <span class="noteTooltipText">Keats also possessed a 1775 edition of <span class="titleAttribution">Paradise Lost</span> (8th ed., 2 vols., printed in London for J. Beercroft et al.), the first volume of
                   which is missing. On the inside front cover of the surviving second volume is written
-                  in an ornate hand, “John Keats / 1810”, indicating that the book was probably given to the poet when he was a student at
+                  in an ornate hand, “John Keats / 1810,” indicating that the book was probably given to the poet when he was a student at
                   John Clarke’s school (see Owings 42-43).  It contains no marginalia.</span></span> 
             
-            Besides the text of <span class="titleAttribution">Paradise Lost</span>, this edition contains at the beginning of volume 1 a <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=11">Life of Milton</a> by Elijah Fenton, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=21">a postscript</a> that lists passages added to the 2nd, twelve-book edition of <span class="titleAttribution">Paradise Lost</span>, a Latin poem by Samuel Barrow, (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=25">In Paradisum Amissam Summi Poetae Johannes Miltoni</a>), Andrew Marvell’s poem <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=27">On Paradise Lost</a>, and Milton’s explanatory paragraph <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=29">On the Verse</a>. None of these items in the front matter is marked or annotated by Keats. The volumes
+            Besides the text of <span class="titleAttribution">Paradise Lost</span>, this edition contains at the beginning of volume 1 a “<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=11">Life of Milton</a>” by Elijah Fenton, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=21">a postscript</a> that lists passages added to the 2nd, twelve-book edition of <span class="titleAttribution">Paradise Lost</span>, a Latin poem by Samuel Barrow, “<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=25">In Paradisum Amissam Summi Poetae Johannes Miltoni</a>,” Andrew Marvell’s poem “<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=27">On Paradise Lost</a>,” and Milton’s explanatory paragraph “<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=29">On the Verse</a>.” None of these items in the front matter is marked or annotated by Keats. The volumes
             also include six engraved illustrations of Milton’s poem. Five of these are after
-            paintings by Henry Fuseli (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=33"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=44"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=45">Satan Calling Up His Legions</a> from book 1; <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=82">Satan Encountering Death at Hell’s Gate, Sin Interposing</a> from book 2; <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=33"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=143">Satan Starting from the Touch of Ithuriel’s Spear</a> from book 4; <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=218">The Triumphant Messiah</a> from book 6; and <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=384">The Explusion from Paradise</a> from book 12), and one is after William Hamilton (Eve Tempted</a> from book 9).  All are engraved by Daniel Lizars, a painter and engraver who worked
+            paintings by Henry Fuseli (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=33"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=44"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=45">Satan Calling Up His Legions</a> from book 1; <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=36"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=82">Satan Encountering Death at Hell’s Gate, Sin Interposing</a> from book 2; <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=33"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=143">Satan Starting from the Touch of Ithuriel’s Spear</a> from book 4; <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=218">The Triumphant Messiah</a> from book 6; and <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=384">The Explusion from Paradise</a> from book 12), and one is after William Hamilton (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=289">Eve Tempted</a> from book 9).  All are engraved by Daniel Lizars, a painter and engraver who worked
             in Edinburgh.
             <span class="noteTooltip">(NOTE)<span class="noteTooltipText">The artists are not identified in Keats’s edition; I was able to do so by consulting
                   Pointon 198; Ravenhall 529-89; and Weinglass 202-06.  Titles for each illustration derive from Weinglass and Pointon.  Information about Daniel Lizars is from <span class="titleAttribution">The Oxford Dictionary of National Biography online</span> (accessed 9 Nov. 2018).</span></span> <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=190">The title page vignette of Eve handing Adam an apple</a> has not been identified.<br><br>
@@ -63,9 +63,9 @@
             
             
             <h4>Transmission and Publication History</h4>Keats gave these volumes to Maria Dilke before he left for Italy; the second volume
-            is inscribed “<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=190">M<sup>rs</sup> Dilke from / her sincere friend / J. Keats.</a>” Keats’s <span class="titleAttribution">Paradise Lost</span> remained in the Dilke family throughout the nineteenth century.  Both volumes contain
+            is inscribed “<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=190">M<sup>rs</sup> Dilke from / her sincere friend / J. Keats</a>.” Keats’s <span class="titleAttribution">Paradise Lost</span> remained in the Dilke family throughout the nineteenth century.  Both volumes contain
             C. W. Dilke’s bookplate, and they eventually were donated to the Hampstead Libraries
-            by his grandson Sir Charles Dilke as part of the valuable Dilke bequest.  They now
+            by his grandson Sir Charles Dilke as part of the valuable Dilke bequest. They now
             belong to Keats House in Hampstead and are housed in the London Metropolitan Archives.
             
             <br><br>
@@ -75,7 +75,7 @@
             of his own edition of Milton’s poem, and Marianne Reynolds went to the trouble of
             reproducing not only the notes but all of Keats’s markings into her personal copy
             of <span class="titleAttribution">Paradise Lost</span>.
-            <span class="noteTooltip">(NOTE)<span class="noteTooltipText">The information about Mariane Reynolds comes from Forman 5: 291. The whereabouts of Mariane Reynolds’s and George Keats’s copies of <span class="titleAttribution">Paradise Lost</span> are currently unknown.             
+            <span class="noteTooltip">(NOTE)<span class="noteTooltipText">The information about Mariane Reynolds comes from Forman 5: 291. The whereabouts of Marianne Reynolds’s and George Keats’s copies of <span class="titleAttribution">Paradise Lost</span> are currently unknown.             
                   </span></span> 
             
             When Keats gave the volumes to Maria Dilke, the significance of the gift resided in
@@ -124,17 +124,17 @@
             <span class="noteTooltip">(NOTE)<span class="noteTooltipText">As, for example, <a href="http://melvillesmarginalia.org/">Melville’s Marginalia Online</a> is attempting to do.  Besides its transcription of the marginalia, Lau’s book contains
                   commentary on Keats’s notes and markings and on the practice of writing marginalia
                   in the early nineteenth century.  Much of the information in the present Introduction
-                  and the explanatory notes for this digital edition derives from Lau’s study, reprinted
+                  and the explanatory notes for this digital edition derive from Lau’s study, reprinted
                   with the permission of UP of Florida.
                   </span></span> <br><br>
             
             
             <h4>Dating the Marginalia</h4>Keats did not specify when he read and annotated his copy of <span class="titleAttribution">Paradise Lost</span>, and different dates have been proposed (see Lau 23), but the bulk of evidence points to early 1818 for this activity.  Benjamin Bailey
             told Richard Monckton Milnes in 1849 that when Keats visited him at Oxford in September
-            1817, he “was . . . far more enamoured of the beauties of Spenser &amp; the Faery Queen”” than of Milton’s epic and had not yet begun “[t]he subsequent study of Milton [that] gave his mind a mighty addition of energy
-            &amp; manly vigour”. This study Bailey, a self-styled “great student of Milton”, apparently urged Keats to undertake, perhaps showing Keats as a model his own edition
+            1817, he “was . . . far more enamoured of the beauties of Spenser &amp; the Faery Queen” than of Milton’s epic and had not yet begun “[t]he subsequent study of Milton [that] gave his mind a mighty addition of energy
+            &amp; manly vigour.” This study Bailey, a self-styled “great student of Milton,” apparently urged Keats to undertake, perhaps showing Keats as a model his own edition
             of Milton “with passages marked in ink, &amp; similar passages cited &amp; referred to, &amp; some M.S. notes.” Certainly, as Bailey explains, “We had much talk of Milton when Keats was at Oxford” (<span class="titleAttribution">The Keats Circle</span> 2: 283, 296), and this visit seems to have marked the beginning of Keats’s serious interest in
-            <span class="titleAttribution">Paradise Lost</span>.  References to the poem appear in a 22 November 1817 letter to Bailey (Keats, Letters 1: 185), and in January 1818 Keats wrote his poem “Lines on Seeing a Lock of Milton’s Hair”, in which he salutes Milton as “Chief of organic numbers” and characterizes himself as a worshipful votary offering “a burnt sacrifice of verse” to the elder poet’s “sacred and ennobled hearse”(1, 8-9).
+            <span class="titleAttribution">Paradise Lost</span>.  References to the poem appear in a 22 November 1817 letter to Bailey (Keats, <span class="titleAttribution">Letters</span> 1: 185), and in January 1818 Keats wrote his poem “Lines on Seeing a Lock of Milton’s Hair,” in which he salutes Milton as “Chief of organic numbers” and characterizes himself as a worshipful votary offering “a burnt sacrifice of verse” to the elder poet’s “sacred and ennobled hearse” (1, 8-9).
             <span class="noteTooltip">(NOTE)<span class="noteTooltipText">Keats’s poems are quoted from <span class="titleAttribution">The Poems of John Keats</span>, ed. Jack Stillinger, hereafter cited as <span class="titleAttribution">Poems</span>.
                   </span></span> 
             
@@ -150,7 +150,7 @@
             Some evidence does connect Keats’s reading of Milton’s poem with other periods of
             his life.  In the fall of 1818 Keats wrote his epic fragment <span class="titleAttribution">Hyperion</span>, which is heavily indebted to <span class="titleAttribution">Paradise Lost</span> in structure, theme, and style.  Although Miltonic elements in <span class="titleAttribution">Hyperion</span> could derive from an earlier reading of the poem, the extent of influence suggests
             a saturation in Milton that could be consonant with close reading and marking of <span class="titleAttribution">Paradise Lost</span> at this time.  One specific connection between this period and Keats’s marginalia
-            occurs in a 21 September 1818 letter to Dilke.  “I wish I could say Tom was any better”, Keats writes.  “His identity presses upon me so all day that I am obliged to go out—and although I
+            occurs in a 21 September 1818 letter to Dilke. “I wish I could say Tom was any better,” Keats writes. “His identity presses upon me so all day that I am obliged to go out—and although I
             intended to have given some time to study alone I am obliged to write, and plunge
             into abstract images to ease myself of his countenance his voice and feebleness—so
             that I live now in a continual fever—it must be poisonous to life although I feel
@@ -166,22 +166,22 @@
                   own anguish in the summer of 1820 when the volumes were annotated (“A Lamentable Lay” 13-22).   
                   </span></span> <br><br>
             
-            A draft of <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=188">Sonnet to Sleep</a> is written on the flyleaf of volume 2 of Keats’s <span class="titleAttribution">Paradise Lost</span>, and this poem is dated late April 1819 (<span class="titleAttribution">Poems</span> 646).  In addition, references to the fall of Adam and Eve and their expulsion from Eden
-            occur in March and April 1819 letters (<span class="titleAttribution">Letters</span> 2: 79, 101).  Keats was almost certainly reading <span class="titleAttribution">Paradise Lost</span> in the summer of 1819, for he tells both Bailey and Reynolds in August of that year
-            that “the Paradise Lost becomes a greater wonder” to him (<span class="titleAttribution">Letters</span> 2: 146; see also 139).  A 31 August 1819 letter to Taylor slightly misquotes <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=138"><span class="titleAttribution">PL</span> 4.683</a>—“responsive each to other’s note”—which is underscored in Keats’s copy of the poem (<span class="titleAttribution">Letters</span> 2: 153).  Finally, in 21 and 24 September letters to Reynolds and to George and Georgiana
+            A draft of <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=188">Sonnet to Sleep</a> is written on the flyleaf of volume 2 of Keats’s <span class="titleAttribution">Paradise Lost</span>, and this poem is dated late April 1819 (<span class="titleAttribution">Poems</span> 646). In addition, references to the fall of Adam and Eve and their expulsion from Eden
+            occur in March and April 1819 letters (<span class="titleAttribution">Letters</span> 2: 79, 101). Keats was almost certainly reading <span class="titleAttribution">Paradise Lost</span> in the summer of 1819, for he tells both Bailey and Reynolds in August of that year
+            that “the Paradise Lost becomes a greater wonder” to him (<span class="titleAttribution">Letters</span> 2: 146; see also 139). A 31 August 1819 letter to Taylor slightly misquotes <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=138"><span class="titleAttribution">PL</span> 4.683</a>—“responsive each to other’s note”—which is underscored in Keats’s copy of the poem (<span class="titleAttribution">Letters</span> 2: 153).  Finally, in 21 and 24 September letters to Reynolds and to George and Georgiana
             Keats, respectively, Keats rejects Milton’s language as artificial and claims, “I have but lately stood on my guard against Milton.  Life to him would be death to
             me” (<span class="titleAttribution">Letters</span> 2: 212; see also 167).  These statements may signal the end of Keats’s initial worshipful attitude toward
             the elder poet, though not of the latter’s impact on Keats’s poetry.  That Keats continued
             to draw upon <span class="titleAttribution">Paradise Lost</span> during this period is suggested by a number of parallels scholars have detected between
             Milton’s poem and both <span class="titleAttribution">Lamia</span> (written July and August 1819) and <span class="titleAttribution">The Fall of Hyperion</span> (July-September 1819). Indeed, both Stuart Sperry (<span class="titleAttribution">Keats the Poet</span> 313-14) and David Fairer (164) believe that <span class="titleAttribution">The Fall of Hyperion</span> reflects a more successful assimilation of Milton’s influence than does the earlier
             <span class="titleAttribution">Hyperion</span>.
-            <span class="noteTooltip">(NOTE)<span class="noteTooltipText">Scholars who have argued for parallels between <span class="titleAttribution">Paradise Lost</span> and <span class="titleAttribution">Lamia</span> include Gordon 435-37, 440-41; Stephenson; and Allott 616-48. Numerous works treat <span class="titleAttribution">The Fall of Hyperion</span> in relation to Milton, but, besides Sperry and Fairer, see especially Jonathan Bate, “Keats’s Two Hyperions”.   
+            <span class="noteTooltip">(NOTE)<span class="noteTooltipText">Scholars who have argued for parallels between <span class="titleAttribution">Paradise Lost</span> and <span class="titleAttribution">Lamia</span> include Gordon 435-37, 440-41; Stephenson; and Allott 616-48. Numerous works treat <span class="titleAttribution">The Fall of Hyperion</span> in relation to Milton, but, besides Sperry and Fairer, see especially Jonathan Bate, “Keats’s Two Hyperions.”   
                   </span></span> <br><br>
             
             On pages in which both markings and notes appear, it is clear that the markings were
             done first, for the annotations often curve around them (see, for example, notes in
-            response to <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=34"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=53"><span class="titleAttribution">PL</span> 1.598-99</a> and <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=77">2.546-52</a>). In addition, some notes refer to later passages of the poem.  For example, the
-            first note, written on <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=9">the half-title page of volume 1</a>, quotes “But his face / Deep Scars of thunder had entrench’d &amp;[c.]” from <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=34"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=53"><span class="titleAttribution">PL</span> 1.600-01</a>, on page 20 of Keats’s copy.  A note praising Milton’s use of the word “vale” in <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=44">1.321</a> also cites “the Next mention of Vale” in <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=77">2.546-47</a>. More significantly, the note extolling the Ceres and Proserpine passage in <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=126">4.268-72</a> cites as another example of “very extraordinary beauty” in the poem “Nor could the Muse defend her son”, from <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=224">7.37-38</a>.  Similarly, a note in book 7 describing Milton’s technique of “stationing” (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=195"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=234">volume 2, pages 42-43</a> of Keats’s copy) quotes “sagacious of his Quarry” from <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=312">10.281</a>.  These notes obviously were written with later passages clearly in mind. Keats may
+            response to <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=34"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=53"><span class="titleAttribution">PL</span> 1.598-99</a> and <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=36"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=77">2.546-52</a>). In addition, some notes refer to later passages of the poem.  For example, the
+            first note, written on <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=9">the half-title page of volume 1</a>, quotes “But his face / Deep Scars of thunder had entrench’d &amp;[c.]” from <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=34"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=53"><span class="titleAttribution">PL</span> 1.600-01</a>, on page 20 of Keats’s copy.  A note praising Milton’s use of the word “vale” in <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=44">1.321</a> also cites “the Next mention of Vale” in <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=36"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=77">2.546-47</a>. More significantly, the note extolling the Ceres and Proserpine passage in <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=126">4.268-72</a> cites as another example of “very extraordinary beauty” in the poem “Nor could the Muse defend her son,” from <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=224">7.37-38</a>.  Similarly, a note in book 7 describing Milton’s technique of “stationing” (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=195"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=234">volume 2, pages 42-43</a> of Keats’s copy) quotes “sagacious of his Quarry” from <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=312">10.281</a>.  These notes obviously were written with later passages clearly in mind. Keats may
             have initially read through the entire poem marking significant passages and then
             immediately have begun a second reading during which he wrote his notes; he may have
             written some notes during his initial reading and some later; or he may have written
@@ -189,11 +189,11 @@
             <br><br>
             
             Another possibility is that Keats remembered later passages of <span class="titleAttribution">Paradise Lost</span> from a much earlier reading. Keats was familiar with the poem before he read and
-            annotated his 1807 copy.  As mentioned previously (<a href="#intro-1775ref">see previous note</a>), Keats possessed a 1775 edition of <span class="titleAttribution">Paradise Lost</span> inscribed “John Keats / 1810”, at which time he was a student at John Clarke’s school. In the verse epistle “To Charles Cowden Clarke”, written in September 1816, Keats praises his friend and former schoolmaster for
+            annotated his 1807 copy.  As mentioned previously (<a href="#intro-1775ref">see note to first sentence of second paragraph</a>), Keats possessed a 1775 edition of <span class="titleAttribution">Paradise Lost</span> inscribed “John Keats / 1810,” at which time he was a student at John Clarke’s school. In the verse epistle “To Charles Cowden Clarke,” written in September 1816, Keats praises his friend and former schoolmaster for
             teaching him to appreciate “Miltonian storms, and more, Miltonian tenderness / Michael in arms, and more, meek
             Eve’s fair slenderness” (58-59). In addition, a number of scholars, beginning with Richard Woodhouse, have identified
-            allusions to <span class="titleAttribution">Paradise Lost</span> in Keats’s early poems, including “Imitation of Spenser”, “Calidore”, “To one who has been long in city pent”, “How many bards gild the lapses of time”, “Sleep and Poetry”, and <span class="titleAttribution">Endymion</span>.
-            <span class="noteTooltip">(NOTE)<span class="noteTooltipText">For allusions to <span class="titleAttribution">Paradise Lost</span> in “Imitation of Spenser” and “To one who has been long in city pent” see Sperry, “Richard Woodhouse’s Interleaved and Annotated Copy” 144-45, 149-50; for “How Many Bards” see Gleckner; for “Calidore”, “Sleep and Poetry”, and <span class="titleAttribution">Endymion</span> see Gordon. 
+            allusions to <span class="titleAttribution">Paradise Lost</span> in Keats’s early poems, including “Imitation of Spenser,” “Calidore,” “To one who has been long in city pent,” “How many bards gild the lapses of time,” “Sleep and Poetry,” and <span class="titleAttribution">Endymion</span>.
+            <span class="noteTooltip">(NOTE)<span class="noteTooltipText">For allusions to <span class="titleAttribution">Paradise Lost</span> in “Imitation of Spenser” and “To one who has been long in city pent” see Sperry, “Richard Woodhouse’s Interleaved and Annotated Copy” 144-45, 149-50; for “How Many Bards” see Gleckner; for “Calidore,” “Sleep and Poetry,” and <span class="titleAttribution">Endymion</span> see Gordon. 
                   </span></span> 
             
             In Bailey’s account, Keats was not unacquainted with Milton’s poetry in 1817 but did
@@ -207,10 +207,10 @@
             very different from the one conveyed in his <span class="titleAttribution">Paradise Lost</span> marginalia. In addition, the references to later passages in Keats’s notes seem consistent
             with a fresh reading of the poem and effort to record his response to the work as
             a whole, as Keats points out what he sees as recurring patterns and techniques (e.g.,
-            multiple instances of “extraordinary beauty” and of “stationing”).  Both Bailey’s and Keats’s references to the latter’s “study” of and “feast[ing] on” Milton in 1818 imply a methodical, focused course of reading that may well have involved
-            two sessions, the first dedicated to an initial marking of arresting passages and
-            the second, immediately following, in which Keats expressed in his notes some of his
-            major insights into and impressions of the poem.
+            multiple instances of “extraordinary beauty” and of “stationing”).  Both Bailey’s and Keats’s references to the latter’s “study” of and “feast[ing] on” Milton in 1818 imply a methodical, focused course of reading that may well have
+            involved two sessions, the first dedicated to an initial marking of arresting passages
+            and the second, immediately following, in which Keats expressed in his notes some
+            of his major insights into and impressions of the poem.
             <span class="noteTooltip">(NOTE)<span class="noteTooltipText">Jackson believes “It is quite likely that the marking was done first, the extended note-writing later” (194).
                   </span></span> <br><br>
             
@@ -231,17 +231,17 @@
                   </span></span> 
             
             This may be Keats’s general practice, though as Kucich says, he did not adhere to
-            it with “systematic rigidity” (“A Lamentable Lay” 9n22).  Numerous passages in Keats’s copy of <span class="titleAttribution">Paradise Lost</span> are both underscored and marked with marginal lines, seemingly as a way to give more
+            it with “systematic rigidity”(“A Lamentable Lay” 9n22).  Numerous passages in Keats’s copy of <span class="titleAttribution">Paradise Lost</span> are both underscored and marked with marginal lines, seemingly as a way to give more
             emphasis than either type of marking alone could convey (see, for example, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=126">4.271-72</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=141">797-98</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=212">6.654-55</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=270">9.121-22</a>).  
             
             <br><br>
             
             Jackson claims that Keats followed a system of marking in which both underscoring
             and vertical lines denote appreciation of passages, whereas crosses indicate disapproval
-            (182).  Two crosses (or “X’s”) appear in the <span class="titleAttribution">Paradise Lost</span> marginalia, but only one of these is aligned with a critical remark. Alongside <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=268">9.43-47</a> (also marked with a vertical line), where Milton expresses his fear that “an age too late” may “damp my intended wing”, Keats makes an “X” and then adds the question, written sideways in the left margin
-            and preceded with an “X,” “Had not Shakspeare [sic] liv’d?”, challenging Milton’s claim that the age in which he lived was unfavorable to poetry.
-            By contrast, an “X” beside <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=108"><span class="titleAttribution">PL</span> 3.488</a> (“Blows them traverse ten thousand leagues awry”) is keyed to a note that conveys admiration for the way “This part in its sound is unaccountably expressive of the description”. If Jackson’s point about Keats’s use of crosses is unsupported by the <span class="titleAttribution">Paradise Lost</span> marginalia, however, she is accurate in characterizing them as predominantly “of the booster variety”, drawing attention to passages and effects Keats admired (187).  Besides the example cited above, only one other note in the <span class="titleAttribution">Paradise Lost</span> volumes is critical.  In the margin of <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=99">volume 1, page 65</a>, containing part of the dialogue between God and Christ about the fate of mankind,
-            Keats writes, “Hell is finer than this”.
+            (182).  Two crosses (or “X’s”) appear in the <span class="titleAttribution">Paradise Lost</span> marginalia, but only one of these is aligned with a critical remark. Alongside <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=268">9.43-47</a> (also marked with a vertical line), where Milton expresses his fear that “an age too late” may “damp my intended wing,” Keats makes an “X” and then adds the question, written sideways in the left margin
+            and preceded with an “X,” “Had not Shakspeare [sic] liv’d?,” challenging Milton’s claim that the age in which he lived was unfavorable to poetry.
+            By contrast, an “X” beside <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=108"><span class="titleAttribution">PL</span> 3.488</a> (“Blows them traverse ten thousand leagues awry”) is keyed to a note that conveys admiration for the way “This part in its sound is unaccountably expressive of the description.” If Jackson’s point about Keats’s use of crosses is unsupported by the <span class="titleAttribution">Paradise Lost</span> marginalia, however, she is accurate in characterizing them as predominantly “of the booster variety,” drawing attention to passages and effects Keats admired (187).  Besides the example cited above, only one other note in the <span class="titleAttribution">Paradise Lost</span> volumes is critical.  In the margin of <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=99">volume 1, page 65</a>, containing part of the dialogue between God and Christ about the fate of mankind,
+            Keats writes, “Hell is finer than this.”
             
             <br><br>
             
@@ -258,9 +258,9 @@
             
             In a 21 September 1819 letter to Reynolds in which he announces that he has abandoned
             <span class="titleAttribution">Hyperion</span> because “there were too many Miltonic inversions in it,” Keats proposes that his friend “pick out some lines from <span class="titleAttribution">Hyperion</span> and put a mark X to the false beauty proceeding from art, and one [draws double vertical
-            lines] to the true voice of feeling.”  In the next sentence, however, Keats confesses, “Upon my soul ‘twas imagination I cannot make out the distinction—Every now and then
-            there is a Miltonic intonation—But I cannot make the division properly” (<span class="titleAttribution">Letters</span> 2: 167).  In this passage Keats announces a system of marking (basically the one Jackson
-            says he follows) and then immediately rescinds it as unworkable.  Along the same lines,
+            lines] to the true voice of feeling.” In the next sentence, however, Keats confesses, “Upon my soul ‘twas imagination I cannot make out the distinction—Every now and then
+            there is a Miltonic intonation—But I cannot make the division properly” (<span class="titleAttribution">Letters</span> 2: 167). In this passage Keats announces a system of marking (basically the one Jackson
+            says he follows) and then immediately rescinds it as unworkable. Along the same lines,
             he may have set about annotating his copy of <span class="titleAttribution">Paradise Lost</span> with a particular strategy in mind but then have deviated from it upon occasion,
             as his responses to particular passages dictated. Readers of this digital edition
             of Keats’s <span class="titleAttribution">Paradise Lost</span> may discern hitherto unnoticed rationales for Keats’s annotating practices.
@@ -273,7 +273,7 @@
             face, which “Deep scars of thunder had intrench’d” (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=53">1.600-01</a>), a line that is not only underscored but also quoted in the first of Keats’s notes,
             written on <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=9">the half-title page of volume 1</a>. Similarly, “round [Satan] throws his baleful eyes” (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=36">1.56</a>) is underscored and quoted in two notes: to <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=35"><span class="titleAttribution">PL</span> 1.1-22</a> and <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=96">3.26-50</a>.  Keats also marks the passage in book 4 when Satan, disguised as an angel, first
             sees Eden and is torn with conflicting emotions, so that “each passion dimm’d his face, / Thrice changed with pale, ire, envy, and despair;
-            / Which marr’d his borrow’d visage” (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=122">4.114-16</a>).  A few lines below this passage, the angel Uriel “on the Assyrian mount / Saw him [Satan] disfigured” (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=122">4.126-27</a>); these lines are distinguished by both underscoring and triple marginal lines and
+            / Which marr’d his borrow’d visage” (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=122">4.114-16</a>). A few lines below this passage, the angel Uriel “on the Assyrian mount / Saw him [Satan] disfigured” (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=122">4.126-27</a>); these lines are distinguished by both underscoring and triple marginal lines and
             are also quoted in Keats’s note on <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=195"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=235"><span class="titleAttribution">PL</span> 7.422-23</a>.  Keats also marks passages describing the facial expressions of Chaos (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=90">2.988-90</a>), Christ (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=102">3.266-67</a>), and the angel Raphael (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=260">8.560</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=262">618-20</a>), among others.  
             <br><br>
             
@@ -296,7 +296,7 @@
             <br><br>
             
             In a note responding to <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=235"><span class="titleAttribution">PL</span> 7.422-23</a>, Keats praises what he calls Milton’s “<span style="font-style:italic;">stationing or statu[a]ry</span>.” Milton, writes Keats, “is not content with simple description, he must station—Thus here, we not only see
-            how the Birds ‘<span style="font-style:italic;">with clang despised the ground</span>’ but we see them ‘<span style="font-style:italic;">under a cloud in prospect</span>’ So we see Adam ‘<span style="font-style:italic;">Fair indeed and tall—under a plantane</span>’ and so we see Satan ‘<span style="font-style:italic;">disfigured—on the Assyrian Mount</span>’.”  As Nancy Goslee explains, the term “stationing” derives from theories of the visual arts and refers to a static composition of one
+            how the Birds ‘<span style="font-style:italic;">with clang despised the ground</span>’ but we see them ‘<span style="font-style:italic;">under a cloud in prospect</span>’ So we see Adam ‘<span style="font-style:italic;">Fair indeed and tall—under a plantane</span>’ and so we see Satan ‘<span style="font-style:italic;">disfigured—on the Assyrian Mount</span>.’” As Nancy Goslee explains, the term “stationing” derives from theories of the visual arts and refers to a static composition of one
             or more figures “caught in a suspended, significant moment” or positioned within a particular setting (205-06).
             <span class="noteTooltip">(NOTE)<span class="noteTooltipText">See also Ian Jack 48-49, 141-42, 162ff. 
                   </span></span> 
@@ -305,10 +305,10 @@
             
             <br><br>
             
-            Keats also frequently highlights descriptions of settings in <span class="titleAttribution">Paradise Lost</span>. The extended initial description of Eden in book 4 is heavily marked (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=123">4.132-68</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=125">225-30</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=125">237-50</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=126">254-81</a>).  In these passages, Keats departs from the visual emphasis of most of the marked
+            Keats also frequently highlights descriptions of settings in <span class="titleAttribution">Paradise Lost</span>. The extended initial description of Eden in book 4 is heavily marked (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=123">4.132-68</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=125">225-30</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=125">237-50</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=126">254-81</a>). In these passages, Keats departs from the visual emphasis of most of the marked
             lines describing characters and responds to various sensory impressions. For example,
             Keats frequently marks references to mild, balmy, sweet-smelling air, as in accounts
-            of “the soft delicious air,”“the buxom air, embalm’d / With odorus,” and the “pure, now purer air” of Paradise, where “gentle gales / Fanning their odoriferous wings, dispense / Native perfumes” (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=73">2.400</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=86">842-43</a>; <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=123">4.153</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=123">156-58</a>).  Keats also underscores the famous simile describing the pleasure of a city dweller
+            of “the soft delicious air,” “the buxom air, embalm’d / With odorus,” and the “pure, now purer air” of Paradise, where “gentle gales / Fanning their odoriferous wings, dispense / Native perfumes” (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=73">2.400</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=86">842-43</a>; <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=123">4.153</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=123">156-58</a>). Keats also underscores the famous simile describing the pleasure of a city dweller
             who
             <br>
             <span class="blockQuotation">Forth issuing on a summer’s morn, to breathe<br>
@@ -321,14 +321,16 @@
                   out for special attention.</span></span> </span><br>
             <br><br>
             
-            Keats does not only note pleasant odors, however.  He also underscores “Asmodëus with the fishy fume” (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=124">4.168</a>) and the passage in which Death “snuff’d the smell / Of mortal change on Earth” (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=311">10.272-73</a>; see also <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=312">10.279-81</a>).  The lines just quoted have been linked to <span class="titleAttribution">Hyperion</span> 1.167-68, in which the old sun god “still snuff’d the incense, teeming up / From man.”<span class="noteTooltip">(NOTE)<span class="noteTooltipText">Allott 406n.
+            Keats does not note only pleasant odors, however.  He also underscores “Asmodëus with the fishy fume” (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=124">4.168</a>) and the passage in which Death “snuff’d the smell / Of mortal change on Earth”(<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=311">10.272-73</a>; see also <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=312">10.279-81</a>).  The lines just quoted have been linked to <span class="titleAttribution">Hyperion</span> 1.167-68, in which the old sun god “still snuff’d the incense, teeming up / From man.”
+            <span class="noteTooltip">(NOTE)<span class="noteTooltipText">Allott 406n.
                   </span></span> <br><br>
             
             Leigh Hunt reported that “Keats . . . observed to me, that Milton, in various parts of his writings, has shown
             himself a bit of an epicure, and loves to talk of good eating” (<span class="titleAttribution">Autobiography</span> 2: 209). Hunt does not mention what particular passages from Milton Keats cited, but a number
             of lines describing eating, appetite, and taste are marked in Keats’s copy of <span class="titleAttribution">Paradise Lost</span>. The account of the meal Eve prepares for Adam and Raphael, which has been linked
             to the food Porphyro prepares for Madeline in <span class="titleAttribution">The Eve of St. Agnes</span> and the half-eaten meal the speaker discovers at the beginning of <span class="titleAttribution">The Fall of Hyperion</span>, is heavily underscored (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=160">5.303-07</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=161">326-27</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=161">341-49</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=162">367-70</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=163">391-95</a>).
-            <span class="noteTooltip">(NOTE)<span class="noteTooltipText">Gordon (445) and Watkins (21-22) compare the food preparations in <span class="titleAttribution">Paradise Lost</span> to those in <span class="titleAttribution">The Eve of St. Agnes</span>. Gordon (445), Sperry (<span class="titleAttribution">Keats the Poet</span> 317-18), Allott (659n), Barnard (678), and Jonathan Bate (“Keats’s Two Hyperions” 330) compare Eve’s meal to the one in <span class="titleAttribution">The Fall of Hyperion</span>. Gordon (445) also draws parallels between the <span class="titleAttribution">Paradise Lost</span> passage and “To Autumn.”</span></span> 
+            <span class="noteTooltip">(NOTE)<span class="noteTooltipText">Gordon (445) and Watkins (21-22) compare the food preparations in <span class="titleAttribution">Paradise Lost</span> to those in <span class="titleAttribution">The Eve of St. Agnes</span>. Gordon (445), Sperry (<span class="titleAttribution">Keats the Poet</span> 317-18), Allott (659n), Barnard (678), and Jonathan Bate (“Keats’s Two Hyperions” 330) compare Eve’s meal to the one in <span class="titleAttribution">The Fall of Hyperion</span>. Gordon (445) also draws parallels between the <span class="titleAttribution">Paradise Lost</span> passage and “To Autumn.”
+                  </span></span> 
             
             Keats also marks passages describing the angels’ eating habits and digestive systems
             (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=164">5.434-43</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=169">630-39</a>), as well as one in which Adam tells Raphael that the latter’s discourse is sweeter
@@ -336,22 +338,21 @@
             the hour / Of sweet repast” (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=251">8.212-14</a>).  The role of appetite in the temptation scene likewise is noted.  Keats underscores
             a passage in which the serpent tells Eve that, as he approached the tree of knowledge,
             <br>
-            <span class="blockQuotation">from the boughs a savoury odour blown,<br>
+            <span class="blockQuotation"> . . . from the boughs a savoury odour blown,<br>
             Grateful to appetite, more pleased my sense<br>
             Than smell of sweetest fennel, or the teats<br>
             Of ewe or goat dropping with milk at even,<br>
             Unsuck’d of lamb or kid, that tend their play.<br>
              (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=283">9.579-83</a>)</span><br>
             
-            Keats also underscores the lines on Eve: “Greedily she ingorged without restraint,
-            / And knew not eating death” (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=290">9.791-92</a>).  
+            Keats also underscores the lines on Eve: “Greedily she ingorged without restraint, / And knew not eating death” (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=290">9.791-92</a>).  
             
             
             <br><br>
             
             Just as he notes both sweet and rank odors, however, Keats also marks foul as well
             as pleasant eating experiences in <span class="titleAttribution">Paradise Lost</span> (Eve’s eating of fruit from the tree of knowledge could of course be considered both
-            pleasant and unpleasant).  Several lines are underscored describing the disgust of
+            pleasant and unpleasant). Several lines are underscored describing the disgust of
             the fallen angels in hell when they eat fruit that turns to ashes in their mouths:
             “which the offended taste / With spattering noise rejected” and “With hatefullest disrelish writhed their jaws” (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=320">10.566-67</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=320">569</a>).  Keats also underscores the grim passage in which Death, learning that he will
             gain access to all living things on earth after the Fall, “Grinn’d horrible a ghastly smile, to hear / His famine should be fill’d, and bless’d
@@ -368,11 +369,11 @@
             <br><br>
             
             Keats also appears to have relished the euphony or sound effects of Milton’s verse.
-            As previously mentioned, a note on <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=108"><span class="titleAttribution">PL</span> 3.488</a>—“Blows them traverse ten thousand leagues awry”—comments approvingly, “This part in its sound is unaccountably expressive of the description.” One pattern in Keats’s marking that also suggests an appreciation for the sound of
-            words is his frequent underscoring of lists of names and place names.  For example,
+            As previously mentioned, a note on <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=108"><span class="titleAttribution">PL</span> 3.488</a>—“Blows them traverse ten thousand leagues awry”—comments approvingly, “This part in its sound is unaccountably expressive of the description.” One pattern in Keats’s marking that also suggests an appreciation for the sound
+            of words is his frequent underscoring of lists of names and place names.  For example,
             Keats underscores
             <br>
-            <span class="blockQuotation">yet had his [Dagon’s] temple high<br>
+            <span class="blockQuotation"> . . . yet had his [Dagon’s] temple high<br>
             Rear’d in Azotus, dreaded through the coast<br>
             Of Palestine, in Gath and Ascalon,<br>
             And Accaron and Gaza’s frontier bounds.<br>
@@ -381,7 +382,7 @@
             Of Abbana and Pharphar, lucid streams.<br>
               (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=49">1.463-69</a>)</span><br>
             
-            Marked passages containing similar lists of euphonious names include <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=47">1.392-411</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=52">576-87</a>; <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=107">3.431-39</a>; <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=125">4.210-14</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=126">268-81</a>; <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=316">10.431-36</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=323">695-706</a>; and <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=349">11.386-411</a>.  The passage in <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=323">10.695-706</a> contains a reference to “Notus and Afer black with thunderous clouds / From Serraliona,” which Keats quotes in his 3 May 1818 letter to Reynolds (<span class="titleAttribution">Letters</span> 1: 276).  Leigh Hunt wrote an essay on the “Originality of Milton’s Harmonious Use of Proper Names,” in which he celebrates Milton’s “fondness for heaping together those sonorous proper names, which . . . are so managed
+            Marked passages containing similar lists of euphonious names include <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=47">1.392-411</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=52">576-87</a>; <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=107">3.431-39</a>; <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=125">4.210-14</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=126">268-81</a>; <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=316">10.431-36</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=323">695-706</a>; and <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=349">11.386-411</a>.  The passage in <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=323">10.695-706</a> contains a reference to “Notus and Afer black with thunderous clouds / From Serraliona,” which Keats quotes in his 3 May 1818 letter to Reynolds (<span class="titleAttribution">Letters</span> 1: 276). Leigh Hunt wrote an essay on the “Originality of Milton’s Harmonious Use of Proper Names,” in which he celebrates Milton’s “fondness for heaping together those sonorous proper names, which . . . are so managed
             as to charm and exalt the ear with an organ-like music,” passages Hunt characterizes as “islands of poetical beauty” (“My Books” 387, 392).  This essay was written after Keats’s death, but Hunt may have shared his appreciation
             of “harmonious” names in <span class="titleAttribution">Paradise Lost</span> in conversation with Keats.  Or, as with Keats’s remark on Milton’s love of good
             eating, Keats may have alerted Hunt to the pleasing sound effects of the poem’s lists
@@ -428,8 +429,9 @@
             <span class="noteTooltip">(NOTE)<span class="noteTooltipText">“Fine Phrases” is quoted from the 14 August 1819 letter in which Keats tells Bailey, “I look upon fine Phrases like a Lover.” This statement comes immediately after the remark, “Shakspeare [sic] and the <span class="titleAttribution">paradise Lost</span> every day become greater wonders to me” (<span class="titleAttribution">Letters</span> 2: 139).
                   </span></span>   
             
-            Jonathan Shears claims that Keats’s “privileging of parts or fragments” (8), “delight in the music of Milton’s verse” (163), and emphasis on “pictorial scenes” (172) at the expense of “the logical progression of the argument” (163), constitute a significant misreading of <span class="titleAttribution">Paradise Lost</span> that helps to explain why Keats could not finish <span class="titleAttribution">Hyperion</span>.  Unlike Milton, Keats had no “presiding argument, or established symbolic order, of his own” to underpin his epic poem, and his disregard for key narrative features such as transitions
-            and patterns of cause and effect translate into a lack of meaningful action in <span class="titleAttribution">Hyperion</span> (171, 173-74).
+            Jonathan Shears claims that Keats’s “privileging of parts or fragments” (8), “delight in the music of Milton’s verse” (163), and emphasis on “pictorial scenes” (172) at the expense of “the logical progression of the argument” (163), constitute a significant misreading of <span class="titleAttribution">Paradise Lost</span> that helps to explain why Keats could not finish <span class="titleAttribution">Hyperion</span>.  Unlike Milton, Keats had no “presiding argument, or established symbolic order, of his own” to underpin his epic poem, and his disregard for key narrative features such as
+            transitions and patterns of cause and effect translate into a lack of meaningful action
+            in <span class="titleAttribution">Hyperion</span> (171, 173-74).
             <span class="noteTooltip">(NOTE)<span class="noteTooltipText">R. D. Havens (208-09), and Paul Sherwin (386-89) also comment on the lack of action and the static, sculpturesque figures in <span class="titleAttribution">Hyperion</span>, contrasting these features to Milton’s more dynamic narrative.
                   </span></span> 
             Ultimately, Shears argues, Keats’s marginalia indicate that the Romantic poet read
@@ -444,10 +446,10 @@
             that establishes a clear, determinate meaning to the characters and events it depicts.
             Among Keats’s circle of friends, one finds a similar emphasis on isolated descriptive
             passages, especially those depicting static, pictorial scenes.  William Hazlitt, in
-            his lecture “On Shakespeare and Milton,” which Keats attended in January 1818 when he was beginning to read and annotate his
-            copy of <span class="titleAttribution">Paradise Lost</span>, describes the central characters of the poem in terms that recall Keats’s note on
-            Milton’s gift for “stationing or statu[a]ry”:  “the persons of Adam and Eve, of Satan, &amp;c. are always accompanied, in our imagination,
-            with the grandeur of the naked figure; they convey to us the ideas of sculpture.” After quoting <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=112"><span class="titleAttribution">PL</span> 3.621-44</a>, Hazlitt concludes, “The figures introduced here have all the elegance and precision of a Greek statue”” (5: 60). Similarly, in his <span class="titleAttribution">Round Table</span> essay on “Milton’s Eve” (a book Keats was reading with Benjamin Bailey in September 1817 [see <span class="titleAttribution">Letters</span> 1: 166]), Hazlitt states that “The figures both of <span style="font-style:italic;">Adam</span> and <span style="font-style:italic;">Eve</span> are very prominent in this poem.  As there is little action in it, the interest is
+            his lecture “On Shakespeare and Milton,” which Keats attended in January 1818 when he was beginning to read and annotate
+            his copy of <span class="titleAttribution">Paradise Lost</span>, describes the central characters of the poem in terms that recall Keats’s note on
+            Milton’s gift for “stationing or statu[a]ry”: “the persons of Adam and Eve, of Satan, &amp;c. are always accompanied, in our imagination,
+            with the grandeur of the naked figure; they convey to us the ideas of sculpture.” After quoting <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=112"><span class="titleAttribution">PL</span> 3.621-44</a>, Hazlitt concludes, “The figures introduced here have all the elegance and precision of a Greek statue” (5: 60). Similarly, in his <span class="titleAttribution">Round Table</span> essay on “Milton’s Eve” (a book Keats was reading with Benjamin Bailey in September 1817 [see <span class="titleAttribution">Letters</span> 1: 166]), Hazlitt states that “The figures both of <span style="font-style:italic;">Adam</span> and <span style="font-style:italic;">Eve</span> are very prominent in this poem.  As there is little action in it, the interest is
             kept up by the beauty and grandeur of the images” (4: 106).  In “On Shakespeare and Milton,” Hazlitt seeks to dispel what he says is “a common perversity of criticism,” the belief that Milton’s “ideas were musical rather than picturesque.” Although Hazlitt agrees that Milton’s verse is “in the highest degree musical,” he asserts that it is also vividly pictorial. In fact, claims Hazlitt, “There is . . . the same depth of impression in his descriptions of the objects of
             all the different senses, whether colours, or sounds, or smells” (5: 59). Hazlitt’s criticism may have helped alert Keats to the striking visual and other
             sensory descriptive passages in <span class="titleAttribution">Paradise Lost</span>. 
@@ -456,8 +458,8 @@
             
             Leigh Hunt delighted in the pictorial elements of poetry and focused on detached scenes
             rather than continuous narrative or unifying ideas in his reading of long poems. 
-            Hunt’s essay “A New Gallery of Pictures”” declares that <span class="titleAttribution">The Faerie Queene</span>“contains a store of masterly, poetical pictures” (161), a claim Hunt supports by providing short quotations from the poem and naming
-            an artist who would be appropriate for depicting the scene each describes.  Greg Kucich
+            Hunt’s essay “A New Gallery of Pictures” declares that <span class="titleAttribution">The Faerie Queene</span> “contains a store of masterly, poetical pictures” (161), a claim Hunt supports by providing short quotations from the poem and naming
+            an artist who would be appropriate for depicting the scene each describes. Greg Kucich
             argues that Hunt “taught Keats how to read <span class="titleAttribution">The Faerie Queene</span> as a gallery of discrete, gorgeous pictures. . . . instead of following his narratives” (<span class="titleAttribution">Keats, Shelley, and Romantic Spenserianism</span> 150), and Hunt no doubt approached <span class="titleAttribution">Paradise Lost</span> in a similar manner. R. Brimley Johnson claims that Hunt, like Matthew Arnold, practiced
             a form of literary criticism that involved selecting and commenting upon exemplary
             passages of poetry, rather than analyzing works as a whole (113). Hunt’s <span class="titleAttribution">Imagination and Fancy</span> (1844) follows this model, as it is composed of a series of extracts from various
@@ -477,7 +479,7 @@
             in Hunt’s <span class="titleAttribution">The Story of Rimini</span> (1816) for “the narrative momentum to dissipate” as the poem lingers on descriptions of settings, costumes, animals, or incidental
             visual effects was one of the features of the poem that John Gibson Lockhart and other
             Tory reviewers castigated as a vulgar “Cockney” style.  What these reviewers objected
-            to, Cronin states, was the way in which <span class="titleAttribution">Rimini</span>“refuses in its style that graceful subordination of part to whole, and of the less
+            to, Cronin states, was the way in which <span class="titleAttribution">Rimini</span> “refuses in its style that graceful subordination of part to whole, and of the less
             to the more important that secures the economy of classical narrative” (788). Clearly Keats was not alone among Romantic writers in his attention to passages
             of striking visual, auditory, tactile, and olfactory imagery in <span class="titleAttribution">Paradise Lost</span>, often to the neglect of other passages such as characters’ speeches that advance
             the plot and develop its central argument.
@@ -528,7 +530,7 @@
             his most important literary role models or “Presiders” (<span class="titleAttribution">Letters</span> 1: 142). The marginalia also provide evidence of reading practices and attitudes toward
             Milton characteristic of the period generally and of Keats’s coterie in particular.
             As Jackson says, “Marginalia . . . document the reader’s relation to the text.  They bring us about
-            as close as we can reasonably expect ever to get to the reader’s processes of thought” (297).  Or, to adopt a phrase from Leigh Hunt, the <span class="titleAttribution">Paradise Lost</span> marginalia allow us to read Milton’s epic “on a principle of co-perusal” with John Keats (<span class="titleAttribution">Imagination and Fancy</span> iii; Hunt’s emphasis).
+            as close as we can reasonably expect ever to get to the reader’s processes of thought” (297).  Or, to adopt a phrase from Leigh Hunt, the <span class="titleAttribution">Paradise Lost</span> marginalia allow us to read Milton’s epic “<span style="font-style:italic;">on a principle of co-perusal</span>” with John Keats (<span class="titleAttribution">Imagination and Fancy</span> iii; Hunt’s emphasis).
             <br><br>
             
             <br><h3 id="works_cited">Works Cited</h3><a href="keats_zotero_bib.php" title="Works Cited">Click here to view works cited.</a><br><h3 id="contrib">Contributors</h3><span style="font-size:80%;">
