@@ -27,12 +27,10 @@
             </p>
 
 
-            <p>We are assessing avenues of further research in digital marginalia studies. It is rich territory for scholarly exploration, and digital humanities communities could do much to build further infrastructure for supporting it. The TEI-XML encoding of Keats's <span class="titleAttribution">Paradise Lost</span> is a contribution in that effort, and documentation will be added as the website moves through its early developmental phases in 2018.
+            <p>We are assessing avenues of further research in digital marginalia studies. It is rich territory for scholarly exploration, and the digital humanities communities could do much to build further infrastructure for supporting it. We hope the TEI-XML encoding of Keats's <span class="titleAttribution">Paradise Lost</span> is a helpful contribution in that effort.
 			</p>
 
-			<p>
-			During this "beta" period, the structure and design of the site may be revised and refined.
-            </p>
+
             
 		</div>
 	</div>

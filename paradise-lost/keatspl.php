@@ -116,7 +116,7 @@
                   Keats’s <span class="italic_text ">Paradise Lost</span> that had not been previously published by “J. F. C.” or James Freeman Clarke in the
                   American periodical <span class="italic_text ">The Dial</span> for April 1843 (see discussion in Introduction, section on “Transmission and Publication
                   History”).  Herbert Lindon was the son of Louis and Fanny Brawne Lindon.  Keats gave
-                  his folio copy of Mr. William Shakespeare’s Comedies, Histories, &amp; Tragedies, into which he written the two poems Dilke mentions, to Fanny Brawne before he left
+                  his folio copy of <span class="italic_text ">Mr. William Shakespeare’s Comedies, Histories, &amp; Tragedies</span>, into which he written the two poems Dilke mentions, to Fanny Brawne before he left
                   for Italy.
                   
                   </span><br><br></div>
@@ -297,7 +297,7 @@
                   270).  Others, however, note that choices between sensuality and other temptations
                   of this world versus disciplined obedience are central to Milton’s poetry, from “L’Allegro”
                   and “Il Penseroso” to <span class="italic_text ">Comus</span>, <span class="italic_text ">Paradise Lost</span>, <span class="italic_text ">Samson Agonistes</span>, and <span class="italic_text ">Paradise Regained</span>, so that Keats may be identifying a struggle he shares with the elder poet (see especially
-                  Leslie Brisman, ix-54).  Newlyn claims that “It is to moments of choice” in <span class="italic_text ">Paradise Lost</span> “that the Romantics frequently return, especially in their narrative poetry” (85).
+                  Leslie Brisman ix-54).  Newlyn claims that “It is to moments of choice” in <span class="italic_text ">Paradise Lost</span> “that the Romantics frequently return, especially in their narrative poetry” (85).
                   Havens notes both similarities and differences between Keats and Milton regarding
                   the conflict between duty and “poetical Luxury” (213-14).
                   
@@ -915,7 +915,7 @@
                   There is always a great charm in the openings of great Poems—more particularly where
                   the action begins—that of Dante's Hell—of Hamlet. the first step must be heroic and
                   full of power and nothing can be more impressive and shaded than the commencement
-                  of the action here <span class="single_underline ">'Round he throws his baleful eyes'</span>—
+                  of the action here <span class="single_underline "><a href="#kpl36">'Round he throws his baleful eyes'</a></span>—
                   
                   </span><br><br></div>
             <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
@@ -965,6 +965,14 @@
             </a></div>
             
             <br>
+            
+            
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  Keats quotes “round he throws his baleful eyes” twice in his annotations: first in
+                  <a href="#kpl35">his note on PL 1-22</a> and next in <a href="#kpl97">his note on 3.26-50</a>.
+                  
+                  </span><br><br></div>
             
             Illumine, what is low raise and support;<br>
             <span class="single_underline ">That to the height of this great argument</span><br>
@@ -1039,7 +1047,7 @@
                   of spiritual understanding") to his remarks on Milton’s originality in <a href="#kpl126">his note to page 91 of volume 1 (<span class="italic_text ">PL</span> book 4) </a>. <br><br>
                   By “ade” Keats presumably means “aid.”<br><br>
                   Keats suggests that Milton’s blindness enhanced his creativity by liberating his imagination
-                  over actual, visual perception. In the same way Keats lauds Homer’s “triple sight in blindness keen” in his 1818 sonnet “To Homer” and writes “Milton” beside a passage in <span class="italic_text ">The Faerie Queene</span> that describes a holy man who is blind in “earthly Eyen,” but whose spirit is “wondrous quick and pierceant . . . As Eagle’s Eye, that can behold the Sun” (book 1, canto 10, stanza 47; see Lowell 2: 570).  Similarly, in The <span class="italic_text ">Fall of Hyperion</span> Moneta’s eyes are “Half closed, and visionless entire they seem’d / Of all external things” (1.267-68), though the goddess possesses the wisdom of the ages and bestows on the
+                  over actual, visual perception. In the same way Keats lauds Homer’s “triple sight in blindness keen” in his 1818 sonnet “To Homer” and writes “Milton” beside a passage in <span class="italic_text ">The Faerie Queene</span> that describes a holy man who is blind in “earthly Eyen,” but whose spirit is “wondrous quick and pierceant . . . As Eagle’s Eye, that can behold the Sun” (book 1, canto 10, stanza 47; see Lowell 2: 570).  Similarly, in <span class="italic_text ">The Fall of Hyperion</span> Moneta’s eyes are “Half closed, and visionless entire they seem’d / Of all external things” (1.267-68), though the goddess possesses the wisdom of the ages and bestows on the
                   speaker “A power within me of enormous ken, / To see as a God sees” (1.303-04).  One can also compare the passage in “Ode to a Nightingale” in which the speaker is impelled to “guess each sweet” by means of his imagination when he can no longer “see what flowers are at my feet” (43, 41).  Interestingly, however, Keats does not mark <a href="#kpl96"><span class="italic_text ">PL</span> 3.51-55,</a> where Milton claims that his blindness is compensated for by a “celestial light” that “shine[s] inward” and “plant[s] eyes” in his mind so that he “may see and tell / Of things invisible to mortal sight.” Perhaps Keats was unsympathetic with the explicitly religious nature of the inspiration
                   Milton invokes in this passage.  For a discussion of <a href="#kpl96"><span class="italic_text ">PL</span> 3.51-55</a> in relation to “Ode to a Nightingale,” see Revard (211-14).  For a comparison of this note to others in Keats’s copy of
                   <span class="italic_text ">PL</span>, <a href="#kpl44">see note to <span class="italic_text ">PL</span> 1.321</a>.<br><br>
@@ -1153,6 +1161,15 @@
             
             <br>
             
+            
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  Compare lines 157-8 to the following passage in Hazlitt’s lecture “On Shakespeare and Milton”: “He [Satan] expresses the sum and substance of all ambition in one line.  ‘Fallen
+                  cherub, to be weak is miserable, doing or suffering!’” (5: 64).
+                  
+                  
+                  </span><br><br></div>
+            
             Fearless, endanger'd Heaven's perpetual King,<br>
             And put to proof his high supremacy,<br>
             Whether upheld by strength, or chance, or fate;<br>
@@ -1233,7 +1250,7 @@
             What reinforcement we may gain from hope,<br>
             If not what resolution from despair.<br>
             <span class="tab_space">   </span><span class="single_underline ">Thus Satan talking to his nearest mate,</span><br>
-            <span class="single_underline "><span class="left_vertical ">With head uplift above the wave, and eyes</span></span><br>
+            <span class="left_vertical "><span class="single_underline ">With head uplift above the wave, and eyes</span></span><br>
             <span class="left_vertical "><span class="single_underline ">That sparkling blaz'd</span>, his other parts besides</span><br>
             <span class="left_vertical ">Prone on the flood, extended long and large,</span><br>
             <span class="left_vertical ">Lay floating many a rood, in build as huge</span><br>
@@ -1439,7 +1456,7 @@
                   to which obscure images are more powerful and moving than clear images and indistinct
                   or ambiguous ideas are more stimulating than definite ones.  Milton was a touchstone
                   of the sublime for many Romantic writers (see Newlyn 11-12, 49-62, 193-204; Trott,
-                  “Milton and the Romantics” 530-32.  See also the section on “Obscurity” in Lau 49-54. Leigh Hunt published an
+                  “Milton and the Romantics” 530-32. See also the section on “Obscurity” in Lau 49-54). Leigh Hunt published an
                   essay on “Mists and Fogs” in <span class="italic_text ">The Indicator</span>, 1 December 1819, in which he cites numerous instances from literature (including
                   <span class="italic_text ">Paradise Lost</span>) of appearances made more impressive by atmospheric haze.  Keats celebrates Fall
                   as the “Season of mists and mellow fruitfulness” in “To Autumn” (1), a passage that may be indebted to <a href="#kpl157"><span class="italic_text ">PL</span> 5.185-87</a>.<br><br>
@@ -1806,6 +1823,11 @@
                   Page—leaves no room for any thing to be said thereon, but: '<span class="single_underline ">so it is</span>'—
                   
                   </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  For Keats’s appreciation of contrasts in this and other passages in <span class="italic_text ">Paradise Lost</span>, see <a href="#kpl34">his note in vol. 1, half-title page</a>. 
+                  
+                  </span><br><br></div>
             
             Like doubtful hue: but he his wonted pride<br>
             Soon recollecting, with high words, that bore<br>
@@ -1931,8 +1953,7 @@
                   of liberty who suffered heroically for his views, see Newlyn 32-39; on Keats’s association
                   of Milton with liberal politics, see Roe 28, 47, 49, 209.  Wolfson suggests that the
                   reference to “the blasted heath” in line 615, a little further down from the lines that provoked his note praising
-                  Milton’s “noble and collected . . . indignation against Kings,” may have reminded Keats of King Lear, “exiled to the blasted hearth, where he confronts his pompous neglect of his poor
-                  subjects” (Wolfson 229n6).  The phrase may also have suggested to Keats the setting where another
+                  Milton’s “noble and collected . . . indignation against Kings,” may have reminded Keats of King Lear, “exiled to the blasted heath, where he confronts his pompous neglect of his poor subjects” (Wolfson 229n6).  The phrase may also have suggested to Keats the setting where another
                   tragic, misguided Shakespearean figure—Macbeth—hears the prophecy of the three witches
                   that impels him on his bloodthirsty pursuit of a throne. 
                   
@@ -2055,7 +2076,7 @@
             
             <span class="tab_space">   </span><span class="single_underline ">There stood a hill not far, whose grisly top</span><br>
             <span class="single_underline ">Belch'd fire and rolling smoke; the rest entire</span><br>
-            <span class="single_underline "><span class="left_vertical_double ">Shone with a glossy scurf, undoubted sign</span></span><br>
+            <span class="left_vertical_double "><span class="single_underline ">Shone with a glossy scurf, undoubted sign</span></span><br>
             <span class="single_underline ">That in his womb was hid metallic ore,</span><br>
             <span class="single_underline ">The work of sulphur.</span>  Thither wing'd with speed<br>
             A numerous brigade hastened: as when bands<br>
@@ -2119,9 +2140,9 @@
                   
                   
                   </span><br><br></div>
-            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">See the discussion of this note <a href="#kpl37">on page 5 of volume 1</a>, “one of the most mysterious of semi-speculations," and <a href="#kpl44">on page 12</a>, “There is a cool pleasure in the very sound of vale”. <br><br>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">See the discussion of this note <a href="#kpl37">on page 5 of volume 1</a>, and <a href="#kpl44">on page 12</a>.<br><br>
                   Jackson observes that Keats’s use of “We” instead of “I” in this and other notes (those
-                  on <a href="#kpl77">pages 44-45 of volume 1 (book 2)</a> and <a href="#kpl96">pages 62-63 (book 3)</a>) suggests the communal nature of his marginalia.  Keats’s annotations were not intended
+                  on <a href="#kpl77">pages 44-45 of volume 1 [book 2]</a> and <a href="#kpl96">pages 62-63 [book 3]</a>) suggests the communal nature of his marginalia.  Keats’s annotations were not intended
                   for himself alone, Jackson argues, but were meant to be shared with “a coterie comfortable in its shared values” (194-95).  On Keats’s expectation of an audience for his marginalia, see also Lau
                   13-16.  <br><br>
                   Wolfson perceives a “rich layering of meanings” in Keats’s phrase, “we imagine after them” (the “Romances lost”) and offers three implications: “our imagination is chronologically later; strains to grasp them; takes their pattern” (231n11).<br><br>
@@ -2146,7 +2167,7 @@
             <span class="single_underline ">In wealth and luxury.  The ascending pile</span><br>
             <span class="single_underline ">Stood fix'd her stately height; and straight the doors</span><br>
             <span class="single_underline ">Opening their brazen folds, discover, wide</span><br>
-            <span class="single_underline "><span class="left_vertical ">Within, her ample spaces, o'er the smooth</span></span><br>
+            <span class="left_vertical "><span class="single_underline ">Within, her ample spaces, o'er the smooth</span></span><br>
             <span class="left_vertical "><span class="single_underline ">And level pavement: from the arched roof</span></span><br>
             <span class="left_vertical "><span class="single_underline ">Pendent by subtle magic many a row</span></span><br>
             <span class="left_vertical "><span class="single_underline ">Of starry lamps and blazing cressets, fed</span></span><br>
@@ -2182,7 +2203,7 @@
             <br>
             
             <span class="single_underline ">Sheer o'er the crystal battlements; from morn</span><br>
-            <span class="single_underline "><span class="left_vertical_double ">To noon he fell, from noon to dewy eve,</span></span><br>
+            <span class="left_vertical_double "><span class="single_underline ">To noon he fell, from noon to dewy eve,</span></span><br>
             <span class="left_vertical_double "><span class="single_underline ">A summer's day; and with the setting sun</span></span><br>
             <span class="left_vertical_double "><span class="single_underline ">Dropt from the zenith like a falling star,</span></span><br>
             <span class="left_vertical_double "><span class="single_underline ">On Lemnos the AEgean isle:</span> thus they relate,</span><br>
@@ -3142,11 +3163,11 @@
                   
                   Milton is godlike in the sublime pathetic. In Demons, fallen Angels, and Monsters
                   the delicacies of passion living in and from their immortality, is of the most softening
-                  and dissolving nature. It is carried to the utmost here—<a href="#kpl77">Others more mild</a>—nothing can express the sensation one feels at '<span class="single_underline ">Their song was partial</span> &amp;[c]. Examples of this nature are divine to the utmost in other poets—in Caliban
+                  and dissolving nature. It is carried to the utmost here—Others more mild—nothing can express the sensation one feels at '<span class="single_underline ">Their song was partial</span> &amp;[c]. Examples of this nature are divine to the utmost in other poets—in Caliban
                   '<span class="single_underline ">Sometimes a thousand twangling instruments</span>' &amp;c[.] In Theocritus'———Polyphemus—and Homers Hymn to Pan where Mercury is represented
                   as taking his '<span class="single_underline ">homely fac'd</span>' to heaven. There are numerous other instances in Milton—where Satan's progeny is
-                  called '<span class="single_underline ">daughter dear</span>,' and where this same Sin, a female, and with a feminine instinct for the showy &amp;
-                  martial is in pain lest death should sully his bright arms '<span class="single_underline ">nor vainly hope to be invulnerable in those bright arms</span>'. Another instance is '<span class="single_underline ">pensive I sat</span> alone[.] We need not mention '<span class="single_underline ">Tears such as Angels weep</span>'.
+                  called his '<span class="single_underline "><a href="#kpl86">daughter dear</a></span>,' and where this same Sin, a female, and with a feminine instinct for the showy &amp;
+                  martial is in pain lest death should sully his bright arms '<span class="single_underline "><a href="#kpl85">nor vainly hope to be invulnerable in those bright arms</a></span>'. Another instance is '<span class="single_underline "><a href="#kpl253">pensive I sat</a></span> alone[.] We need not mention '<span class="single_underline "><a href="#kpl53">Tears such as Angels weep</a></span>'.
                   
                   
                   </span><br><br></div>
@@ -3161,11 +3182,11 @@
                   (190n21).  Ende discusses at length Keats’s concept of the “sublime pathetic” (xvi-xvii,
                   27-28, 89-91, 96-97).  See also Albrecht (who disagrees with Ende) 198-201 and Lau
                   61-66.<br><br>
-                  In his note (“'homely fac'd' to heaven”) Keats quotes from Shakespeare’s <span class="italic_text ">The Tempest</span> 3.2.134 and George Chapman’s translation of Homer’s <span class="italic_text ">Hymn to Pan</span>, line 74.  Keats’s pronoun is ambiguous; “his homely fac’d” in <span class="italic_text ">Hymn to Pan</span> refers to Pan’s face.  Theocritus recounts Polyphemus’s unrequited love for Galatea
-                  in his eleventh idyll.
+                  In his note Keats quotes from Shakespeare’s <span class="italic_text ">The Tempest</span> 3.2.134 and George Chapman’s translation of Homer’s <span class="italic_text ">Hymn to Pan</span>, line 74.  Keats’s pronoun in the phrase “his homely fac’d to heaven” is ambiguous;
+                  in <span class="italic_text ">Hymn to Pan</span>, the passage refers to Pan’s face.  Theocritus recounts Polyphemus’s unrequited love
+                  for Galatea in his eleventh idyll.
                   <br><br>
-                  
-                  It is interesting to compare the passage not underscored in the lines “and took with ravishment / The thronging audience” to a comment Keats made about a similar passage in book 4 of Wordsworth’s <span class="italic_text ">Excursion</span>.  According to Benjamin Bailey, Keats said that the line “And filled the illumined groves with ravishment” (<span class="italic_text ">The Excursion</span> 4.860) should have been omitted from Wordsworth’s description of Apollo (<span class="italic_text ">Keats Circle</span> 2: 276).  Keats himself uses “ravishment” in “I stood tip-toe upon a little hill” 147 and <span class="italic_text ">Endymion</span> 2.715, 875, so he does not appear to have found this word objectionable in itself.
+                  It is interesting to compare the passage not underscored in lines 254-255 (“and took with ravishment / The thronging audience”) to a comment Keats made about a similar passage in book 4 of Wordsworth’s <span class="italic_text ">Excursion</span>.  According to Benjamin Bailey, Keats said that the line “And filled the illumined groves with ravishment” (<span class="italic_text ">The Excursion</span> 4.860) should have been omitted from Wordsworth’s description of Apollo (<span class="italic_text ">Keats Circle</span> 2: 276).  Keats himself uses “ravishment” in “I stood tip-toe upon a little hill” 147 and <span class="italic_text ">Endymion</span> 2.715, 875, so he does not appear to have found this word objectionable in itself.
                   
                   <br><br>
                   </span><br><br></div>
@@ -3190,7 +3211,7 @@
             <span class="single_underline ">With conquest, felt the envenom'd robe, and tore</span><br>
             <span class="single_underline ">Through pain up by the roots Thessalian pines,</span><br>
             <span class="single_underline ">And Lichas from the top of OEta threw</span><br>
-            <span class="single_underline "><span class="left_vertical ">Into the Euboic sea.  Others more mild,</span></span><br>
+            <span class="left_vertical "><span class="single_underline ">Into the Euboic sea.  Others more mild,</span></span><br>
             <span class="left_vertical "><span class="single_underline ">Retreated in a silent valley, sing</span></span><br>
             <span class="left_vertical "><span class="single_underline ">With notes angelical to many a harp</span></span><br>
             <span class="left_vertical "><span class="single_underline ">Their own heroic deeds and hapless fall</span></span><br>
@@ -3229,11 +3250,11 @@
                   
                   Milton is godlike in the sublime pathetic. In Demons, fallen Angels, and Monsters
                   the delicacies of passion living in and from their immortality, is of the most softening
-                  and dissolving nature. It is carried to the utmost here—<a href="#kpl77">Others more mild</a>—nothing can express the sensation one feels at '<span class="single_underline ">Their song was partial</span> &amp;[c]. Examples of this nature are divine to the utmost in other poets—in Caliban
+                  and dissolving nature. It is carried to the utmost here—Others more mild—nothing can express the sensation one feels at '<span class="single_underline ">Their song was partial</span> &amp;[c]. Examples of this nature are divine to the utmost in other poets—in Caliban
                   '<span class="single_underline ">Sometimes a thousand twangling instruments</span>' &amp;c[.] In Theocritus'———Polyphemus—and Homers Hymn to Pan where Mercury is represented
                   as taking his '<span class="single_underline ">homely fac'd</span>' to heaven. There are numerous other instances in Milton—where Satan's progeny is
-                  called '<span class="single_underline ">daughter dear</span>,' and where this same Sin, a female, and with a feminine instinct for the showy &amp;
-                  martial is in pain lest death should sully his bright arms '<span class="single_underline ">nor vainly hope to be invulnerable in those bright arms</span>'. Another instance is '<span class="single_underline ">pensive I sat</span> alone[.] We need not mention '<span class="single_underline ">Tears such as Angels weep</span>'.
+                  called his '<span class="single_underline "><a href="#kpl86">daughter dear</a></span>,' and where this same Sin, a female, and with a feminine instinct for the showy &amp;
+                  martial is in pain lest death should sully his bright arms '<span class="single_underline "><a href="#kpl85">nor vainly hope to be invulnerable in those bright arms</a></span>'. Another instance is '<span class="single_underline "><a href="#kpl253">pensive I sat</a></span> alone[.] We need not mention '<span class="single_underline "><a href="#kpl53">Tears such as Angels weep</a></span>'.
                   
                   
                   </span><br><br></div>
@@ -3587,6 +3608,11 @@
             
             <br>
             
+            
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">Keats quotes (slightly misquotes) “Pensive here I sat / Alone” as an example of “the sublime pathetic” in <a href="#kpl77">his note on <span class="italic_text ">Paradise Lost</span> Book 2, pages 44-45 (lines 525-96)</a>.<br><br>
+                  Keats quotes “vainly hope / To be invulnerable in those bright arms” as an example of “the sublime pathetic” in <a href="#kpl77">his note on PL 2.546-52</a>.<br><br>
+                  </span><br><br></div>
+            
             Without my opening.  <span class="single_underline ">Pensive here I sat</span><br>
             <span class="single_underline ">Alone;</span> but long I sat not, till my womb<br>
             Pregnant by thee, and now excessive grown<br>
@@ -3640,6 +3666,14 @@
             </a></div>
             
             <br>
+            
+            
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  In his <a href="#kpl77">note on <span class="italic_text ">PL</span> 2.546-52</a>, Keats refers to Satan calling Sin his “daughter dear”; he presumably has line 817 in mind. 
+                  
+                  
+                  </span><br><br></div>
             
             Though temper'd heavenly, for that mortal dint,<br>
             Save he who reigns above, none can resist.<br>
@@ -3748,6 +3782,11 @@
             
             <br>
             
+            
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  Lines 899-901, slightly misquoted, serve as a motto for Keats’s 1818 poem “Welcome joy, and welcome sorrow.”</span><br><br></div>
+            
             Excell'd her power; the gates wide open stood,<br>
             <span class="single_underline ">That with extended wings a banner'd host</span><br>
             <span class="single_underline ">Under spread ensigns marching might pass through</span><br>
@@ -3823,7 +3862,7 @@
             As many miles aloft: that fury staid,<br>
             Quench'd in a boggy Syrtis, neither sea,<br>
             Nor good dry land: <span class="single_underline ">nigh founder'd on he fares,</span><br>
-            <span class="single_underline "><span class="left_vertical ">Treading the crude consistence, half on foot,</span></span><br>
+            <span class="left_vertical "><span class="single_underline ">Treading the crude consistence, half on foot,</span></span><br>
             <span class="left_vertical "><span class="single_underline ">Half flying;</span> behoves him now both oar and sail.</span><br>
             <span class="left_vertical "><span class="single_underline ">As when a Gryphon through the wilderness</span></span><br>
             <span class="left_vertical "><span class="single_underline ">With winged course o'er hill or moory dale,</span></span><br>
@@ -4112,7 +4151,7 @@
             
             <div class="writtenNote"><span class="noteHeader">Note in Keats's Hand</span><br><span class="noteLocation">Text circles around the top, bottom, and right margins of the two pages, 62 and 63</span><br><br><span class="noteContent">
                   
-                  The management of this Poem is Apollonian—Satan first '<span class="single_underline ">throws round his baleful eyes</span>' the[n] awakes his legions, he consu[l]ts, he sets forward on his voyage—and just
+                  The management of this Poem is Apollonian—Satan first '<span class="single_underline "><a href="#kpl36">throws round his baleful eyes</a></span>' the[n] awakes his legions, he consu[l]ts, he sets forward on his voyage—and just
                   as he is getting to the end of it we see the Great God and our first parent, and that
                   same satan all brough[t] in one's vision—we have the invocation to light before we
                   mount to heaven—we breathe more freely—we feel the——great Author's consolations coming
@@ -4186,7 +4225,7 @@
             
             <div class="writtenNote"><span class="noteHeader">Note in Keats's Hand</span><br><span class="noteLocation">Text circles around the top, bottom, and right margins of the two pages, 62 and 63</span><br><br><span class="noteContent">
                   
-                  The management of this Poem is Apollonian—Satan first '<span class="single_underline ">throws round his baleful eyes</span>' the[n] awakes his legions, he consu[l]ts, he sets forward on his voyage—and just
+                  The management of this Poem is Apollonian—Satan first '<span class="single_underline "><a href="#kpl36">throws round his baleful eyes</a></span>' the[n] awakes his legions, he consu[l]ts, he sets forward on his voyage—and just
                   as he is getting to the end of it we see the Great God and our first parent, and that
                   same satan all brough[t] in one's vision—we have the invocation to light before we
                   mount to heaven—we breathe more freely—we feel the——great Author's consolations coming
@@ -4200,6 +4239,13 @@
                   of Keats's, which praises Milton’s magisterial handling of his epic poem as it moves
                   from hell into the precincts of light and heaven in book 3.  Adjectives similar to
                   “Apollonian” that express Keats’s admiration for Milton’s achievement in <span class="italic_text ">Paradise Lost</span> are “godlike” in his note to <a href="#kpl77"><span class="italic_text ">PL</span> 2.546-52</a> (“Milton is godlike in the sublime pathetic”) and “delphic” in <a href="#kpl119">his note to PL 4.1-4</a> (“nothing can be higher—Nothing so more than delphic”).  See also “Delphic Abstraction” in <a href="#kpl44">his note to <span class="italic_text ">PL</span> 1.321</a>. 
+                  
+                  </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  On line 71, Keats draws an exclamation point after “sight,” probably to challenge the word’s validity.  In most editions of <span class="italic_text ">Paradise Lost</span>, the word is given as “side.”  The marginalia in Keats’s two editions of Shakespeare’s plays and in Z. Jackson’s
+                  <span class="italic_text ">Shakspeare’s Genius Justified</span> frequently question the editors’ construction of a line or passage. See Forman 5:
+                  268-75, 287-90 and the discussion in Jackson 190-93.
                   
                   </span><br><br></div>
             
@@ -5099,7 +5145,7 @@
             <span class="single_underline ">In curls on either cheek play'd; wings he wore</span><br>
             <span class="single_underline ">Of many a colour'd plume sprinkled with gold;</span><br>
             <span class="single_underline ">His habit fit for speed succinct, and held</span><br>
-            <span class="single_underline ">Before his decent steps a silver wand</span>.<br>
+            <span class="single_underline "><span class="right_vertical ">Before his decent steps a silver wand.</span></span><br>
             He drew not nigh unheard; the Angel bright,<br>
             Ere he drew nigh, his radiant visage turn'd,<br>
             Admonish'd by his ear, and straight was known<br>
@@ -5342,7 +5388,7 @@
                   though more at large, this opinion, or something to the effect here noted down” (<span class="italic_text ">Keats Circle</span> 2: 296).  The “friend” mentioned in Keats’s note may actually be Charles Wentworth
                   Dilke rather than Bailey.  A copy of Milton’s poems bearing Dilke’s bookplate (owned
                   by Keats House) contains an annotation at the beginning of book 4 of <span class="italic_text ">Paradise Lost</span> that is similar to Keats’s: “The opening of this Book is fearful[ly] sublime.—It gives note of dreadful preparation.—It
-                  seems to rouse us from a moral slumber, &amp; bids us prepare for some strange &amp;mp; unkn[own]
+                  seems to rouse us from a moral slumber, &amp; bids us prepare for some strange &amp; unkn[own]
                   consequences—It is fit prelude to the act:--an act that in its consequen[ce] was to
                   be felt through all succeeding generations.  It is much the finest in the whole work.”  Claude Lee Finney points out the similarity between Dilke’s and Keats’s remarks
                   on the opening of book 4 and believes the two men were reading and discussing <span class="italic_text ">Paradise Lost</span> in December 1817 and January 1818 (1: 337).  Both Bailey and Dilke may have influenced
@@ -5507,6 +5553,11 @@
             
             <br>
             
+            
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  Keats quotes (slightly misquotes) lines 126-127 (“on the Assyrian mount / Saw him disfigured”) in his <a href="#kpl235">note on <span class="italic_text ">PL</span> 7.422-23</a> as an example of Milton’s gift for “stationing.”</span><br><br></div>
+            
             Would height recall high thoughts, how soon unsay<br>
             <span class="left_vertical ">What feign'd submission swore! ease would recant</span><br>
             <span class="left_vertical ">Vows made in pain, as violent and void.</span><br>
@@ -5539,7 +5590,7 @@
             Yet not enough had practised to deceive<br>
             Uriel once warn'd; whose eye pursued him down<br>
             The way he went, <span class="single_underline ">and on the Assyrian mount</span><br>
-            <span class="single_underline "><span class="left_vertical_triple ">Saw him disfigured more</span> than could befall</span><br>
+            <span class="left_vertical_triple "><span class="single_underline ">Saw him disfigured more</span> than could befall</span><br>
             Spirit of happy sort: his gestures fierce<br>
             He mark'd and mad demeanour, then alone,<br>
             As he supposed, all unobserved, unseen.<br>
@@ -5731,7 +5782,7 @@
                   are of a nature as far as I have read, unexampled elsewhere—they are entirely distinct
                   from the brief pathos of Dante—and they are not to be found even in Shakspeare—they
                   are according to the great prerogative of poetry better described in themselves than
-                  by a volume the one is in this fol. '<span class="single_underline ">which cost Ceres all that pain</span>'—the other is that ending '<span class="single_underline ">Nor could the Muse defend her son</span>'—they appear exclusively Miltonic without the shadow of another mind ancient or modern—
+                  by a volume the one is in this fol. '<span class="single_underline ">which cost Ceres all that pain</span>'—the other is that ending '<span class="single_underline "><a href="#kpl224">Nor could the Muse defend her son</a></span>'—they appear exclusively Miltonic without the shadow of another mind ancient or modern—
                   
                   </span><br><br></div>
             <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">Keats slightly misquotes line 239 in a 27 June 1818 letter to Tom Keats: “the stream itself is interesting throughout with ‘mazy error over pendant shades.’  Milton meant a smooth river—this is buffetting all the way on a rocky bed ever various” (<span class="italic_text ">Letters</span> 1: 300).<br><br>
@@ -5780,7 +5831,7 @@
             <span class="single_underline ">Led on the eternal spring.  Not that fair field</span><br>
             <span class="single_underline ">Of Enna, where Proserpine gathering flowers,</span><br>
             <span class="single_underline ">Herself a fairer flower, by gloomy Dis</span><br>
-            <span class="single_underline "><span class="left_vertical_double ">Was gather'd, which cost Ceres <span class="double_underline ">all that pain</span></span></span><br>
+            <span class="left_vertical_double "><span class="single_underline ">Was gather'd, which cost Ceres <span class="double_underline ">all that pain</span></span></span><br>
             <span class="left_vertical_double "><span class="single_underline ">To seek her through the world; nor that sweet grove</span></span><br>
             <span class="single_underline ">Of Daphne by Orontes, and the inspired</span><br>
             <span class="single_underline ">Castalian spring, might with this Paradise</span><br>
@@ -5810,7 +5861,7 @@
                   are of a nature as far as I have read, unexampled elsewhere—they are entirely distinct
                   from the brief pathos of Dante—and they are not to be found even in Shakspeare—they
                   are according to the great prerogative of poetry better described in themselves than
-                  by a volume the one is in this fol. '<span class="single_underline ">which cost Ceres all that pain</span>'—the other is that ending '<span class="single_underline ">Nor could the Muse defend her son</span>'—they appear exclusively Miltonic without the shadow of another mind ancient or modern—
+                  by a volume the one is in this fol. '<span class="single_underline ">which cost Ceres all that pain</span>'—the other is that ending '<span class="single_underline "><a href="#kpl224">Nor could the Muse defend her son</a></span>'—they appear exclusively Miltonic without the shadow of another mind ancient or modern—
                   
                   </span><br><br></div>
             
@@ -5995,7 +6046,7 @@
             Nearer to view his prey, and unespied<br>
             To mark what of their state he more might learn<br>
             By word or action mark'd: <span class="single_underline ">About them round</span><br>
-            <span class="single_underline "><span class="left_vertical ">A lion now he stalks with fiery glare</span>;</span><br>
+            <span class="left_vertical "><span class="single_underline ">A lion now he stalks with fiery glare</span>;</span><br>
             <span class="left_vertical ">Then as a tiger, who by chance hath spied</span><br>
             <span class="left_vertical ">In some purlieu two gentle fawns at play,</span><br>
             <span class="left_vertical ">Strait couches close, then, rising, <span class="single_underline ">changes oft</span></span><br>
@@ -6216,7 +6267,7 @@
             With Earth and Ocean meets, the setting sun<br>
             Slowly descended; <span class="single_underline ">and with right aspect</span><br>
             <span class="single_underline ">Against the eastern gate of Paradise</span><br>
-            <span class="single_underline "><span class="left_vertical ">Levell'd his evening rays; it was a rock</span></span><br>
+            <span class="left_vertical "><span class="single_underline ">Levell'd his evening rays; it was a rock</span></span><br>
             <span class="left_vertical "><span class="single_underline ">Of alabaster, piled up to the clouds,</span></span><br>
             <span class="left_vertical "><span class="single_underline ">Conspicuous far</span>; winding with one ascent,</span><br>
             <span class="left_vertical ">Accessible from Earth, one entrance high:</span><br>
@@ -6412,6 +6463,13 @@
             </a></div>
             
             <br>
+            
+            
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  Keats slightly misquotes line 683 in a 31 August 1819 letter to John Taylor: “Men should be in imitation of Spirits ‘responsive to each others note’” (<span class="italic_text ">Letters</span> 2: 153).
+                  
+                  </span><br><br></div>
             
             <span class="left_vertical ">Not only enlighten, but with kindly heat,</span><br>
             <span class="left_vertical ">Of various influence, foment, and warm,</span><br>
@@ -6899,7 +6957,7 @@
             <span class="single_underline ">Like Teneriff or Atlas, unremoved:</span><br>
             <span class="single_underline ">His stature reach'd the sky, and on his crest</span><br>
             <span class="single_underline ">Sat horror plumed: nor wanted in his grasp</span><br>
-            <span class="single_underline "><span class="left_vertical ">What seem'd both spear and shield</span>.  Now dreadful deeds</span><br>
+            <span class="left_vertical "><span class="single_underline ">What seem'd both spear and shield</span>.  Now dreadful deeds</span><br>
             
 </div>
 
@@ -7725,6 +7783,15 @@
             
             <br>
             
+            
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  
+                  Keats quotes lines 479-80, “So from the root / Springs lighter the green stalk,” in <a href="#kpl234">his note on pages 42 and 43 of book 7, in volume 2</a>.
+                  
+                  
+                  </span><br><br></div>
+            
             Of things above his world, and of their being<br>
             Who dwell in Heaven, whose excellence he saw<br>
             Transcend his own so far; whose radiant forms,<br>
@@ -8003,7 +8070,7 @@
             Excess, before the all-bounteous King, who shower'd<br>
             With copious hand, rejoicing in their joy.<br>
             <span class="single_underline ">Now, when ambrosial night with clouds exhaled</span><br>
-            <span class="single_underline "><span class="left_vertical ">From that high mount of God, whence light and shade</span></span><br>
+            <span class="left_vertical "><span class="single_underline ">From that high mount of God, whence light and shade</span></span><br>
             <span class="left_vertical "><span class="single_underline ">Spring both, the face of brightest heaven had changed</span></span><br>
             <span class="left_vertical "><span class="single_underline ">To grateful twilight, (for night comes not there</span></span><br>
             <span class="left_vertical "><span class="single_underline ">In darker veil), and roseate dews disposed</span></span><br>
@@ -8610,7 +8677,7 @@
                   <span class="strikeThrough">Of Sun or teasing candles</span><br>
                   As wearisome as darkness is divine<br>
                   O soothest sleep, if so it please thee close<br>
-                  Mine willing eyes in midst of this thine hymn<br>
+                  <span class="strikeThrough">Mine</span> My willing eyes in midst of this thine hymn<br>
                   Or wait the Amen, ere thy poppy throws<br>
                   Its sweet-death dews o'er every pulse and limb—<br>
                   Then shut the hushed Casket of my soul<br>
@@ -8858,6 +8925,11 @@
                   
                   
                   </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  By the “original” meaning of “reluctant,” Keats is probably thinking of  “struggling” or “writhing”; the “modern meaning” would be “unwilling, averse; disinclined to do something” (<span class="italic_text ">OED Online</span>; accessed 12 Oct. 2018).  Interestingly, the <span class="italic_text ">OED</span> cites <span class="italic_text ">PL</span> 6.58 to illustrate the modern meaning of “reluctant” and <a href="#kpl318"><span class="italic_text ">PL</span> 10.515</a> (“down [Satan] fell, / A monstrous serpent on his belly prone, / Reluctant, but in
+                  vain”) to illustrate the earlier meaning.  Keats uses the modern meaning of the word in
+                  <span class="italic_text ">Hyperion</span> 1.60-61:  “Thy thunder, conscious of the new command, / Rumbles reluctant o’er our fallen house.”</span><br><br></div>
             
             With joy and acclamations loud, that one,<br>
             That of so many myriads fallen, yet one<br>
@@ -9796,7 +9868,7 @@
             Under the weight of mountains buried deep;<br>
             Themselves invaded next, and on their heads<br>
             <span class="single_underline ">Main promontories flung, which in the air</span><br>
-            <span class="single_underline "><span class="left_vertical_triple ">Came shadowing,</span> and oppress'd whole legions arm'd;</span><br>
+            <span class="left_vertical_triple "><span class="single_underline ">Came shadowing,</span> and oppress'd whole legions arm'd;</span><br>
             Their armour help'd their harm, crush'd in and bruised<br>
             Into their substance pent, which wrought them pain<br>
             Implacable, and many a dolorous groan;<br>
@@ -10322,7 +10394,7 @@
             <span class="single_underline ">In Rhodope, where woods, and rocks, had ears</span><br>
             <span class="single_underline ">To rapture, till the savage clamour drown'd</span><br>
             <span class="single_underline ">Both harp and voice; nor could the Muse defend</span><br>
-            <span class="single_underline "><span class="left_vertical ">Her Son</span>. So fail not thou, who thee implores:</span><br>
+            <span class="left_vertical "><span class="single_underline ">Her Son</span>. So fail not thou, who thee implores:</span><br>
             For thou art heavenly, she an empty dream.<br>
             <span class="tab_space">   </span>   Say Goddess, what ensued when Raphael,<br>
             The affable Archangel, had forewarn'd<br>
@@ -10664,7 +10736,7 @@
             Dividing; for as earth, <span class="single_underline ">so he the world</span><br>
             <span class="single_underline ">Built on circumfluous waters calm, in wide</span><br>
             <span class="single_underline ">Crystalline ocean, and the loud misrule</span><br>
-            <span class="single_underline "><span class="left_vertical_double ">Of Chaos far removed, lest fierce extremes</span></span><br>
+            <span class="left_vertical_double "><span class="single_underline ">Of Chaos far removed, lest fierce extremes</span></span><br>
             Contiguous might distempter the whole frame:<br>
             
 </div>
@@ -10850,10 +10922,10 @@
             <div class="writtenNote"><span class="noteHeader">Note in Keats's Hand</span><br><span class="noteLocation">Text circles around the outside margins (top, bottom, left, right), but not the inside
                   gutter, of the two pages, 42 and 43</span><br><br><span class="noteContent">
                   
-                  Milton in every instance pursues his imagination to the utmost—and he is '<a href="#kpl312">sagacious of his Quarry</a>' he sees Beauty on the wing, pounces upon it and gorges it to the producing his essential
+                  Milton in every instance pursues his imagination to the utmost—he is '<a href="#kpl312">sagacious of his Quarry</a>' he sees Beauty on the wing, pounces upon it and gorges it to the producing his essential
                   verse '<a href="#kpl165">So from the root the springs lighter the green stalk</a>' &amp;[c.]—but in no instance is this sort of perseverance more exemplified than in what
                   may be called his <span class="single_underline ">stationing or statu[a]ry</span>: He is not content with simple description, he must station—Thus here, we not only
-                  see how the Birds '<span class="single_underline ">with clang despised the ground</span>' but we see them '<span class="single_underline ">under a cloud in prospect</span>' So we see Adam '<span class="single_underline ">Fair indeed and tall</span>—<span class="single_underline ">under a plantane</span> and so we see Satan '<span class="single_underline ">disfigured</span>—<span class="single_underline ">on the Assyrian Mount</span>' This last with all its accompaniments, and keeping in mind the —Theory of Spirits
+                  see how the Birds '<span class="single_underline ">with clang despised the ground</span>' but we see them '<span class="single_underline ">under a cloud in prospect</span>' So we see Adam '<span class="single_underline "><a href="#kpl132">Fair indeed and tall</a></span>—<span class="single_underline "><a href="#kpl132">under a plantane</a></span> and so we see Satan '<span class="single_underline "><a href="#kpl122">disfigured</a></span>—<span class="single_underline "><a href="#kpl122">on the Assyrian Mount</a></span>' This last with all its accompaniments, and keeping in mind the —Theory of Spirits
                   eyes and the simile of Gallilio, has a dramatic——vastness and solemnity fit and worthy
                   to hold one amazed in the midst of this Paradise Lost—
                   
@@ -10861,9 +10933,8 @@
                   </span><br><br></div>
             <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">Both Finney (1: 339-40) and W. J. Bate (244-46) link Keats’s celebration of Milton’s
                   intensity in this note to Hazlitt’s concept of “gusto.” In his <span class="italic_text ">Round Table</span> essay “On Gusto” Hazlitt writes, “Milton has great gusto.  He repeats his blows twice; grapples with and exhausts his
-                  subject” (4: 79).  In “On Milton’s Versification,” also from <span class="italic_text ">The Round Table</span>, Hazlitt states that “Milton had as much of what is meant by gusto as any poet.  He forms the most intense
-                  conception of things, and then embodies them by a single stroke of his pen.  Force
-                  of style is perhaps his first excellence” (4: 38).  Keats reports reading Hazlitt’s <span class="italic_text ">Round Table</span> with Bailey in September 1817 (<span class="italic_text ">Letters</span> 1: 166).<br><br>
+                  subject” (4: 79).  In “On Milton’s Versification,” also from <span class="italic_text ">The Round Table</span>, Hazlitt states that “Milton had as much of what is meant by <span class="italic_text ">gusto</span> as any poet.  He forms the most intense conception of things, and then embodies them
+                  by a single stroke of his pen.  Force of style is perhaps his first excellence” (4: 38).  Keats reports reading Hazlitt’s <span class="italic_text ">Round Table</span> with Bailey in September 1817 (<span class="italic_text ">Letters</span> 1: 166).<br><br>
                   The term “stationing” derives from theories of the visual arts and refers to the positioning of figures
                   within a particular setting.  Keats’s remarks on Milton’s “stationing or statu[a]ry” are similar to comments Hazlitt makes in his essay “On Shakespeare and Milton” (5: 59-60).  See the Introduction (section on “Themes and Patterns in the Marginalia:
                   Descriptive Passages”) for further discussion of these points.  <br><br>
@@ -10943,20 +11014,25 @@
             <div class="writtenNote"><span class="noteHeader">Note in Keats's Hand</span><br><span class="noteLocation">Text circles around the outside margins (top, bottom, left, right), but not the inside
                   gutter, of the two pages, 42 and 43</span><br><br><span class="noteContent">
                   
-                  Milton in every instance pursues his imagination to the utmost—and he is '<a href="#kpl312">sagacious of his Quarry</a>' he sees Beauty on the wing, pounces upon it and gorges it to the producing his essential
+                  Milton in every instance pursues his imagination to the utmost—he is '<a href="#kpl312">sagacious of his Quarry</a>' he sees Beauty on the wing, pounces upon it and gorges it to the producing his essential
                   verse '<a href="#kpl165">So from the root the springs lighter the green stalk</a>' &amp;[c.]—but in no instance is this sort of perseverance more exemplified than in what
                   may be called his <span class="single_underline ">stationing or statu[a]ry</span>: He is not content with simple description, he must station—Thus here, we not only
-                  see how the Birds '<span class="single_underline ">with clang despised the ground</span>' but we see them '<span class="single_underline ">under a cloud in prospect</span>' So we see Adam '<span class="single_underline ">Fair indeed and tall</span>—<span class="single_underline ">under a plantane</span> and so we see Satan '<span class="single_underline ">disfigured</span>—<span class="single_underline ">on the Assyrian Mount</span>' This last with all its accompaniments, and keeping in mind the —Theory of Spirits
+                  see how the Birds '<span class="single_underline ">with clang despised the ground</span>' but we see them '<span class="single_underline ">under a cloud in prospect</span>' So we see Adam '<span class="single_underline "><a href="#kpl132">Fair indeed and tall</a></span>—<span class="single_underline "><a href="#kpl132">under a plantane</a></span> and so we see Satan '<span class="single_underline "><a href="#kpl122">disfigured</a></span>—<span class="single_underline "><a href="#kpl122">on the Assyrian Mount</a></span>' This last with all its accompaniments, and keeping in mind the —Theory of Spirits
                   eyes and the simile of Gallilio, has a dramatic——vastness and solemnity fit and worthy
                   to hold one amazed in the midst of this Paradise Lost—
                   
                   
                   </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  Richard Woodhouse noted a parallel between lines 438-40 and Keats’s “Imitation of Spenser” 14-15: “There saw the swan his neck of arched snow, / And oar’d himself along with
+                  majesty” (Sperry, “Woodhouse’s Interleaved and Annotated Copy” 144-45).
+                  
+                  </span><br><br></div>
             <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">Both Finney (1: 339-40) and W. J. Bate (244-46) link Keats’s celebration of Milton’s
                   intensity in this note to Hazlitt’s concept of “gusto.” In his <span class="italic_text ">Round Table</span> essay “On Gusto” Hazlitt writes, “Milton has great gusto.  He repeats his blows twice; grapples with and exhausts his
-                  subject” (4: 79).  In “On Milton’s Versification,” also from <span class="italic_text ">The Round Table</span>, Hazlitt states that “Milton had as much of what is meant by gusto as any poet.  He forms the most intense
-                  conception of things, and then embodies them by a single stroke of his pen.  Force
-                  of style is perhaps his first excellence” (4: 38).  Keats reports reading Hazlitt’s <span class="italic_text ">Round Table</span> with Bailey in September 1817 (<span class="italic_text ">Letters</span> 1: 166).<br><br>
+                  subject” (4: 79).  In “On Milton’s Versification,” also from <span class="italic_text ">The Round Table</span>, Hazlitt states that “Milton had as much of what is meant by <span class="italic_text ">gusto</span> as any poet.  He forms the most intense conception of things, and then embodies them
+                  by a single stroke of his pen.  Force of style is perhaps his first excellence” (4: 38).  Keats reports reading Hazlitt’s <span class="italic_text ">Round Table</span> with Bailey in September 1817 (<span class="italic_text ">Letters</span> 1: 166).<br><br>
                   The term “stationing” derives from theories of the visual arts and refers to the positioning of figures
                   within a particular setting.  Keats’s remarks on Milton’s “stationing or statu[a]ry” are similar to comments Hazlitt makes in his essay “On Shakespeare and Milton” (5: 59-60).  See the Introduction (section on “Themes and Patterns in the Marginalia:
                   Descriptive Passages”) for further discussion of these points.  <br><br>
@@ -11624,7 +11700,7 @@
             He from the east his flaming road begin,<br>
             Or she from west her silent course advance,<br>
             With <span class="single_underline ">inoffensive pace that spinning sleeps</span><br>
-            <span class="single_underline "><span class="left_vertical ">On her soft axle,</span> while she paces even,</span><br>
+            <span class="left_vertical "><span class="single_underline ">On her soft axle,</span> while she paces even,</span><br>
             <span class="left_vertical ">And bears thee soft with the smooth air along;</span><br>
             
 </div>
@@ -11806,6 +11882,8 @@
             
             <br>
             
+            
+            
             Ye Hills, and Dales, ye Rivers, Woods, and Plains,<br>
             And ye that live and move, fair Creatures <span class="single_underline ">tell,</span><br>
             <span class="single_underline ">Tell, if ye saw, how came I thus, how here</span>?<br>
@@ -11859,6 +11937,16 @@
             </a></div>
             
             <br>
+            
+            
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  Compare the passage ending “Had lively shadow'd" (line 311) to the well-known passage
+                  from Keats’s 22 November 1817 letter to Bailey: “The Imagination may be compared to Adam’s dream—he awoke and found it truth. . .
+                  . It is ‘a Vision in the form of Youth’ a Shadow of reality to come” (<span class="italic_text ">Letters</span> 1: 185).  Keats does not mark the other passage in which Adam’s dream becomes reality:
+                  when he dreams of Eve and wakes to find her presented to him by God (<a href="#kpl258">8.461-90</a>).
+                  
+                  </span><br><br></div>
             
             <span class="left_vertical ">Had lively shadow'd: Here had new begun</span><br>
             <span class="left_vertical ">My wandering, had not he, who was my guide</span><br>
@@ -12613,6 +12701,13 @@
             
             <br>
             
+            
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  Keats quotes lines 121-22, “the hateful siege / Of contraries,” in a 21 September 1818 letter to Dilke in which he describes the strain of living
+                  with his dying brother Tom (<span class="italic_text ">Letters</span> 1.369).  See also the discussion of this passage in the Introduction (section on
+                  “Dating the Marginalia”). </span><br><br></div>
+            
             Doubt might beget of diabolic power<br>
             Active within, beyond the sense of brute. <br>
             Thus he resolved; <span class="single_underline ">but first, from inward grief,</span><br>
@@ -12640,7 +12735,7 @@
             Find place or refuge; and the more I see<br>
             Pleasures about me, so much more I feel<br>
             Torment within me, <span class="single_underline ">as from the hateful siege</span><br>
-            <span class="single_underline "><span class="left_vertical_triple ">Of contraries</span>; all good to me becomes</span><br>
+            <span class="left_vertical_triple "><span class="single_underline ">Of contraries</span>; all good to me becomes</span><br>
             Bane, and in Heaven much worse would be my state. <br>
             But neither seek I, no nor in Heaven<br>
             To dwell, unless by mastering Heaven's Supreme; <br>
@@ -13672,7 +13767,7 @@
             <br>
             <div class="pageWrapper" id="kpl289">
             
-            <div class="pageNumber" style="visibility: hidden;">kpl2.96image</div>
+            <div class="pageNumber" style="visibility: hidden;">image</div>
 
 <br>
             
@@ -13682,6 +13777,8 @@
             </a></div>
             
             <br>
+            
+            
             
             
 </div>
@@ -14808,6 +14905,14 @@
             
             <br>
             
+            
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  Keats quotes “Sagacious of his quarry” in his note on <a href="#kpl234"><span class="italic_text ">PL</span> 7.422-23</a>.
+                  
+                  
+                  </span><br><br></div>
+            
             Against the day of battle, to a field, <br>
             Where armies lie encamp'd, come flying, lured<br>
             With scent of living carcases design'd <br>
@@ -14861,6 +14966,18 @@
             </a></div>
             
             <br>
+            
+            
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  Line 330 (“his children dear”) would seem to be another example of what Keats considers “the sublime pathetic” in Milton.  See his <a href="#kpl77">note to <span class="italic_text ">PL</span> 2.546-52</a>, where he cites as an instance of the sublime pathetic “where Satan’s progeny is called his ‘daughter dear’.”  Keats, however, does not underscore similar passages on the next two pages referring
+                  to Sin as Satan’s “offspring dear,” “fair / Enchanting daughter,” and “Fair daughter”
+                  (<a href="#kpl314">10.349</a>, <a href="#kpl314">352-53</a>, <a href="#kpl315">384</a>).  Perhaps Keats began to perceive in these latter passages not pathos but sinister
+                  irony, as Satan cherishes and flatters the hideous offspring who collaborate with
+                  him on bringing about the suffering of mankind.
+                  
+                  
+                  </span><br><br></div>
             
             And scourged with many a stroke the indignant waves.<br>
             Now had they brought the work, <span class="single_underline ">by wonderous art </span><br>
@@ -15240,6 +15357,15 @@
             
             <br>
             
+            
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  It may be relevant to the underscored passage in lines 589-90 that Keats in December
+                  1817 saw Benjamin West’s painting “Death on the Pale Horse” and described it in a letter to his brothers (<span class="italic_text ">Letters</span> 1: 192).
+                  
+                  
+                  </span><br><br></div>
+            
             This more delusive; not the touch, but taste<br>
             Deceived; they, fondly thinking to allay <br>
             Their appetite with gust, instead of fruit<br>
@@ -15401,6 +15527,15 @@
             </a></div>
             
             <br>
+            
+            
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  Keats quotes lines 702-03 of book 10 in his 3 May 1818 letter to Reynolds: “one would think there has been growing up for these last four thousand years, a grandchild
+                  Scion of the old forbidden tree, and that some modern Eve had just violated it; and
+                  that there was come with double charge, ‘Notus and Afer black with thunderous clouds from Sierra-leona’” (<span class="italic_text ">Letters</span> 1: 276).
+                  
+                  </span><br><br></div>
             
             <span class="single_underline ">Oblique the centric globe</span>: Some say, the sun<br>
             <span class="left_vertical ">Was bid turn reins from the equinoctial road</span><br>
@@ -16315,6 +16450,13 @@
             
             <br>
             
+            
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  As Allott notes (499), Keats’s poem “As Hermes once took to his feathers light” appears to be indebted to lines 130-33.
+                  
+                  </span><br><br></div>
+            
             <span class="single_underline ">Spangled with eyes more numerous than those</span><br>
             <span class="single_underline ">Of Argus, and more wakeful than to drowse, </span><br>
             <span class="single_underline ">Charm'd with Arcadian pipe, the pastoral reed</span><br>
@@ -16505,7 +16647,7 @@
             <span class="tab_space">   </span>   He added not; for Adam at the news<br>
             Heart-struck with the chilling gripe of sorrow stood, <br>
             That all his senses bound; <span class="single_underline ">Eve, who unseen</span><br>
-            <span class="single_underline "><span class="left_vertical ">Yet all had heard, with audible lament</span></span><br>
+            <span class="left_vertical "><span class="single_underline ">Yet all had heard, with audible lament</span></span><br>
             <span class="left_vertical "><span class="single_underline ">Discover'd soon the place of her retire</span>.</span><br>
             <span class="tab_space">   </span>   O unexpected stroke, worse than of death!<br>
             <span class="left_vertical_double ">Must I leave thee, Paradise? thus leave</span><br>
@@ -16670,7 +16812,7 @@
             My obvious breast; arming to overcome<br>
             By suffering, and earn rest from labour won, <br>
             If so I may attain.—<span class="single_underline ">So both ascend</span><br>
-            <span class="single_underline "><span class="left_vertical ">In the visions of God</span>. It was a hill,</span><br>
+            <span class="left_vertical "><span class="single_underline ">In the visions of God</span>. It was a hill,</span><br>
             Or Paradise the highest; from whose top<br>
             The hemisphere of earth, in clearest ken, <br>
             Stretch'd out to the amplest reach of prospect lay. <br>

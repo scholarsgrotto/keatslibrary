@@ -72,6 +72,14 @@
      
      <revisionDesc>
         
+        <change who="#DJJ" when="2020-01-30" n="RC-03">
+           <label>Changed by</label>
+           <name>Daniel J. Johnson</name>
+           <list>
+              <item>Corrected some encoding errors and a minor typo.</item>
+           </list>
+        </change>
+        
         <change who="#DJJ" when="2019-07-20" n="RC-02">
            <label>Changed by</label>
            <name>Daniel J. Johnson</name>
@@ -265,7 +273,7 @@
       
       
       
-      <pb n="paratextl" xml:id="pref-04" facs="8g84mk64g7j"/>
+      <pb n="paratextl" xml:id="kpl1.pref-04" facs="8g84mk64g7j"/>
 <!--      <pb n="paratextl" facs="8g84mk64g7j"/>-->
       
       <p>Printed by</p>
@@ -274,28 +282,28 @@
       
       
       
-      <pb n="paratextr" xml:id="pref-05" facs="8g84mk64g7j"/>
+      <pb n="paratextr" xml:id="kpl1.pref-05" facs="8g84mk64g7j"/>
 <!--      <pb n="paratextr" facs="8g84mk64g7j"/>-->
       <p>[Prefatory Material: The Life of MR John Milton.]</p>
       
       
       
       
-      <pb n="paratextl" xml:id="pref-06" facs="8k71ng47r8z"/>
+      <pb n="paratextl" xml:id="kpl1.pref-06" facs="8k71ng47r8z"/>
 <!--      <pb n="paratextl" facs="8k71ng47r8z"/>-->
       <p>[Prefatory Material: The Life of MR John Milton.]</p>
       
       
       
       
-      <pb n="paratextr" xml:id="pref-07" facs="8k71ng47r8z"/>
+      <pb n="paratextr" xml:id="kpl1.pref-07" facs="8k71ng47r8z"/>
 <!--      <pb n="paratextr" facs="8k71ng47r8z"/>-->
       <p>[Prefatory Material: The Life of MR John Milton.]</p>
       
       
       
       
-      <pb n="paratextl" xml:id="pref-08" facs="8p58pc3119d"/>
+      <pb n="paratextl" xml:id="kpl1.pref-08" facs="8p58pc3119d"/>
 <!--      <pb n="paratextl" facs="8p58pc3119d"/>-->
       <p>[Prefatory Material: The Life of MR John Milton.]</p>
       
@@ -303,7 +311,7 @@
       
       
       
-      <pb n="paratextr" xml:id="pref-09" facs="8p58pc3119d"/>
+      <pb n="paratextr" xml:id="kpl1.pref-09" facs="8p58pc3119d"/>
 <!--      <pb n="paratextr" facs="8p58pc3119d"/>-->
       <p>[Prefatory Material: The Life of MR John Milton.]</p>
       
@@ -311,7 +319,7 @@
       
       
       
-      <pb n="paratextl" xml:id="pref-10" facs="8s45q814b0p"/>
+      <pb n="paratextl" xml:id="kpl1.pref-10" facs="8s45q814b0p"/>
 <!--      <pb n="paratextl" facs="8s45q814b0p"/>-->
       <p>[Prefatory Material: The Life of MR John Milton.]</p>
       
@@ -319,7 +327,7 @@
       
       
       
-      <pb n="paratextr" xml:id="pref-11" facs="8s45q814b0p"/>
+      <pb n="paratextr" xml:id="kpl1.pref-11" facs="8s45q814b0p"/>
 <!--      <pb n="paratextr" facs="8s45q814b0p"/>-->
       <p>[Prefatory Material: The Life of MR John Milton.]</p>
       
@@ -327,7 +335,7 @@
       
       
       
-      <pb n="paratextl" xml:id="pref-12" facs="8w32r497m19"/>
+      <pb n="paratextl" xml:id="kpl1.pref-12" facs="8w32r497m19"/>
 <!--      <pb n="paratextl" facs="8w32r497m19"/>-->
       <p>[Prefatory Material: The Life of MR John Milton.]</p>
       
@@ -335,7 +343,7 @@
       
       
       
-      <pb n="paratextr" xml:id="pref-13" facs="8w32r497m19"/>
+      <pb n="paratextr" xml:id="kpl1.pref-13" facs="8w32r497m19"/>
 <!--      <pb n="paratextr" facs="8w32r497m19"/>-->
       <p>[Prefatory Material: The Life of MR John Milton.]</p>
       
@@ -343,14 +351,14 @@
       
       
       
-      <pb n="paratextl" xml:id="pref-14" facs="9019s180w2h"/>
+      <pb n="paratextl" xml:id="kpl1.pref-14" facs="9019s180w2h"/>
 <!--      <pb n="paratextl" facs="9019s180w2h"/>-->
       <p>[Blank]</p>
       
       
       
       
-      <pb n="paratextr" xml:id="pref-15" facs="9019s180w2h"/>
+      <pb n="paratextr" xml:id="kpl1.pref-15" facs="9019s180w2h"/>
 <!--      <pb n="paratextr" facs="9019s180w2h"/>-->
       <p>[Prefatory Material: Postscript.]</p>
       
@@ -358,55 +366,55 @@
       
       
       
-      <pb n="paratextl" xml:id="pref-16" facs="9306sx64531"/>
+      <pb n="paratextl" xml:id="kpl1.pref-16" facs="9306sx64531"/>
 <!--      <pb n="paratextl" facs="9306sx64531"/>-->
       <p>[Prefatory Material: Postscript.]</p>
       
       
       
       
-      <pb n="paratextr" xml:id="pref-17" facs="9306sx64531"/>
+      <pb n="paratextr" xml:id="kpl1.pref-17" facs="9306sx64531"/>
 <!--      <pb n="paratextr" facs="9306sx64531"/>-->
       <p>[Prefatory Material: Postscript.]</p>
       
       
       
       
-      <pb n="paratextl" xml:id="pref-18" facs="9593tt47f4d"/>
+      <pb n="paratextl" xml:id="kpl1.pref-18" facs="9593tt47f4d"/>
 <!--      <pb n="paratextl" facs="9593tt47f4d"/>-->
       <p>[Blank]</p>
       
       
       
       
-      <pb n="paratextr" xml:id="pref-19" facs="9593tt47f4d"/>
+      <pb n="paratextr" xml:id="kpl1.pref-19" facs="9593tt47f4d"/>
 <!--      <pb n="paratextr" facs="9593tt47f4d"/>-->
       <p>[Prefatory Material: In Paradisum Amissam]</p>
       
             
       
       
-      <pb n="paratextl" xml:id="pref-20" facs="9880vq30q59"/>
+      <pb n="paratextl" xml:id="kpl1.pref-20" facs="9880vq30q59"/>
 <!--      <pb n="paratextl" facs="9880vq30q59"/>-->
       <p>[Prefatory Material: In Paradisum Amissam]</p>
       
       
       
       
-      <pb n="paratextr" xml:id="pref-21" facs="9880vq30q59"/>
+      <pb n="paratextr" xml:id="kpl1.pref-21" facs="9880vq30q59"/>
 <!--      <pb n="paratextr" facs="9880vq30q59"/>-->
       <p>[Prefatory Material: On Paradise Lost.]</p>
       
       
       
       
-      <pb n="paratextl" xml:id="pref-22" facs="9c67wm14068"/>
+      <pb n="paratextl" xml:id="kpl1.pref-22" facs="9c67wm14068"/>
 <!--      <pb n="paratextl" facs="9c67wm14068"/>-->
       <p>[Prefatory Material: On Paradise Lost.]</p>
       
       
       
-      <pb n="paratextr" xml:id="pref-23" facs="9c67wm14068"/>
+      <pb n="paratextr" xml:id="kpl1.pref-23" facs="9c67wm14068"/>
 <!--      <pb n="paratextr" facs="9c67wm14068"/>-->
       <p>[Prefatory Material: On the Verse.]</p>
       
@@ -415,7 +423,7 @@
       
       
       
-      <pb n="paratextl" xml:id="pref-24" facs="9g54xg9787w"/>
+      <pb n="paratextl" xml:id="kpl1.pref-24" facs="9g54xg9787w"/>
 <!--      <pb n="paratextl" facs="9g54xg9787w"/>-->
          <p>[Blank]</p>
       
@@ -423,7 +431,7 @@
       
       
       
-      <pb n="paratextr" xml:id="pref-25" facs="9g54xg9787w"/>
+      <pb n="paratextr" xml:id="kpl1.pref-25" facs="9g54xg9787w"/>
 <!--      <pb n="paratextr" facs="9g54xg9787w"/>-->
         <p>Paradise Lost:</p>
         <p>A</p>
@@ -437,7 +445,7 @@
       
       
       
-      <pb n="paratextl" xml:id="pref-26" facs="9k41zc80j8s"/>
+      <pb n="paratextl" xml:id="kpl1.pref-26" facs="9k41zc80j8s"/>
 <!--      <pb n="paratextl" facs="9k41zc80j8s"/>-->
       
         <p>Printed by</p>
@@ -4300,7 +4308,7 @@
          <l><mod rend="su" spanTo="#kpl1.078.0607"/>Breathe forth Elixir pure,<anchor xml:id="kpl1.078.0607"/> and rivers run</l>
          <l xml:id="kpl1.078.0608l">Portable gold, <mod rend="su" spanTo="#kpl1.078.0609"/>when with one virtuous touch</l>
          <l>The arch-chemic Sun,<anchor xml:id="kpl1.078.0609"/> so far from us remote,</l>
-         <l><mod rend="lvs" xml:id="kpl1.078.610l" spanTo="#kpl1.078.0617eol"/>Produces with terrestrial humour mix'd,</l>
+         <l xml:id="kpl1.078.610l"><mod rend="lvs" spanTo="#kpl1.078.0617eol"/>Produces with terrestrial humour mix'd,</l>
          <l>Here in the dark so many precious things</l>
          <l>Of colour glorious and effect so rare?</l>
          <l>Here matter new to gaze the Devil met</l>
@@ -18381,7 +18389,7 @@
          target="#kpl1.85"
          >
          
-         <p>Benjamin Bailey told Richard Monckton Milnes in 1849 that this note about “a friend of mine” referred to himself, for <q>“We had much talk of Milton when Keats was at Oxford: &amp; I remember that I expressed, though more at large, this opinion, or something to the effect here noted down”</q> (<title rend="italic">Keats Circle</title> 2: 296).  The “friend” mentioned in Keats’s note may actually be Charles Wentworth Dilke rather than Bailey.  A copy of Milton’s poems bearing Dilke’s bookplate (owned by Keats House) contains an annotation at the beginning of book 4 of <title rend="italic">Paradise Lost</title> that is similar to Keats’s: <q>“The opening of this Book is fearful[ly] sublime.—It gives note of dreadful preparation.—It seems to rouse us from a moral slumber, &amp; bids us prepare for some strange &amp;mp; unkn[own] consequences—It is fit prelude to the act:--an act that in its consequen[ce] was to be felt through all succeeding generations.  It is much the finest in the whole work.”</q>  Claude Lee Finney points out the similarity between Dilke’s and Keats’s remarks on the opening of book 4 and believes the two men were reading and discussing <title rend="italic">Paradise Lost</title> in December 1817 and January 1818 (1: 337).  Both Bailey and Dilke may have influenced Keats’s response to the beginning of book 4 as expressed in this note.</p>
+         <p>Benjamin Bailey told Richard Monckton Milnes in 1849 that this note about “a friend of mine” referred to himself, for <q>“We had much talk of Milton when Keats was at Oxford: &amp; I remember that I expressed, though more at large, this opinion, or something to the effect here noted down”</q> (<title rend="italic">Keats Circle</title> 2: 296).  The “friend” mentioned in Keats’s note may actually be Charles Wentworth Dilke rather than Bailey.  A copy of Milton’s poems bearing Dilke’s bookplate (owned by Keats House) contains an annotation at the beginning of book 4 of <title rend="italic">Paradise Lost</title> that is similar to Keats’s: <q>“The opening of this Book is fearful[ly] sublime.—It gives note of dreadful preparation.—It seems to rouse us from a moral slumber, &amp; bids us prepare for some strange &amp; unkn[own] consequences—It is fit prelude to the act:--an act that in its consequen[ce] was to be felt through all succeeding generations.  It is much the finest in the whole work.”</q>  Claude Lee Finney points out the similarity between Dilke’s and Keats’s remarks on the opening of book 4 and believes the two men were reading and discussing <title rend="italic">Paradise Lost</title> in December 1817 and January 1818 (1: 337).  Both Bailey and Dilke may have influenced Keats’s response to the beginning of book 4 as expressed in this note.</p>
          
          <p>
             The phrase <q>“Grandeur of Tenderness”</q> is similar to <q>“sublime pathetic,”</q> which Keats uses in <ref target="#kpl1.44">his note on pages 44 and 45 of volume 1</ref>.  Compare also <ref target="#kpl1.092.0271l">his note on the pathos of <title rend="italic">PL</title> 4.271-72</ref>.

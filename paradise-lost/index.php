@@ -14,15 +14,15 @@
                     <?php include '../head.php';?>
                     </div>
       <div id="pageWrapper">
-         <div id="contentWrapper"><span style="font-size:135%;font-weight:bold;">Keats's Paradise Lost: a Digital Edition </span><br><span class="usageText" style="color:red;">Release Candidate 2, last updated Oct. 31, 2019</span><p><a href="plviewer.php"><img src="images/pl-small-title.jpg" alt="Link to the Keats copy of Paradise Lost" title="Open Keats's Paradise Lost" align="middle" style="margin:0px 10px 0px 0px;float:left;"></a><br><span style="font-size:120%"><a href="plviewer.php" title="Paradise Lost">OPEN Keats's <span class="titleAttribution">Paradise Lost</span></a></span><br><br>
+         <div id="contentWrapper"><span style="font-size:135%;font-weight:bold;">Keats's Paradise Lost: a Digital Edition </span><br><span class="usageText" style="color:red;">Release Candidate 3, last updated January 30, 2020</span><p><a href="plviewer.php"><img src="images/pl-small-title.jpg" alt="Link to the Keats copy of Paradise Lost" title="Open Keats's Paradise Lost" align="middle" style="margin:0px 10px 0px 0px;float:left;"></a><br><span style="font-size:120%"><a href="plviewer.php" title="Paradise Lost">OPEN Keats's <span class="titleAttribution">Paradise Lost</span></a></span><br><br>
                
                ... <a href="#schol_in" title="Scholarly Introduction">View scholarly introduction</a> by Beth Lau<br>
                
                ... <a href="keats_zotero_bib.php" title="Works Cited">View works cited</a><br>
                
-               ... View technical introduction by Dan Johnson <span class="usageText" style="color:red;">[in development]</span><br>
+               ... <a href="https://github.com/scholarsgrotto/keatslibrary/blob/master/paradise-lost/documentation/pl_technical.md" title="Technical Introduction">View technical introduction</a> by Dan Johnson<br>
                
-               ... View documentation <span class="usageText" style="color:red;">[in development]</span><br>
+               ... <a href="https://github.com/scholarsgrotto/keatslibrary/blob/master/paradise-lost/documentation/pl_encoding_principles.md" title="Technical Introduction">View documentation on encoding principals</a> by Dan Johnson<br>
                
                ... <a href="#contrib" title="Contributors">View contributors</a><br><br></p><br><h3 id="schol_in">Scholarly Introduction</h3>Keats’s two-volume, 1807 copy of Milton’s <span class="titleAttribution">Paradise Lost</span> is one of the most valuable of the poet’s surviving books.  H. J. Jackson claims
             that only two of Keats’s annotated books contain notes that offer “serious critical commentary:” his <span class="titleAttribution">Paradise Lost</span> and his folio Shakespeare (191).
@@ -319,7 +319,7 @@
              (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=279">9.447-51</a>)
             <span class="noteTooltip">(NOTE)<span class="noteTooltipText">Keats does not mark the well-known opening line of this simile—“As one who long in populous city pent” (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=279">9.445</a>)—which is considered a source for his 1816 sonnet “To one who has been long in city pent.” Perhaps the line was so familiar to Keats that he did not consider it worth singling
                   out for special attention.</span></span> </span><br>
-            <br><br>
+            <br>
             
             Keats does not note only pleasant odors, however.  He also underscores “Asmodëus with the fishy fume” (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=124">4.168</a>) and the passage in which Death “snuff’d the smell / Of mortal change on Earth”(<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=311">10.272-73</a>; see also <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=312">10.279-81</a>).  The lines just quoted have been linked to <span class="titleAttribution">Hyperion</span> 1.167-68, in which the old sun god “still snuff’d the incense, teeming up / From man.”
             <span class="noteTooltip">(NOTE)<span class="noteTooltipText">Allott 406n.
