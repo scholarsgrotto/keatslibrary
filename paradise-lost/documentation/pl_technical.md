@@ -1,6 +1,6 @@
 # Technical Documentation
 
-Brief notes on the technical principles used in creating *(Keats's Paradise Lost)[https://keatslibrary.org/paradise-lost/]*.
+Brief notes on the technical principles used in creating *[Keats's Paradise Lost](https://keatslibrary.org/paradise-lost/)*.
 
 ## Files
 
