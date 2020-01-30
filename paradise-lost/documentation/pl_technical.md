@@ -19,7 +19,7 @@ Line numbers are not recorded in the .xml encoding.
 
 *Keats's Paradise Lost* imperfectly follows a software versioning paradigm. That is, changes are recorded in sequentially-ordered releases, beginning with early versions ("beta-01," "RC-01" (release candidate 1), "RC-02," and "RC-03"), and continuing with "1.0" onwards. No attempt is made to follow any specification such as ["Semantic Versioning"](https://semver.org/) closely, but the general principle of making incremental changes easily trackable applies.
 
-The most-recent numbered edition is recorded in the TEI header of the main .xml file, which is then reflected on the front-facing website. A brief description of all changes, with dates of release, are also recorded in the TEI header. The actual changes can be viewed and compared (in Github)[https://github.com/scholarsgrotto/keatslibrary].
+The most-recent numbered edition is recorded in the TEI header of the main .xml file, which is then reflected on the front-facing website. A brief description of all changes, with dates of release, are also recorded in the TEI header. The actual changes can be viewed and compared [in Github](https://github.com/scholarsgrotto/keatslibrary).
 
 It should also be noted what constitutes a "change." At least through RC-03, a change is considered an alteration to the main .xml source file, not an alteration to the interface of the web version. So for example, if the content and scholarly apparatus of *Keats's Paradise Lost* remained unchanged, but the decision were made to change the image banner at the top of [The Keats Library](https://keatslibrary.org) web page and style hyperlinks in bright gold instead of their default blue, the edition number would not increment, even though the web interface looks different.
 
@@ -29,4 +29,4 @@ As of early 2020, recommended best practice for citing *Keats's Paradise Lost* i
 
 *Created 2020-01-30 by Daniel Johnson*
 
-[1] (See http://www.blakearchive.org/staticpage/archiveataglance?p=planNEW)[http://www.blakearchive.org/staticpage/archiveataglance?p=planNEW]
+[1] [See http://www.blakearchive.org/staticpage/archiveataglance?p=planNEW](http://www.blakearchive.org/staticpage/archiveataglance?p=planNEW)
