@@ -1,6 +1,6 @@
 # Encoding principals
 
-This document briefly summarizes the TEI (Text Encoding Initiative) encoding practices used to create (*Keats's Paradise Lost*)[https://keatslibrary.org/paradise-lost/]. It is not exhaustive documentation, but is meant to give enough detail that future editors could, by reading in concert with the encoded files, apply the same encoding scheme to their own work. 
+This document briefly summarizes the TEI (Text Encoding Initiative) encoding practices used to create *(Keats's Paradise Lost)[https://keatslibrary.org/paradise-lost/]*. It is not exhaustive documentation, but is meant to give enough detail that future editors could, by reading in concert with the encoded files, apply the same encoding scheme to their own work. 
 
 This documentation will also serve as historical evidence of engagement with the *Guidelines* at a specific moment in time, for a specific use case. It is clear to the current editor that lessons learned from encoding *Keats's Paradise Lost* could be used to develop more elegant and interoperable practices for encoding marginalia, to broad benefit.
 
