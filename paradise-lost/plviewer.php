@@ -110,7 +110,7 @@ $(document).ready(function(){
 				
 				// Grab the page number
 				pageNo = $(response).find("#" + div_id + " > div.pageNumber").text();
-				
+								
 				// If the page number is not a number, we'll hide it.
 				if (isNaN(pageNo)){
 
@@ -122,12 +122,18 @@ $(document).ready(function(){
 
 				}
 				
-
 				// Move around Keats's notes to the right div.
 				$("#divNote").empty();
 				$("#divContent").find(".writtenNote").appendTo("#divNote");
-				
-				
+							
+				// Fix links
+				$('a[href^="#kpl"]').each(function(){
+					var oldUrl = $(this).attr("href"); // Get current url
+          var newUrl = oldUrl.replace("#kpl", "plviewer.php?pid="); // Create new url
+          $(this).attr("href", newUrl); // Set herf value
+
+				});
+
 				
 				// Committing material to the history for pressing the back button
 				if (firstStart == 0){
@@ -503,7 +509,7 @@ $(document).ready(function(){
 	<!-- For everything below the header -->
 	
 	<div class="centeredText">
-		<span class = "workTitle">Keats's Paradise Lost, a Digital Edition</span>
+		<span class = "workTitle">Keats's Paradise Lost, a Digital Edition</span> (Version: Release Candidate 1)
 
 		<br/>
 
@@ -584,11 +590,11 @@ $(document).ready(function(){
 								url: '../images/loading.jpg',
 								buildPyramid: false
 							},
-							tabIndex: "" //<!-- This presents it from autopanning when you move the image around. -->
+							tabIndex: "", //<!-- This presents it from autopanning when you move the image around. -->
 										//<!-- Per: https://github.com/openseadragon/openseadragon/issues/954 -->
 										//<!-- And: https://github.com/openseadragon/openseadragon/pull/805 -->
 										
-							
+							showRotationControl: true,
 							
 							
 						});

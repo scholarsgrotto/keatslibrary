@@ -15,10 +15,12 @@
 #divNote{
 	
 	
-	flex-basis: 225px;
+	flex-basis: 235px;
     flex-grow: 0;
     flex-shrink: 0;
 	padding: 2px;
+	overflow-y: auto;
+	height:800px;
 	
 }
 

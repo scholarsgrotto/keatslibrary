@@ -15,11 +15,11 @@
             
             <respStmt>
                <resp>Transcription, editing, encoding, and XSLT transformations by </resp>
-               <name>Daniel Johnson</name>
+               <name ref="http://orcid.org/0000-0003-1976-0635">Daniel Johnson</name>
             </respStmt>
             
             <respStmt>
-               <resp>Transcription by </resp>
+               <resp>Transcription, introduction, and scholarly apparatus by </resp>
                <name>Beth Lau</name>
             </respStmt>
             
@@ -29,6 +29,8 @@
             </respStmt>
 
          </titleStmt>
+         
+         
          
          
          
@@ -43,7 +45,7 @@
             <availability>
                
                <p>The textual portion of this digital edition is open access licensed under a Creative Commons Attribution 4.0 International license.</p>
-               <p>The linked images, hosted at the University of Notre Dame, are from an original physical volume owned by Keats House. Permission for display on this digital edition has been granted by Keats House for personal use only. Users may not publish, reproduce, reuse, or distribute without written permission from Keats House, 10 Keats Grove, Hampstead, London NW3 2RR. Email <email>keatshouse@cityoflondon.gov.uk</email>.
+               <p>The linked images, hosted at the University of Notre Dame, are from original physical volumes owned by Keats House. Permission for display on this digital edition has been granted by Keats House for personal use only. Users may not publish, reproduce, reuse, or distribute without written permission from Keats House, 10 Keats Grove, Hampstead, London NW3 2RR. Email <email>keatshouse@cityoflondon.gov.uk</email>.
                </p>
                
             </availability>
@@ -69,6 +71,16 @@
       </fileDesc>
      
      <revisionDesc>
+        
+        <change who="#DJJ" when="2019-04-16" n="RC-01">
+           <label>Changed by</label>
+           <name>Daniel J. Johnson</name>
+           <list>
+              <item>Finished adding Beth Lau's scholarly apparatus for first Release Candidate of the full edition.</item>
+           </list>
+        </change>
+        
+        
         <change who="#DJJ" when="2018-07-20" n="Beta-1">
            <label>Changed by</label>
            <name>Daniel J. Johnson</name>
@@ -89,7 +101,7 @@
    <body>
       
       <!--<pb n="image" xml:id="kpl1.cover" facs="8336h131c3v"/>-->
-      <pb n="image" facs="8336h131c3v"/>
+      <pb xml:id="kpl1.cover" n="image" facs="8336h131c3v"/>
       
       <p>[Cover]</p>
       
@@ -97,16 +109,16 @@
       
       
       
-      <!--<pb n="paratextl" xml:id="kpl1.front-endpaper1" facs="8623hx14n43"/>-->
-      <pb n="paratextl" facs="8623hx14n43"/>
+      <pb n="paratextl" xml:id="kpl1.front-endpaper1" facs="8623hx14n43"/>
+      <!--<pb n="paratextl" facs="8623hx14n43"/>-->
       
       <p>[Bookplate of Charles Wentworth Dilke]</p>
       
       
       
       
-      <!--<pb n="paratextr" xml:id="kpl1.front-endpaper2" facs="8623hx14n43"/>-->
-      <pb n="paratextr" facs="8623hx14n43"/>
+      <pb n="paratextr" xml:id="kpl1.front-endpaper2" facs="8623hx14n43"/>
+      <!--<pb n="paratextr" facs="8623hx14n43"/>-->
       
       <p>[Blank page, marbling]</p>
       
@@ -116,8 +128,8 @@
       
       
       
-      <!--<pb n="paratextl" xml:id="kpl1.front-flyleaf1" facs="8910js97x5q"/>-->
-      <pb n="paratextl" facs="8910js97x5q"/>
+      <pb n="paratextl" xml:id="kpl1.front-flyleaf1" facs="8910js97x5q"/>
+<!--      <pb n="paratextl" facs="8910js97x5q"/>-->
       
       <p>[Handwriting]</p>
       
@@ -126,8 +138,8 @@
       
       
       
-      <!--<pb n="paratextr" xml:id="kpl1.front-flyleaf2" facs="8910js97x5q"/>-->
-      <pb n="paratextr" facs="8910js97x5q"/>
+      <pb n="paratextr" xml:id="kpl1.front-flyleaf2" facs="8910js97x5q"/>
+<!--      <pb n="paratextr" facs="8910js97x5q"/>-->
       
       <p>[Identifying marks]</p>
       
@@ -140,8 +152,8 @@
       
       
       
-      <!--<pb n="paratextl" xml:id="kpl1.title1" facs="8049g44832z"/>-->
-      <pb n="paratextl" facs="8049g44832z"/>
+      <pb n="paratextl" xml:id="kpl1.title1" facs="8049g44832z"/>
+<!--      <pb n="paratextl" facs="8049g44832z"/>-->
       
       <p>[Blank]</p>
       
@@ -150,8 +162,8 @@
       
       
       
-      <!--<pb n="paratextr" xml:id="kpl1.title2" facs="8049g44832z"/> -->
-      <pb n="paratextr" facs="8049g44832z"/> 
+      <pb n="paratextr" xml:id="kpl1.title2" facs="8049g44832z"/> 
+<!--      <pb n="paratextr" facs="8049g44832z"/> -->
       
       <p>
          <title>Milton's <lb/> 
@@ -208,8 +220,8 @@
       
       
       
-      <!--<pb n="paratextl" xml:id="kpl1.half-title1" facs="8c97kp81664"/>-->
-      <pb n="paratextl" facs="8c97kp81664"/>
+      <pb n="paratextl" xml:id="kpl1.half-title1" facs="8c97kp81664"/>
+<!--      <pb n="paratextl" facs="8c97kp81664"/>-->
       
       <p>[Blank]</p>
       
@@ -245,8 +257,8 @@
       
       
       
-      <!--<pb n="paratextl" xml:id="pref-04" facs="8g84mk64g7j"/>-->
-      <pb n="paratextl" facs="8g84mk64g7j"/>
+      <pb n="paratextl" xml:id="pref-04" facs="8g84mk64g7j"/>
+<!--      <pb n="paratextl" facs="8g84mk64g7j"/>-->
       
       <p>Printed by</p>
       <p>Abernethy &amp; Walker.</p>
@@ -254,140 +266,140 @@
       
       
       
-      <!--<pb n="paratextr" xml:id="pref-05" facs="8g84mk64g7j"/>-->
-      <pb n="paratextr" facs="8g84mk64g7j"/>
+      <pb n="paratextr" xml:id="pref-05" facs="8g84mk64g7j"/>
+<!--      <pb n="paratextr" facs="8g84mk64g7j"/>-->
       <p>[Prefatory Material: The Life of MR John Milton.]</p>
       
       
       
       
-      <!--<pb n="paratextl" xml:id="pref-06" facs="8k71ng47r8z"/>-->
-      <pb n="paratextl" facs="8k71ng47r8z"/>
+      <pb n="paratextl" xml:id="pref-06" facs="8k71ng47r8z"/>
+<!--      <pb n="paratextl" facs="8k71ng47r8z"/>-->
       <p>[Prefatory Material: The Life of MR John Milton.]</p>
       
       
       
       
-      <!--<pb n="paratextr" xml:id="pref-07" facs="8k71ng47r8z"/>-->
-      <pb n="paratextr" facs="8k71ng47r8z"/>
+      <pb n="paratextr" xml:id="pref-07" facs="8k71ng47r8z"/>
+<!--      <pb n="paratextr" facs="8k71ng47r8z"/>-->
       <p>[Prefatory Material: The Life of MR John Milton.]</p>
       
       
       
       
-      <!--<pb n="paratextl" xml:id="pref-08" facs="8p58pc3119d"/>-->
-      <pb n="paratextl" facs="8p58pc3119d"/>
-      <p>[Prefatory Material: The Life of MR John Milton.]</p>
-      
-      
-      
-      
-      
-      <!--<pb n="paratextr" xml:id="pref-09" facs="8p58pc3119d"/>-->
-      <pb n="paratextr" facs="8p58pc3119d"/>
+      <pb n="paratextl" xml:id="pref-08" facs="8p58pc3119d"/>
+<!--      <pb n="paratextl" facs="8p58pc3119d"/>-->
       <p>[Prefatory Material: The Life of MR John Milton.]</p>
       
       
       
       
       
-      <!--<pb n="paratextl" xml:id="pref-10" facs="8s45q814b0p"/>-->
-      <pb n="paratextl" facs="8s45q814b0p"/>
+      <pb n="paratextr" xml:id="pref-09" facs="8p58pc3119d"/>
+<!--      <pb n="paratextr" facs="8p58pc3119d"/>-->
       <p>[Prefatory Material: The Life of MR John Milton.]</p>
       
       
       
       
       
-      <!--<pb n="paratextr" xml:id="pref-11" facs="8s45q814b0p"/>-->
-      <pb n="paratextr" facs="8s45q814b0p"/>
+      <pb n="paratextl" xml:id="pref-10" facs="8s45q814b0p"/>
+<!--      <pb n="paratextl" facs="8s45q814b0p"/>-->
       <p>[Prefatory Material: The Life of MR John Milton.]</p>
       
       
       
       
       
-      <!--<pb n="paratextl" xml:id="pref-12" facs="8w32r497m19"/>-->
-      <pb n="paratextl" facs="8w32r497m19"/>
+      <pb n="paratextr" xml:id="pref-11" facs="8s45q814b0p"/>
+<!--      <pb n="paratextr" facs="8s45q814b0p"/>-->
       <p>[Prefatory Material: The Life of MR John Milton.]</p>
       
       
       
       
       
-      <!--<pb n="paratextr" xml:id="pref-13" facs="8w32r497m19"/>-->
-      <pb n="paratextr" facs="8w32r497m19"/>
+      <pb n="paratextl" xml:id="pref-12" facs="8w32r497m19"/>
+<!--      <pb n="paratextl" facs="8w32r497m19"/>-->
       <p>[Prefatory Material: The Life of MR John Milton.]</p>
       
       
       
       
       
-      <!--<pb n="paratextl" xml:id="pref-14" facs="9019s180w2h"/>-->
-      <pb n="paratextl" facs="9019s180w2h"/>
+      <pb n="paratextr" xml:id="pref-13" facs="8w32r497m19"/>
+<!--      <pb n="paratextr" facs="8w32r497m19"/>-->
+      <p>[Prefatory Material: The Life of MR John Milton.]</p>
+      
+      
+      
+      
+      
+      <pb n="paratextl" xml:id="pref-14" facs="9019s180w2h"/>
+<!--      <pb n="paratextl" facs="9019s180w2h"/>-->
       <p>[Blank]</p>
       
       
       
       
-      <!--<pb n="paratextr" xml:id="pref-15" facs="9019s180w2h"/>-->
-      <pb n="paratextr" facs="9019s180w2h"/>
+      <pb n="paratextr" xml:id="pref-15" facs="9019s180w2h"/>
+<!--      <pb n="paratextr" facs="9019s180w2h"/>-->
       <p>[Prefatory Material: Postscript.]</p>
       
       
       
       
       
-      <!--<pb n="paratextl" xml:id="pref-16" facs="9306sx64531"/>-->
-      <pb n="paratextl" facs="9306sx64531"/>
+      <pb n="paratextl" xml:id="pref-16" facs="9306sx64531"/>
+<!--      <pb n="paratextl" facs="9306sx64531"/>-->
       <p>[Prefatory Material: Postscript.]</p>
       
       
       
       
-      <!--<pb n="paratextr" xml:id="pref-17" facs="9306sx64531"/>-->
-      <pb n="paratextr" facs="9306sx64531"/>
+      <pb n="paratextr" xml:id="pref-17" facs="9306sx64531"/>
+<!--      <pb n="paratextr" facs="9306sx64531"/>-->
       <p>[Prefatory Material: Postscript.]</p>
       
       
       
       
-      <!--<pb n="paratextl" xml:id="pref-18" facs="9593tt47f4d"/>-->
-      <pb n="paratextl" facs="9593tt47f4d"/>
+      <pb n="paratextl" xml:id="pref-18" facs="9593tt47f4d"/>
+<!--      <pb n="paratextl" facs="9593tt47f4d"/>-->
       <p>[Blank]</p>
       
       
       
       
-      <!--<pb n="paratextr" xml:id="pref-19" facs="9593tt47f4d"/>-->
-      <pb n="paratextr" facs="9593tt47f4d"/>
+      <pb n="paratextr" xml:id="pref-19" facs="9593tt47f4d"/>
+<!--      <pb n="paratextr" facs="9593tt47f4d"/>-->
       <p>[Prefatory Material: In Paradisum Amissam]</p>
       
             
       
       
-      <!--<pb n="paratextl" xml:id="pref-20" facs="9880vq30q59"/>-->
-      <pb n="paratextl" facs="9880vq30q59"/>
+      <pb n="paratextl" xml:id="pref-20" facs="9880vq30q59"/>
+<!--      <pb n="paratextl" facs="9880vq30q59"/>-->
       <p>[Prefatory Material: In Paradisum Amissam]</p>
       
       
       
       
-      <!--<pb n="paratextr" xml:id="pref-21" facs="9880vq30q59"/>-->
-      <pb n="paratextr" facs="9880vq30q59"/>
+      <pb n="paratextr" xml:id="pref-21" facs="9880vq30q59"/>
+<!--      <pb n="paratextr" facs="9880vq30q59"/>-->
       <p>[Prefatory Material: On Paradise Lost.]</p>
       
       
       
       
-      <!--<pb n="paratextl" xml:id="pref-22" facs="9c67wm14068"/>-->
-      <pb n="paratextl" facs="9c67wm14068"/>
+      <pb n="paratextl" xml:id="pref-22" facs="9c67wm14068"/>
+<!--      <pb n="paratextl" facs="9c67wm14068"/>-->
       <p>[Prefatory Material: On Paradise Lost.]</p>
       
       
       
-      <!--<pb n="paratextr" xml:id="pref-23" facs="9c67wm14068"/>-->
-      <pb n="paratextr" facs="9c67wm14068"/>
+      <pb n="paratextr" xml:id="pref-23" facs="9c67wm14068"/>
+<!--      <pb n="paratextr" facs="9c67wm14068"/>-->
       <p>[Prefatory Material: On the Verse.]</p>
       
       
@@ -395,16 +407,16 @@
       
       
       
-      <!--<pb n="paratextl" xml:id="pref-24" facs="9g54xg9787w"/>-->
-      <pb n="paratextl" facs="9g54xg9787w"/>
+      <pb n="paratextl" xml:id="pref-24" facs="9g54xg9787w"/>
+<!--      <pb n="paratextl" facs="9g54xg9787w"/>-->
          <p>[Blank]</p>
       
       
       
       
       
-      <!--<pb n="paratextr" xml:id="pref-25" facs="9g54xg9787w"/>-->
-      <pb n="paratextr" facs="9g54xg9787w"/>
+      <pb n="paratextr" xml:id="pref-25" facs="9g54xg9787w"/>
+<!--      <pb n="paratextr" facs="9g54xg9787w"/>-->
         <p>Paradise Lost:</p>
         <p>A</p>
         <p>Poem.</p>
@@ -417,8 +429,8 @@
       
       
       
-      <!--<pb n="paratextl" xml:id="pref-26" facs="9k41zc80j8s"/>-->
-      <pb n="paratextl" facs="9k41zc80j8s"/>
+      <pb n="paratextl" xml:id="pref-26" facs="9k41zc80j8s"/>
+<!--      <pb n="paratextl" facs="9k41zc80j8s"/>-->
       
         <p>Printed by</p>
         <p>Abernethy &amp; Walker.</p>
@@ -445,8 +457,8 @@
       
       <div type="book" n="1">
          
-      <!--<pb n="paratextr" xml:id="kpl1.1" facs="9k41zc80j8s"/>-->
-      <pb n="paratextr" type="title" facs="9k41zc80j8s"/>
+      <pb n="paratextr" xml:id="kpl1.1" facs="9k41zc80j8s"/>
+<!--      <pb n="paratextr" type="title" facs="9k41zc80j8s"/>-->
          <p>Paradise Lost.</p>
          <p>Book I.</p>
          
@@ -547,7 +559,7 @@
          <l>Confounded though immortal: But his doom</l>
          <l>Reserv'd him to more wrath; for now the thought</l>
          <l>Both of lost happiness and lasting pain</l>
-         <l xml:id="kpl1.004.56l">Torments him; <mod rend="su" spanTo="#kpl1.004.0056"/>round he throws his baleful eyes<anchor xml:id="kpl1.004.0056"/>,</l>
+         <l xml:id="kpl1.004.0056l">Torments him; <mod rend="su" spanTo="#kpl1.004.0056"/>round he throws his baleful eyes<anchor xml:id="kpl1.004.0056"/>,</l>
          <l>That witness'd huge affliction and dismay</l>
          <l>Mix'd with obdurate pride and stedfast hate:</l>
          
@@ -566,7 +578,7 @@
          
          
          
-         <l><mod rend="su" spanTo="#kpl1.005.0060"/>At once, as far as Angels' ken, he views</l>
+         <l xml:id="kpl1.005.0059l"><mod rend="su" spanTo="#kpl1.005.0060"/>At once, as far as Angels' ken, he views</l>
          <l>The dismal situation waste and wild;<anchor xml:id="kpl1.005.0060"/></l>
          <l>A dungeon horrible on all sides round</l>
          <l>As one great furnace flamed, yet from those flames</l>
@@ -712,7 +724,7 @@
          
       <lg>
             
-         <l>   <mod rend="lvt" spanTo="#kpl1.007.0158eol"/><mod rend="su" spanTo="#kpl1.007.0158"/>Fallen Cherub, to be weak is miserable,</l>
+         <l xml:id="kpl1.007.0157l">   <mod rend="lvt" spanTo="#kpl1.007.0158eol"/><mod rend="su" spanTo="#kpl1.007.0158"/>Fallen Cherub, to be weak is miserable,</l>
          <l>Doing or suffering<anchor xml:id="kpl1.007.0158"/>: but of this be sure,<anchor xml:id="kpl1.007.0158eol"/></l>
          <l>To do ought good never will be our task,</l>
          <l>But ever to do ill our sole delight,</l>
@@ -743,7 +755,7 @@
          <l>Back to the gates of Heaven: the sulphurous hail</l>
          <l>Shot after us in storm, o'erblown hath laid</l>
          <l>The fiery surge, that from the precipice</l>
-         <l>Of Heaven receiv'd us falling; and the thunder,</l>
+         <l xml:id="kpl1.008.0174l">Of Heaven receiv'd us falling; and the thunder,</l>
          <l><mod rend="lvs" spanTo="#kpl1.008.0178eol"/>Wing'd with red lightning and impetuous rage,</l>
          <l>Perhaps hath spent his shafts, and ceases now</l>
          <l>To bellow through the vast and boundless deep.</l>
@@ -920,7 +932,7 @@
          <l>Was moving toward the shore; his ponderous shield,</l>
          <l>Ethereal temper, massy, large, and round,</l>
          <l>Behind him cast; <mod rend="su" spanTo="#kpl1.011.0291"/>the broad circumference</l>
-         <l>Hung on his shoulders like the moon, whose orb</l>
+         <l xml:id="kpl1.011.0287l">Hung on his shoulders like the moon, whose orb</l>
          <l>Through optic glass the Tuscan artist views</l>
          <l>At evening from the top of Fesole,</l>
          <l>Or in Valdarno, to descry new lands,</l>
@@ -961,14 +973,14 @@
          <l>And broken chariot-wheels: so thick bestrown</l>
          <l>Abject and lost lay these, covering the flood,</l>
          <l><mod rend="lvs" spanTo="#kpl1.012.0315eol"/>Under amazement of their hideous change.</l>
-         <l>He call'd so loud, that all the hollow deep</l>
+         <l xml:id="kpl1.012.0314l">He call'd so loud, that all the hollow deep</l>
          <l>Of Hell resounded.  Princes, Potentates,<anchor xml:id="kpl1.012.0315eol"/></l>
          <l>Warriors, the flower of Heaven, once yours, now lost,</l>
          <l>If such astonishment as this can seize</l>
          <l>Eternal Spirits; or have ye chosen this place</l>
          <l>After the toil of battle to repose</l>
          <l>Your wearied virtue, for the ease you find</l>
-         <l><mod rend="su" spanTo="#kpl1.012.0321"/>To slumber here, as in the vales of Heaven?<anchor xml:id="kpl1.012.0321"/></l>
+         <l xml:id="kpl1.012.0321l"><mod rend="su" spanTo="#kpl1.012.0321"/>To slumber here, as in the vales of Heaven?<anchor xml:id="kpl1.012.0321"/></l>
          <l>Or in this abject posture have ye sworn</l>
          <l>To adore the conqueror?  who now beholds</l>
          <l>Cherub and Seraph rolling in the flood </l>
@@ -1005,7 +1017,7 @@
          
          
          
-      <pb n="image" facs="b8515m63h5s"/> 
+      <pb n="image" xml:id="kpl1.12image" facs="b8515m63h5s"/> 
          
       <pb n="13" facs="bc386h46s6g"/>
          
@@ -1075,7 +1087,7 @@
          <l>Abominations; and with cursed things</l>
          <l>His holy rites and solemn feasts profaned,</l>
          <l>And with their darkness durst affront his light.</l>
-         <l><mod rend="lvs" spanTo="#kpl1.014.0405eol"/>First Moloch, horrid king, besmear'd with blood</l>
+         <l xml:id="kpl1.013.0392l"><mod rend="lvs" spanTo="#kpl1.014.0405eol"/>First Moloch, horrid king, besmear'd with blood</l>
          <l>Of human sacrifice, and parents' tears,</l>
          <l>Though for the noise of drums and timbrels loud</l>
          <l>Their children's cries unheard, that pass'd through fire</l>
@@ -1173,7 +1185,7 @@
          <l><mod rend="su" spanTo="#kpl1.016.0461"/>In his own temple, on the grunsel edge,</l>
          <l>Where he fell flat, and shamed his worshippers;<anchor xml:id="kpl1.016.0461"/></l>
          <l>Dagon his name, sea-monster, upward man</l>
-         <l>And downward fish; <mod rend="su" spanTo="#kpl1.016.0469"/>yet had his temple high</l>
+         <l xml:id="kpl1.016.0463l">And downward fish; <mod rend="su" spanTo="#kpl1.016.0469"/>yet had his temple high</l>
          <l>Rear'd in Azotus, dreaded through the coast</l>
          <l>Of Palestine, in Gath and Ascalon,</l>
          <l>And Accaron and Gaza's frontier bounds.</l>
@@ -1275,7 +1287,7 @@
          <l>His trumpets loud and clarions be uprear'd</l>
          <l>His mighty standard: that proud honour claim'd</l>
          <l>Azazel as his right, a Cherub tall;</l>
-         <l>Who forthwith from <mod rend="su" spanTo="#kpl1.018.0562"/>the glittering staff unfurl'd</l>
+         <l xml:id="kpl1.018.0535l">Who forthwith from <mod rend="su" spanTo="#kpl1.018.0562"/>the glittering staff unfurl'd</l>
          <l>The imperial ensign, which full high advanced</l>
          <l>Shone like a meteor streaming to the wind,</l>
          <l>With gems and golden lustre rich emblazed,</l>
@@ -1330,7 +1342,7 @@
          <l>Glories; for never since created man</l>
          <l>Met such embodied force, as named with these</l>
          <l>Could merit more than that small infantry</l>
-         <l>Warr'd on by cranes; <mod rend="su" spanTo="#kpl1.019.0587"/>though all the giant brood</l>
+         <l xml:id="kpl1.019.0576l">Warr'd on by cranes; <mod rend="su" spanTo="#kpl1.019.0587"/>though all the giant brood</l>
          <l>Of Phlegra with the heroic race were join'd</l>
          <l>That fought at Thebes and Ilium, on each side</l>
          <l>Mix'd with auxiliar Gods; and what resounds</l>
@@ -1348,11 +1360,11 @@
          <l>Stood like a tower; <mod rend="su" spanTo="#kpl1.020.0599"/>his form had not yet lost</l>
          <l>All her original brightness, nor appear'd</l>
          <l>Less than Arch-Angel ruin'd, and the excess</l>
-         <l>Of glory obscured; as when the sun new risen</l>
+         <l xml:id="kpl1.019.0594l">Of glory obscured; as when the sun new risen</l>
          <l>Looks through the horizontal misty air</l>
          <l>Shorn of his beams; or from behind the moon</l>
          <l>In dim eclipse disastrous twilight sheds</l>
-         <l xml:id="kpl1.019.598l">On half the nations, and with fear of change</l>
+         <l xml:id="kpl1.019.0598l">On half the nations, and with fear of change</l>
          
          
          
@@ -1366,9 +1378,9 @@
          
          
          
-         <l xml:id="kpl1.020.599l">Perplexes monarchs<anchor xml:id="kpl1.020.0599"/>.  Darken'd so, yet shone</l>
-         <l xml:id="kpl1.020.600l">Above them all the Arch-Angel: <mod rend="su" spanTo="#kpl1.020.0608"/>but his face</l>
-         <l xml:id="kpl1.020.601l">Deep scars of thunder had intrench'd, and care</l>
+         <l xml:id="kpl1.020.0599l">Perplexes monarchs<anchor xml:id="kpl1.020.0599"/>.  Darken'd so, yet shone</l>
+         <l xml:id="kpl1.020.0600l">Above them all the Arch-Angel: <mod rend="su" spanTo="#kpl1.020.0608"/>but his face</l>
+         <l xml:id="kpl1.020.0601l">Deep scars of thunder had intrench'd, and care</l>
          <l>Sat on his faded cheek, but under brows</l>
          <l>Of dauntless courage, and considerate pride</l>
          <l>Waiting revenge: cruel his eye, but cast</l>
@@ -1387,14 +1399,14 @@
          <l>From wing to wing, and half inclose him round</l>
          <l>With all his peers: attention held them mute.</l>
          <l><mod rend="lvt" spanTo="#kpl1.020.0620eol"/><mod rend="su" spanTo="#kpl1.020.0620"/>Thrice he essay'd, and thrice in spite of scorn,</l>
-         <l xml:id="kpl1.020.620l">Tears such as angels weep, burst forth<anchor xml:id="kpl1.020.0620"/>: at last<anchor xml:id="kpl1.020.0620eol"/></l>
+         <l xml:id="kpl1.020.0620l">Tears such as angels weep, burst forth<anchor xml:id="kpl1.020.0620"/>: at last<anchor xml:id="kpl1.020.0620eol"/></l>
          <l>Words interwove with sighs found out their way.</l>
          
       </lg>
          
       <lg>
             
-         <l>   O MYRIADS of immortal Spirits, O powers</l> <!--["YRIADS" in sm caps]-->
+         <l xml:id="kpl1.020.0622l">   O MYRIADS of immortal Spirits, O powers</l> <!--["YRIADS" in sm caps]-->
          <l>Matchless, but with the Almighty, and that strife</l>
          <l>Was not inglorious, though the event was dire,</l>
          <l>As this place testifies, and this dire change</l>
@@ -1531,12 +1543,12 @@
             
             
             
-         <l><mod rend="lvs" spanTo="#kpl1.023.0709eol"/><mod rend="su" spanTo="#kpl1.023.0730"/>A various mould, and from the boiling cells</l>
+         <l xml:id="kpl1.023.0706l"><mod rend="lvs" spanTo="#kpl1.023.0709eol"/><mod rend="su" spanTo="#kpl1.023.0730"/>A various mould, and from the boiling cells</l>
          <l>By strange conveyance fill'd each hollow nook,</l>
          <l>As in an organ from one blast of wind</l>
          <l>To many a row of pipes the sound-board breathes.<anchor xml:id="kpl1.023.0709eol"/></l>
          <l>Anon out of the earth a fabric huge</l>
-         <l xml:id="kpl1.023.711l">Rose like an exhalation, with the sound</l>
+         <l xml:id="kpl1.023.0711l">Rose like an exhalation, with the sound</l>
          <l>Of dulcet symphonies and voices sweet,</l>
          <l>Built like a temple, where pilasters round</l>
          <l>Were set, and Doric pillars overlaid</l>
@@ -1548,8 +1560,8 @@
          <l>Belus or Serapis their Gods, or seat</l>
          <l>Their kings, when Egypt with Assyria strove</l>
          <l>In wealth and luxury.  The ascending pile</l>
-         <l xml:id="kpl1.023.723l">Stood fix'd her stately height; and straight the doors</l>
-         <l xml:id="kpl1.023.724l">Opening their brazen folds, discover, wide</l>
+         <l xml:id="kpl1.023.0723l">Stood fix'd her stately height; and straight the doors</l>
+         <l xml:id="kpl1.023.0724l">Opening their brazen folds, discover, wide</l>
          <l><mod rend="lvs" spanTo="#kpl1.023.0730eol"/>Within, her ample spaces, o'er the smooth</l>
          <l>And level pavement: from the arched roof</l>
          <l>Pendent by subtle magic many a row</l>
@@ -1701,7 +1713,7 @@
          <l>Showers on her kings barbaric pearl and gold,<anchor xml:id="kpl1.029.0004"/></l>
          <l>Satan exalted sat, by merit raised</l>
          <l>To that bad eminence; <mod rend="su" spanTo="#kpl1.029.0007"/>and from despair</l>
-         <l xml:id="kpl1.002.07l">Thus high uplifted beyond hope<anchor xml:id="kpl1.029.0007"/>, aspires</l>
+         <l xml:id="kpl1.029.0007l">Thus high uplifted beyond hope<anchor xml:id="kpl1.029.0007"/>, aspires</l>
          <l>Beyond thus high, insatiate to pursue</l>
          <l>Vain war with Heaven; and by success untaught,</l>
          <l>His <mod rend="su" spanTo="#kpl1.029.0010"/>proud imaginations<anchor xml:id="kpl1.029.0010"/> thus display'd.</l>
@@ -1872,7 +1884,7 @@
          <l>Desperate revenge, and battle dangerous</l>
          <l>To less than Gods.  On the other side uprose</l>
          <l><mod rend="su" spanTo="#kpl1.032.0111"/>Belial, in act more graceful and humane;</l>
-         <l>A fairer person lost not Heaven; he seem'd</l>
+         <l xml:id="kpl1.032.0109l">A fairer person lost not Heaven; he seem'd</l>
          <l>For dignity composed and high exploit<anchor xml:id="kpl1.032.0111"/>:</l>
          <l>But all was false and hollow; <mod rend="su" spanTo="#kpl1.032.0113"/>though his tongue</l>
          <l>Dropt manna<anchor xml:id="kpl1.032.0113"/>, and could make the worse appear</l>
@@ -2136,7 +2148,7 @@
       <lg>
          
          <l>   He scarce had finish'd, when such murmur fill'd</l>
-         <l>The assembly, <mod rend="su" spanTo="#kpl1.037.0290"/>as when hollow rocks retain</l>
+         <l xml:id="kpl1.037.0285l">The assembly, <mod rend="su" spanTo="#kpl1.037.0290"/>as when hollow rocks retain</l>
          <l>The sound of blustering winds, which all night long</l>
          <l>Had roused the sea, now with horse cadence lull</l>
          <l>Seafaring men o'erwatch'd, whose bark by chance</l>
@@ -2153,7 +2165,7 @@
          <l>Which when Beelzebub perceived, than whom,</l> <!--[dieresis over second "e" in Beelzebub]-->
          <l>Satan except, none higher sat, with grave</l>
          <l>Aspect he rose, and in his rising seem'd </l>
-         <l>A pillar of state; <mod rend="su" spanTo="#kpl1.037.0309"/>deep on his front engraven</l>
+         <l xml:id="kpl1.037.0302l">A pillar of state; <mod rend="su" spanTo="#kpl1.037.0309"/>deep on his front engraven</l>
          <l>Deliberation sat, and public care;</l>
          <l>And princely counsel in his face yet shone,</l>
          <l>Majestic, though in ruin: sage he stood</l>
@@ -2305,7 +2317,7 @@
          <l>Re-enter Heaven; or else <mod rend="su" spanTo="#kpl1.040.0397"/>in some mild zone<anchor xml:id="kpl1.040.0397"/></l>
          <l>Dwell, not unvisited of Heaven's fair light,</l>
          <l>Secure; and at the brightening orient beam</l>
-         <l>Purge off this gloom; <mod rend="su" spanTo="#kpl1.040.0402"/>the soft delicious air,</l>
+         <l xml:id="kpl1.040.0400l">Purge off this gloom; <mod rend="su" spanTo="#kpl1.040.0402"/>the soft delicious air,</l>
          <l>To heal the scar of these corrosive fires,</l>
          <l>Shall breathe her balm<anchor xml:id="kpl1.040.0402"/>.  But first whom shall we send</l>
          <l>In search of this new world?  Whom shall we find</l>
@@ -2419,7 +2431,7 @@
          <l>Which he through hazard huge must earn.  But they</l>
          <l>Dreaded not more the adventure than his voice</l>
          <l>Forbidding; and at once with him they rose;</l>
-         <l><mod rend="su" spanTo="#kpl1.042.0477"/>Their rising all at once was as the sound</l>
+         <l xml:id="kpl1.042.0476l"><mod rend="su" spanTo="#kpl1.042.0477"/>Their rising all at once was as the sound</l>
          <l>Of thunder heard remote.<anchor xml:id="kpl1.042.0477"/>  Towards him they bend</l>
          <l>With awful reverence prone; and as a God</l>
          <l>Extol him equal to the highest in Heaven:</l>
@@ -2431,7 +2443,7 @@
          <l>Or close ambition varnish'd o'er with zeal.</l>
          <l>Thus they their doubtful consultations dark</l>
          <l>Ended rejoicing in their matchless chief:</l>
-         <l><mod rend="su" spanTo="#kpl1.043.0493"/>As when from mountain-tops the dusky clouds</l>
+         <l xml:id="kpl1.042.0488l"><mod rend="su" spanTo="#kpl1.043.0493"/>As when from mountain-tops the dusky clouds</l>
          
          
          
@@ -2479,7 +2491,7 @@
          <l>With bright emblazonry, and horrent arms<anchor xml:id="kpl1.043.0513"/>.</l>
          <l>Then of their session ended they bid cry</l>
          <l>With trumpets regal sound the great result:</l>
-         <l><mod rend="su" spanTo="#kpl1.043.0518"/>Towards the four winds four speedy Cherubim</l>
+         <l xml:id="kpl1.043.0516l"><mod rend="su" spanTo="#kpl1.043.0518"/>Towards the four winds four speedy Cherubim</l>
          <l>Put to their mouths the sounding alchemy</l>
          <l>By heralds voice explain'd;<anchor xml:id="kpl1.043.0518"/> the hollow abyss</l>
          <l>Heard far and wide, and all the host of Hell</l>
@@ -2525,13 +2537,13 @@
          <l>With conquest, felt the envenom'd robe, and tore</l>
          <l>Through pain up by the roots Thessalian pines,</l>
          <l>And Lichas from the top of OEta threw</l> <!-- oe ligature on OEta -->
-         <l xml:id="kpl1.002.546l"><mod rend="lvs" spanTo="#kpl1.044.0552eol"/>Into the Euboic sea.  Others more mild,</l>
+         <l xml:id="kpl1.044.0546l"><mod rend="lvs" spanTo="#kpl1.044.0552eol"/>Into the Euboic sea.  Others more mild,</l>
          <l>Retreated in a silent valley, sing</l>
          <l>With notes angelical to many a harp</l>
          <l>Their own heroic deeds and hapless fall</l>
          <l>By doom of battle<anchor xml:id="kpl1.044.0550"/>; and complain that fate</l>
          <l>Free virtue should inthrall to force or chance.</l>
-         <l xml:id="kpl1.044.552l"><mod rend="su" spanTo="#kpl1.044.0552"/>Their song was partial, but the harmony<anchor xml:id="kpl1.044.0552"/><anchor xml:id="kpl1.044.0552eol"/></l>
+         <l xml:id="kpl1.044.0552l"><mod rend="su" spanTo="#kpl1.044.0552"/>Their song was partial, but the harmony<anchor xml:id="kpl1.044.0552"/><anchor xml:id="kpl1.044.0552eol"/></l>
          <l>(What could it less when Spirits immortal sing?)</l>
          <l><mod rend="su" spanTo="#kpl1.044.0554"/>Suspended Hell,<anchor xml:id="kpl1.044.0554"/> and took with ravishment</l>
          <l>The thronging audience.  <mod rend="su" spanTo="#kpl1.044.0557"/>In discourse more sweet</l>
@@ -2765,7 +2777,7 @@
          
           
           
-      <pb n="image" facs="d791sf29357"/> 
+      <pb n="image" xml:id="kpl1.48image" facs="d791sf29357"/> 
          
       <pb n="49" facs="db78tb12c6d"/>
          
@@ -2927,8 +2939,8 @@
          <l>Should prove a bitter morsel, and his bane,</l>
          <l>Whenever that shall be; so fate pronounced.</l>
          <l>But thou, O Father, I forewarn thee, shun</l>
-         <l xml:id="kpl1.051.811l">His deadly arrow; neither vainly hope</l>
-         <l xml:id="kpl1.051.812l"><mod rend="lvs" spanTo="#kpl1.051.0812eol"/>To be invulnerable in those bright arms,<anchor xml:id="kpl1.051.0812eol"/></l>
+         <l xml:id="kpl1.051.0811l">His deadly arrow; neither vainly hope</l>
+         <l xml:id="kpl1.051.0812l"><mod rend="lvs" spanTo="#kpl1.051.0812eol"/>To be invulnerable in those bright arms,<anchor xml:id="kpl1.051.0812eol"/></l>
          
          
          
@@ -2954,7 +2966,7 @@
          
          <l>   She finish'd, <mod rend="su" spanTo="#kpl1.052.0816"/>and the subtle Fiend his lore</l>
          <l>Soon learn'd<anchor xml:id="kpl1.052.0816"/>, now milder, and thus answer'd smooth.</l>
-         <l>Dear Daughter, since thou claimest me for thy Sire,</l>
+         <l xml:id="kpl1.052.0817l">Dear Daughter, since thou claimest me for thy Sire,</l>
          <l>And my fair son here showest me, the dear pledge</l>
          <l>Of dalliance had with thee in Heaven, and joys </l>
          <l>Then sweet, now sad to mention, thro' dire change</l>
@@ -2979,11 +2991,11 @@
          <l>To know, and this once known, shall soon return,</l>
          <l>And bring ye to the place where thou and Death</l>
          <l>Shall dwell at ease, <mod rend="su" spanTo="#kpl1.052.0843"/>and up and down unseen</l>
-         <l>Wing silently the buxom air, embalm'd</l>
+         <l xml:id="kpl1.052.0842l">Wing silently the buxom air, embalm'd</l>
          <l>With odours;<anchor xml:id="kpl1.052.0843"/> there ye shall be fed and fill'd</l>
          <l>Immeasurably, all things shall be your prey.</l>
          <l>He ceased, for both seem'd highly pleased, and Death</l>
-         <l><mod rend="su" spanTo="#kpl1.053.0848"/>Grinn'd horrible a ghastly smile, to hear</l>
+         <l xml:id="kpl1.052.0846l"><mod rend="su" spanTo="#kpl1.053.0848"/>Grinn'd horrible a ghastly smile, to hear</l>
          <l>His famine should be fill'd, and bless'd his maw</l>
          
          
@@ -3076,9 +3088,9 @@
          <l>Eternal Anarchy, amidst the noise</l>
          <l>Of endless wars, and by confusion stand.</l>
          <l>For hot, cold, moist, and dry, four champions fierce</l>
-         <l>Strive here for mastery, and to battle bring</l>
-         <l>Their embryon atoms; they around the flag</l>
-         <l>Of each his faction, in their several clans,</l>
+         <l xml:id="kpl1.054.0899l">Strive here for mastery, and to battle bring</l>
+         <l xml:id="kpl1.054.0900l">Their embryon atoms; they around the flag</l>
+         <l xml:id="kpl1.054.0901l">Of each his faction, in their several clans,</l>
          <l>Light-arm'd, or heavy, sharp, smooth, swift or slow,</l>
          <l>Swarm populous, unnumber'd as the sands</l>
          <l>Of Barca or Cyrene's torrid soil,</l>
@@ -3164,7 +3176,7 @@
          
          <l>Undaunted to meet there whatever Power</l>
          <l>Or Spirit of the nethermost abyss</l>
-         <l>Might in that <mod rend="su" spanTo="#kpl1.056.0957"/>noise<anchor xml:id="kpl1.056.0957"/> reside, of whom to ask</l>
+         <l xml:id="kpl1.056.0957l">Might in that <mod rend="su" spanTo="#kpl1.056.0957"/>noise<anchor xml:id="kpl1.056.0957"/> reside, of whom to ask</l>
          <l>Which way the nearest coast of darkness lies</l>
          <l>Bordering on light; <mod rend="su" spanTo="#kpl1.056.0965"/>when strait behold the throne</l>
          <l>Of Chaos, and his dark pavilion spread</l>
@@ -3200,7 +3212,7 @@
          
       <lg>
          
-         <l>   Thus Satan; <mod rend="su" spanTo="#kpl1.056.0990"/>and him thus the Anarch old</l>
+         <l xml:id="kpl1.056.0988l">   Thus Satan; <mod rend="su" spanTo="#kpl1.056.0990"/>and him thus the Anarch old</l>
          <l>With faultering speech and visage incomposed</l>
          <l>Answer'd.<anchor xml:id="kpl1.056.0990"/>  I know thee, stranger, who thou art,</l>
          
@@ -3342,7 +3354,7 @@
          
       <lg>
          
-         <l><mod rend="lvs" spanTo="#kpl1.061.0022eol"/>HAIL, holy Light, offspring of Heaven first-born!</l> <!--["H" in large font; "AIL" in small caps]-->
+         <l xml:id="kpl1.061.0001l"><mod rend="lvs" spanTo="#kpl1.061.0022eol"/>HAIL, holy Light, offspring of Heaven first-born!</l> <!--["H" in large font; "AIL" in small caps]-->
          <l>Or of the Eternal co-eternal beam</l>
          <l>May I express thee unblamed? since God is light,</l>
          <l>And never but in unapproached light</l>
@@ -3396,7 +3408,7 @@
          <l>Blind Thamyris and blind Maeonides,</l> <!--ae ligature on Maeonides-->
          <l>And Tiresias and Phineus, prophets old:</l>
          <l>Then feed on thoughts, that voluntary move</l>
-         <l>Harmonious numbers; as the wakeful bird</l>
+         <l xml:id="kpl1.062.0038l">Harmonious numbers; as the wakeful bird</l>
          <l>Sings darkling, and in shadiest covert hid</l>
          <l>Tunes her nocturnal note.  Thus with the year</l>
          <l>Seasons return, but not to me returns</l>
@@ -3409,7 +3421,7 @@
          <l>Presented with an universal blank</l>
          <l>Of nature's works, to me expunged and rased,</l>
          <l>And wisdom at one entrance quite shut out<anchor xml:id="kpl1.062.0050"/>.</l>
-         <l>So much the rather thou, celestial Light,</l>
+         <l xml:id="kpl1.062.0051l">So much the rather thou, celestial Light,</l>
          <l>Shine inward, and the mind through all her powers</l>
          <l>Irradiate; there plant eyes, all mist from thence</l>
          <l>Purge and disperse, that I may see and tell</l>
@@ -3448,7 +3460,7 @@
          <l>Uninterrupted joy, unrivall'd love,</l>
          <l>In blissful solitude; he then survey'd</l>
          <l>Hell and the gulf between, and Satan there</l>
-         <l><mod rend="su" spanTo="#kpl1.063.0076"/>Coasting the wall of Heaven on this sight Night</l>
+         <l xml:id="kpl1.063.0071l"><mod rend="su" spanTo="#kpl1.063.0076"/>Coasting the wall of Heaven on this sight Night</l>
          <l>In the dim air sublime, and ready now</l>
          <l>To stoop, with wearied wings and willing feet,</l>
          <l>On the bare outside of this world, that seem'd </l>
@@ -3469,7 +3481,7 @@
          <l>Wide interrupt, can hold? so bent he seems</l>
          <l>On desperate revenge, that shall redound</l>
          <l>Upon his own rebellious head.  And now,</l>
-         <l>Through all restraint broke loose, <mod rend="su" spanTo="#kpl1.063.0088"/>he wings his way</l>
+         <l xml:id="kpl1.063.0087l">Through all restraint broke loose, <mod rend="su" spanTo="#kpl1.063.0088"/>he wings his way</l>
          <l>Not far off Heaven, in the precincts of light<anchor xml:id="kpl1.063.0088"/>,</l>
          <l>Directly towards the new created world,</l>
          <l>And Man there placed, with purpose to assay</l>
@@ -3742,7 +3754,7 @@
          <l>The powers of darkness bound.  Thou at the sight</l>
          <l>Pleased, out of Heaven shalt look down, and smile;</l>
          <l>While by thee raised I ruin all my foes,</l>
-         <l>Death last, <mod rend="su" spanTo="#kpl1.068.0259"/>and with his carcase glut the grave<anchor xml:id="kpl1.068.0259"/>;</l>
+         <l xml:id="kpl1.068.0259l">Death last, <mod rend="su" spanTo="#kpl1.068.0259"/>and with his carcase glut the grave<anchor xml:id="kpl1.068.0259"/>;</l>
          <l>Then, with the multitude of my redeem'd</l>
          <l>Shall enter Heaven long absent, and return,</l>
          <l>Father, to see thy face, wherein no cloud</l>
@@ -3754,7 +3766,7 @@
          
       <lg>
          
-         <l>   <mod rend="su" spanTo="#kpl1.068.0267"/>His words here ended, but his meek aspect</l>
+         <l xml:id="kpl1.068.0266l">   <mod rend="su" spanTo="#kpl1.068.0267"/>His words here ended, but his meek aspect</l>
          <l>Silent yet spake<anchor xml:id="kpl1.068.0267"/>, and breathed immortal love</l>
          <l>To mortal men, above which only shone</l>
          <l>Filial obedience: as a sacrifice</l>
@@ -3912,7 +3924,7 @@
          <l>Now in loose garlands thick thrown off, the bright</l>
          <l>Pavement, that like a sea of jasper shone,</l>
          <l>Impurpled with celestial roses smiled.</l>
-         <l>Then crown'd again, their golden harps they took;</l>
+         <l xml:id="kpl1.071.0365l">Then crown'd again, their golden harps they took;</l>
          <l>Harps ever tuned, that glittering by their side</l>
          <l>Like quivers hung, and with preamble sweet</l>
          <l>Of charming symphony they introduce<anchor xml:id="kpl1.071.0368"/></l>
@@ -3929,7 +3941,7 @@
          <l>Eternal King; thee Author of all Being,</l>
          <l>Fountain of light, thyself invisible</l>
          <l>Amidst the glorious brightness where thou sitst</l>
-         <l>Throned inaccessible, <mod rend="su" spanTo="#kpl1.072.0382"/>but when thou shadest</l>
+         <l xml:id="kpl1.071.0377l">Throned inaccessible, <mod rend="su" spanTo="#kpl1.072.0382"/>but when thou shadest</l>
          <l>The full blaze of thy beams, and through a cloud</l>
          <l>Drawn round about thee like a radiant shrine,</l>
          <l>Dark with excessive bright, thy skirts appear,</l>
@@ -4019,7 +4031,7 @@
          <l>Though distant far some small reflection gains</l>
          <l>Of glimmering air less vex'd with tempest loud:</l>
          <l>Here walk'd the Fiend at large in spacious field.</l>
-         <l>As when a vulture on Imaus bred,</l>
+         <l xml:id="kpl1.073.0431l">As when a vulture on Imaus bred,</l>
          <l>Whose snowy ridge the roving Tartar bounds,</l>
          <l>Dislodging from a region scarce of prey</l>
          <l>To gorge the flesh of lambs or yeanling kids</l>
@@ -4095,7 +4107,7 @@
          <l>To wait them with his keys, and now at foot</l>
          <l>Of Heaven's ascent they lift their feet, when lo</l>
          <l>A violent cross wind from either coast</l>
-         <l rend="starred" xml:id="kpl1.074.488l">Blows them traverse ten thousand leagues awry</l> <!-- Note this -->
+         <l rend="starred" xml:id="kpl1.074.0488l">Blows them traverse ten thousand leagues awry</l> <!-- Note this -->
          <l>Into the devious air; then might ye see </l>
          
          
@@ -4241,7 +4253,7 @@
          <l>With gentle penetration, though unseen,</l>
          <l>Shoots invisible virtue even to the deep:<anchor xml:id="kpl1.077.0586"/></l>
          <l>So wonderously was set his station bright.</l>
-         <l><mod rend="lvs" spanTo="#kpl1.077.0597eol"/>There lands the Fiend, a spot like which perhaps</l>
+         <l xml:id="kpl1.077.0588l"><mod rend="lvs" spanTo="#kpl1.077.0597eol"/>There lands the Fiend, a spot like which perhaps</l>
          <l>Astronomer in the Sun's lucent orb,</l>
          <l>Through his glazed optic tube, yet never saw.</l>
          <l>The place he found beyond expression bright,</l>
@@ -4278,20 +4290,20 @@
          <l>Drain'd through a limbec to his native form.</l>
          <l>What wonder then if fields and regions here</l>
          <l><mod rend="su" spanTo="#kpl1.078.0607"/>Breathe forth Elixir pure,<anchor xml:id="kpl1.078.0607"/> and rivers run</l>
-         <l>Portable gold, <mod rend="su" spanTo="#kpl1.078.0609"/>when with one virtuous touch</l>
+         <l xml:id="kpl1.078.0608l">Portable gold, <mod rend="su" spanTo="#kpl1.078.0609"/>when with one virtuous touch</l>
          <l>The arch-chemic Sun,<anchor xml:id="kpl1.078.0609"/> so far from us remote,</l>
          <l><mod rend="lvs" xml:id="kpl1.078.610l" spanTo="#kpl1.078.0617eol"/>Produces with terrestrial humour mix'd,</l>
          <l>Here in the dark so many precious things</l>
          <l>Of colour glorious and effect so rare?</l>
          <l>Here matter new to gaze the Devil met</l>
-         <l>Undazzled, far and wide his eye commands,</l>
+         <l xml:id="kpl1.078.0614l">Undazzled, far and wide his eye commands,</l>
          <l>For sight no obstacle found here, nor shade,</l>
          <l>But all sunshine, <mod rend="su" spanTo="#kpl1.078.0629"/>as when his beams at noon</l>
          <l>Culminate from the Equator, as they now<anchor xml:id="kpl1.078.0617eol"/></l>
          <l>Shot upward still direct, whence no way round</l>
          <l>Shadow from body opaque can fall; and the air,</l>
          <l>No where so clear, sharpen'd his visual ray</l>
-         <l>To objects distant far, whereby he soon</l>
+         <l xml:id="kpl1.078.0621l">To objects distant far, whereby he soon</l>
          <l>Saw within ken a glorious Angel stand,</l>
          <l>The same whom John saw also in the Sun:</l>
          <l>His back was turn'd, but not his brightness hid;</l>
@@ -4536,7 +4548,7 @@
          
       <lg>
          
-         <l xml:id="kpl1.085.01l"><mod rend="su" spanTo="#kpl1.085.0004"/>O FOR that warning voice, which he who saw</l> <!--["O" in large font] [in small caps]-->
+         <l xml:id="kpl1.085.0001l"><mod rend="su" spanTo="#kpl1.085.0004"/>O FOR that warning voice, which he who saw</l> <!--["O" in large font] [in small caps]-->
          <l>The Apocalypse heard cry in Heaven aloud,</l>
          <l>Then when the Dragon, put to second rout,</l>
          <l>Came furious down to be revenged on men,<anchor xml:id="kpl1.085.0004"/></l>
@@ -4550,7 +4562,7 @@
          <l>Of that first battle, and his flight to Hell:</l>
          <l>Yet not rejoicing in his speed, though bold</l>
          <l>Far off and fearless, nor with cause to boast,</l>
-         <l>Begins his dire attempt, <mod rend="su" spanTo="#kpl1.085.0018"/>which, nigh the birth,</l>
+         <l xml:id="kpl1.085.0015l">Begins his dire attempt, <mod rend="su" spanTo="#kpl1.085.0018"/>which, nigh the birth,</l>
          <l>Now rolling boils in his tumultuous breast,</l>
          <l>And like a devilish engine back recoils</l>
          <l>Upon himself<anchor xml:id="kpl1.085.0018"/>; horror and doubt distract</l>
@@ -4573,7 +4585,7 @@
          <l>That slumber'd, wakes the bitter memory</l>
          <l>Of what he was, what is, and what must be</l>
          <l>Worse; of worse deeds worse suffering must ensue.</l>
-         <l><mod rend="lvs" spanTo="#kpl1.086.0031eol"/>Sometimes towards Eden, which now in his view</l>
+         <l xml:id="kpl1.086.0027l"><mod rend="lvs" spanTo="#kpl1.086.0031eol"/>Sometimes towards Eden, which now in his view</l>
          <l>Lay pleasant, his grieved look he fixes sad;</l>
          <l>Sometimes towards Heaven, and the full blazing sun,</l>
          <l>Which now sat high in his meridian tower:</l>
@@ -4639,9 +4651,9 @@
          <l>To me alike, it deals eternal woe.</l>
          <l>Nay, cursed be thou; since against his thy will</l>
          <l>Chose freely what it now so justly rues.</l>
-         <l><mod rend="su" spanTo="#kpl1.087.0073"/>Me miserable! which way shall I fly<anchor xml:id="kpl1.087.0073"/></l>
+         <l xml:id="kpl1.087.0073l"><mod rend="su" spanTo="#kpl1.087.0073"/>Me miserable! which way shall I fly<anchor xml:id="kpl1.087.0073"/></l>
          <l>Infinite wrath, and infinite despair?</l>
-         <l>Which way I fly is Hell; myself am Hell;</l>
+         <l xml:id="kpl1.087.0075l">Which way I fly is Hell; myself am Hell;</l>
          <l>And in the lowest deep, a lower deep</l>
          <l>Still threatening to devour me opens wide,</l>
          <l>To which the Hell I suffer seems a Heaven.</l>
@@ -4676,7 +4688,7 @@
          
          
          <l>Would height recall high thoughts, how soon unsay</l>
-         <l><mod rend="lvs" spanTo="#kpl1.088.0097eol"/>What feign'd submission swore! ease would recant</l>
+         <l xml:id="kpl1.088.0096l"><mod rend="lvs" spanTo="#kpl1.088.0097eol"/>What feign'd submission swore! ease would recant</l>
          <l>Vows made in pain, as violent and void.<anchor xml:id="kpl1.088.0097eol"/></l>
          <l>For never can true reconcilement grow,</l>
          <l>Where wounds of deadly hate have pierced so deep;</l>
@@ -4699,8 +4711,8 @@
          
       <lg>
          
-         <l>   Thus while he spake, <mod rend="su" spanTo="#kpl1.088.0116"/>each passion dimm'd his face,</l>
-         <l>Thrice changed with pale, ire, envy, and despair;</l>
+         <l xml:id="kpl1.088.0114l">   Thus while he spake, <mod rend="su" spanTo="#kpl1.088.0116"/>each passion dimm'd his face,</l>
+         <l xml:id="kpl1.088.0115l">Thrice changed with pale, ire, envy, and despair;</l>
          <l>Which marr'd his borrow'd visage,<anchor xml:id="kpl1.088.0116"/> and betray'd</l>
          <l>Him counterfeit, if any eye beheld:</l>
          <l>For heavenly minds from such distempers foul</l>
@@ -4711,8 +4723,8 @@
          <l>Deep malice to conceal, couch'd with revenge:</l>
          <l>Yet not enough had practised to deceive</l>
          <l>Uriel once warn'd; whose eye pursued him down</l>
-         <l xml:id="kpl1.088.126l">The way he went, <mod rend="su" spanTo="#kpl1.088.0127"/>and on the Assyrian mount</l>
-         <l xml:id="kpl1.088.127l"><mod rend="lvt" spanTo="#kpl1.088.0127eol"/>Saw him disfigured more<anchor xml:id="kpl1.088.0127"/> than could befall<anchor xml:id="kpl1.088.0127eol"/></l>
+         <l xml:id="kpl1.088.0126l">The way he went, <mod rend="su" spanTo="#kpl1.088.0127"/>and on the Assyrian mount</l>
+         <l xml:id="kpl1.088.0127l"><mod rend="lvt" spanTo="#kpl1.088.0127eol"/>Saw him disfigured more<anchor xml:id="kpl1.088.0127"/> than could befall<anchor xml:id="kpl1.088.0127eol"/></l>
          <l>Spirit of happy sort: his gestures fierce</l>
          <l>He mark'd and mad demeanour, then alone,</l>
          <l>As he supposed, all unobserved, unseen.</l>
@@ -4730,7 +4742,7 @@
          
          
          <l>So on he fares, and to the border comes</l>
-         <l>Of Eden, <mod rend="su" spanTo="#kpl1.089.0143"/>where delicious Paradise,</l>
+         <l xml:id="kpl1.089.0132l">Of Eden, <mod rend="su" spanTo="#kpl1.089.0143"/>where delicious Paradise,</l>
          <l>Now nearer, crowns with her inclosure green,</l>
          <l>As with a rural mound, the champaign head</l>
          <l>Of a steep wilderness, whose hairy sides</l>
@@ -4751,10 +4763,10 @@
          <l><mod rend="su" spanTo="#kpl1.089.0152"/>On which the sun more glad impress'd his beams</l>
          <l>Than in fair evening cloud, or humid bow,</l>
          <l>When God hath shower'd the earth<anchor xml:id="kpl1.089.0152"/>; so lovely seem'd</l>
-         <l>That landscape: <mod rend="su" spanTo="#kpl1.089.0154"/>and of pure, now purer air</l>
+         <l xml:id="kpl1.089.0153l">That landscape: <mod rend="su" spanTo="#kpl1.089.0154"/>and of pure, now purer air</l>
          <l>Meets his approach,<anchor xml:id="kpl1.089.0154"/> and to the heart inspires</l>
          <l>Vernal delight and joy, able to drive</l>
-         <l>All sadness but despair: Now gentle gales</l>
+         <l xml:id="kpl1.089.0156l">All sadness but despair: Now gentle gales</l>
          <l>Fanning their odoriferous wings, dispense</l>
          <l>Native perfumes, <mod rend="su" spanTo="#kpl1.089.0165"/>and whisper whence they stole</l>
          <l>Those balmy spoils.  As when to them who sail<anchor xml:id="kpl1.089.0159eol"/></l>
@@ -4777,7 +4789,7 @@
          
          
          <l>Who came their bane; though with them better pleased</l>
-         <l>Than <mod rend="su" spanTo="#kpl1.090.0168"/>Asmodeus with the fishy fume<anchor xml:id="kpl1.090.0168"/></l> <!--[dieresis over "e" in Asmodeus]-->
+         <l xml:id="kpl1.090.0168l">Than <mod rend="su" spanTo="#kpl1.090.0168"/>Asmodeus with the fishy fume<anchor xml:id="kpl1.090.0168"/></l> <!--[dieresis over "e" in Asmodeus]-->
          <l>That drove him, though enamour'd, from the spouse</l>
          <l>Of Tobit's son, and with a vengeance sent</l>
          <l>From Media post to Egypt, there fast bound.</l>
@@ -4836,7 +4848,7 @@
          <l>In narrow room, Nature's whole wealth, yea more,</l>
          <l>A Heaven on Earth: for blissful Paradise</l>
          <l>Of God the garden was, by him in the east</l>
-         <l>Of Eden planted: <mod rend="su" spanTo="#kpl1.091.0214"/>Eden stretch'd her line</l>
+         <l xml:id="kpl1.091.0210l">Of Eden planted: <mod rend="su" spanTo="#kpl1.091.0214"/>Eden stretch'd her line</l>
          <l>From Auran eastward to the royal towers</l>
          <l>Of great Seleucia, built by Grecian kings,</l>
          <l>Or where the sons of Eden long before</l>
@@ -4851,7 +4863,7 @@
          <l>Knowledge of good bought dear by knowing ill.</l>
          <l>Southward through Eden went a river large,</l>
          <l>Nor changed his course, but through the shaggy hill</l>
-         <l>Pass'd underneath ingulph'd; <mod rend="su" spanTo="#kpl1.091.0230"/>for God had thrown</l>
+         <l xml:id="kpl1.091.0225l">Pass'd underneath ingulph'd; <mod rend="su" spanTo="#kpl1.091.0230"/>for God had thrown</l>
          <l>That mountain as his garden-mould high raised</l>
          <l>Upon the rapid current, which through veins</l>
          <l>Of porous earth, with kindly thirst up-drawn,</l>
@@ -4863,7 +4875,7 @@
          <l>Runs diverse, wandering many a famous realm</l>
          <l>And country, wherof here needs no account;</l>
          <l>But rather to tell how, if Art could tell,</l>
-         <l><mod rend="su" spanTo="#kpl1.092.0246"/>How from that sapphire fount the crisped brooks,</l>
+         <l xml:id="kpl1.091.0237l"><mod rend="su" spanTo="#kpl1.092.0246"/>How from that sapphire fount the crisped brooks,</l>
          <l>Rolling on orient pearl and sands of gold,</l>
          
          
@@ -4876,7 +4888,7 @@
          
          
          
-         <l>With mazy error under pendant shades</l>
+         <l xml:id="kpl1.092.0239l">With mazy error under pendant shades</l>
          <l>Ran nectar, visiting each plant, and fed</l>
          <l>Flowers worthy of Paradise, which not nice Art</l>
          <l>In beds and curious knots, but Nature boon</l>
@@ -4891,7 +4903,7 @@
          <l>If true, here only, and of delicious taste;</l>
          <l>Betwixt them lawns, or level downs, and flocks</l>
          <l>Grazing the tender herb, were interposed,</l>
-         <l>Or <mod rend="su" spanTo="#kpl1.092.0263"/>palmy hillock; or the flowery lap</l>
+         <l xml:id="kpl1.092.0254l">Or <mod rend="su" spanTo="#kpl1.092.0263"/>palmy hillock; or the flowery lap</l>
          <l>Of some irriguous valley spread her store,</l>
          <l>Flowers of all hue, and without thorn the rose:</l>
          <l>Another side, umbrageous grots and caves</l>
@@ -4905,10 +4917,10 @@
          <l>Breathing the smell of field and grove, <mod rend="su" spanTo="#kpl1.093.0281"/>attune</l>
          <l>The trembling leaves, while universal Pan</l>
          <l>Knit with the Graces and the Hours in dance</l>
-         <l>Led on the eternal spring.  Not that fair field</l>
+         <l xml:id="kpl1.092.0268l">Led on the eternal spring.  Not that fair field</l>
          <l>Of Enna, where Proserpine gathering flowers,</l>
          <l>Herself a fairer flower, by gloomy Dis</l>
-         <l><mod rend="lvd" spanTo="#kpl1.092.0272eol"/>Was gather'd, which cost Ceres <mod rend="du" spanTo="#kpl1.092.0271"/>all that pain<anchor xml:id="kpl1.092.0271"/></l>
+         <l xml:id="kpl1.092.0271l"><mod rend="lvd" spanTo="#kpl1.092.0272eol"/>Was gather'd, which cost Ceres <mod rend="du" spanTo="#kpl1.092.0271"/>all that pain<anchor xml:id="kpl1.092.0271"/></l>
          <l>To seek her through the world; nor that sweet grove<anchor xml:id="kpl1.092.0272eol"/></l>
          <l>Of Daphne by Orontes, and the inspired</l>
          <l>Castalian spring, might with this Paradise</l>
@@ -4950,7 +4962,7 @@
          <l>For contemplation he and valour form'd,</l>
          <l>For softness she, and sweet attractive grace;</l>
          <l>He for God only, she for God in him.</l>
-         <l><mod rend="su" spanTo="#kpl1.093.0308"/>His fair large front and eye sublime declared</l>
+         <l xml:id="kpl1.093.0300l"><mod rend="su" spanTo="#kpl1.093.0308"/>His fair large front and eye sublime declared</l>
          <l>Absolute rule; and hyacinthine locks</l>
          <l>Round from his parted forelock manly hung</l>
          <l>Clustering, but not beneath his shoulders broad:</l>
@@ -5178,7 +5190,7 @@
          
          
          
-      <pb n="98" facs="gt54kk94c1p"/>
+      <pb n="98" xml:id="kpl1.98" facs="gt54kk94c1p"/>
          
          
          
@@ -5207,8 +5219,8 @@
          <l>"Multitudes like thyself, and thence be call'd</l>
          <l>"Mother of human race."  What could I do, </l>
          <l>But follow strait, invisibly thus led,</l>
-         <l xml:id="kpl1.098.477l">Till I espied thee? <mod rend="su" spanTo="#kpl1.098.0478"/>fair indeed, and tall,</l>
-         <l xml:id="kpl1.098.478l">Under a platane;<anchor xml:id="kpl1.098.0478"/> yet, methought, less fair,</l>
+         <l xml:id="kpl1.098.0477l">Till I espied thee? <mod rend="su" spanTo="#kpl1.098.0478"/>fair indeed, and tall,</l>
+         <l xml:id="kpl1.098.0478l">Under a platane;<anchor xml:id="kpl1.098.0478"/> yet, methought, less fair,</l>
          <l>Less winning soft, less amiably mild,</l>
          <l>Than that smooth watery image; back I turn'd;</l>
          <l>Thou following criedst aloud, Return, fair Eve,</l>
@@ -5545,7 +5557,7 @@
          <l>Both day and night: <mod rend="su" spanTo="#kpl1.104.0683"/>How often, from the steep</l>
          <l>Of echoing hill, or thicket, have we heard<anchor xml:id="kpl1.104.0681eol"/></l>
          <l>Celestial voices, to the midnight air</l>
-         <l>Sole, or responsive each to other's note<anchor xml:id="kpl1.104.0683"/>,</l>
+         <l xml:id="kpl1.104.0683l">Sole, or responsive each to other's note<anchor xml:id="kpl1.104.0683"/>,</l>
          <l>Singing their great Creator? oft in bands</l>
          <l>While they keep watch, or nightly rounding walk,</l>
          <l>With heavenly touch of instrumental sounds,</l>
@@ -5677,7 +5689,7 @@
          <l>Mix'd dance, or wanton mask, or midnight ball,</l>
          <l>Or serenate, which the starved lover sings</l>
          <l>To his proud fair; best quitted with disdain.<anchor xml:id="kpl1.106.0770eol"/></l>
-         <l><mod rend="su" spanTo="#kpl1.106.0773"/>These lull'd by nightingale, embracing slept;</l>
+         <l xml:id="kpl1.106.0771l"><mod rend="su" spanTo="#kpl1.106.0773"/>These lull'd by nightingale, embracing slept;</l>
          <l>And on their naked limbs the flowery roof</l>
          <l>Shower'd roses, which the morn repair'd<anchor xml:id="kpl1.106.0773"/>.  Sleep on.</l>
          <l>Blest pair! and O! yet happiest, if ye seek</l>
@@ -5739,7 +5751,7 @@
          
       <lg>
          
-         <l><mod rend="lvt" spanTo="#kpl1.107.0799eol"/>   <mod rend="su" spanTo="#kpl1.107.0798"/>So saying, on he led his radiant files,</l>
+         <l xml:id="kpl1.107.0797l"><mod rend="lvt" spanTo="#kpl1.107.0799eol"/>   <mod rend="su" spanTo="#kpl1.107.0798"/>So saying, on he led his radiant files,</l>
          <l>Dazzling the moon<anchor xml:id="kpl1.107.0798"/>; these to the bower direct,</l>
          <l>In search of whom they sought: him there they found,<anchor xml:id="kpl1.107.0799eol"/></l>
          <l>Squat like a toad, close at the ear of Eve;</l>
@@ -5839,7 +5851,7 @@
          
          
          
-      <pb n="image" facs="hd76rx94178"/> 
+      <pb n="image" xml:id="kpl1.108image" facs="hd76rx94178"/> 
          
       <pb n="109" facs="hh63st7798p"/> 
          
@@ -6451,7 +6463,7 @@
          <l>Perpetual circle, multiform, and mix,</l>
          <l>And nourish all things; let your ceaseless change</l>
          <l>Vary to our great Maker still new praise.</l>
-         <l><mod rend="su" spanTo="#kpl1.122.0187"/>Ye Mists and Exhalations, that now rise</l>
+         <l xml:id="kpl1.122.0185l"><mod rend="su" spanTo="#kpl1.122.0187"/>Ye Mists and Exhalations, that now rise</l>
          <l>From hill or steaming lake, dusky or grey,</l>
          <l>Till the sun paint your fleecy skirts with gold,<anchor xml:id="kpl1.122.0187"/></l>
          <l>In honour to the world's great Author rise,</l>
@@ -6563,7 +6575,7 @@
          <l>Star interposed, however small he sees,</l>
          <l>Not unconform to other shining globes,</l>
          <l>Earth and the garden of God, with cedars crown'd</l>
-         <l>Above all hills.  As when by night the glass</l>
+         <l xml:id="kpl1.124.0261l">Above all hills.  As when by night the glass</l>
          <l>Of Galileo, less assured, observes</l>
          <l>Imagined lands and regions in the moon;</l>
          <l>Or pilot, from amidst the Cyclades,</l>
@@ -6617,7 +6629,7 @@
          <l>Of his cool bower, while now the mounted sun</l>
          <l>Shot down direct his fervid rays to warm</l>
          <l>Earth's inmost womb, more warmth than Adam needs:</l>
-         <l>And Eve within, due at her hour prepared</l>
+         <l xml:id="kpl1.125.0303l">And Eve within, due at her hour prepared</l>
          <l>For dinner savoury fruits, of taste to please</l>
          <l>True appetite, and not disrelish thirst</l>
          <l>Of nectarous draughts between, from milky stream,</l>
@@ -6665,7 +6677,7 @@
          <l>All season, ripe for use hangs on the stalk;</l>
          <l>Save what by frugal storing firmness gains</l>
          <l>To nourish, and superfluous moist consumes:</l>
-         <l>But I will haste, <mod rend="su" spanTo="#kpl1.126.0327"/>and from each bough and brake,</l>
+         <l xml:id="kpl1.126.0326l">But I will haste, <mod rend="su" spanTo="#kpl1.126.0327"/>and from each bough and brake,</l>
          <l>Each plant and juiciest gourd, will pluck<anchor xml:id="kpl1.126.0327"/> such choice</l>
          <l>To entertain our Angel-guest, as he </l>
          <l>Beholding shall confess, that here on Earth</l>
@@ -6685,7 +6697,7 @@
          <l>Whatever Earth, all-bearing mother, yields</l>
          <l>In India East or West, or middle shore</l>
          <l>In Pontus or the Punic coast, or where</l>
-         <l>Alcinous reign'd, <mod rend="su" spanTo="#kpl1.127.0351"/>fruit of all kinds, in coat</l>
+         <l xml:id="kpl1.126.0341l">Alcinous reign'd, <mod rend="su" spanTo="#kpl1.127.0351"/>fruit of all kinds, in coat</l>
          <l>Rough or smooth rind, or bearded husk, or shell,</l>
          <l>She gathers, tribute large, and on the board</l>
          <l>Heaps with unsparing hand; for drink the grape</l>
@@ -6728,7 +6740,7 @@
          <l>Those happy places thou hast deign'd awhile</l>
          <l>To want, and honour these, vouchsafe with us</l>
          <l>Two only, who yet by sovereign gift possess</l>
-         <l>This spacious ground, <mod rend="su" spanTo="#kpl1.127.0370"/>in yonder shady bower</l>
+         <l xml:id="kpl1.127.0367l">This spacious ground, <mod rend="su" spanTo="#kpl1.127.0370"/>in yonder shady bower</l>
          <l>To rest, and what the garden choicest bears</l>
          <l>To sit and taste, till this meridian heat</l>
          <l>Be over, and the sun more cool decline<anchor xml:id="kpl1.127.0370"/>.</l>
@@ -6774,7 +6786,7 @@
          <l>   Hail, Mother of Mankind, whose fruitful womb</l>
          <l>Shall fill the world more numerous with thy sons</l>
          <l>Than with these various fruits the trees of God</l>
-         <l>Have heap'd this table.  <mod rend="su" spanTo="#kpl1.128.0395"/>Raised of grassy turf</l>
+         <l xml:id="kpl1.128.0391l">Have heap'd this table.  <mod rend="su" spanTo="#kpl1.128.0395"/>Raised of grassy turf</l>
          <l>Their table was, and mossy seats had round,</l>
          <l>And on her ample square from side to side</l>
          <l>All Autumn piled, though Spring and Autumn here</l>
@@ -6832,7 +6844,7 @@
          <l>Varied his bounty so with new delights,</l>
          <l>As may compare with Heaven; and to taste</l>
          <l>Think not I shall be nice.  So down they sat,</l>
-         <l>And to their viands fell, nor seemingly</l>
+         <l xml:id="kpl1.129.0434l">And to their viands fell, nor seemingly</l>
          <l><mod rend="lvs" spanTo="#kpl1.129.0439eol"/>The Angel, nor in mist, the common gloss</l>
          <l>Of theologians, but with keen dispatch</l>
          <l>Of real hunger, and concoctive heat</l>
@@ -6904,8 +6916,8 @@
          <l>As nearer to him placed, or nearer tending,</l>
          <l>Each in their several active spheres assign'd,</l>
          <l>Till body up to spirit work, in bounds</l>
-         <l xml:id="kpl1.130.479l">Proportion'd to each kind.  <mod rend="su" spanTo="#kpl1.130.0488"/>So from the root</l>
-         <l xml:id="kpl1.130.480l">Springs lighter the green stalk, from thence the leaves</l>
+         <l xml:id="kpl1.130.0479l">Proportion'd to each kind.  <mod rend="su" spanTo="#kpl1.130.0488"/>So from the root</l>
+         <l xml:id="kpl1.130.0480l">Springs lighter the green stalk, from thence the leaves</l>
          <l>More airy, last the bright consummate flower</l>
          <l>Spirits odorous breathes: flowers and their fruits,</l>
          <l>Man's nourishment, by gradual scale sublimed,</l>
@@ -6939,7 +6951,7 @@
          <l>Improved by track of time, and wing'd ascend</l>
          <l>Etherial, as we; or may at choice</l>
          <l>Here or in heavenly Paradises dwell;</l>
-         <l xml:id="kpl1.131.501l">If ye be found obedient, and retain</l>
+         <l xml:id="kpl1.131.0501l">If ye be found obedient, and retain</l>
          <l>Unalterably firm his love entire</l>
          <l>Whose progeny you are.  Meanwhile enjoy</l>
          <l>Your fill what happiness this happy state</l>
@@ -6956,8 +6968,8 @@
          <l>From centre to circumference, whereon</l>
          <l>In contemplation of created things</l>
          <l>By steps we may ascend to God.  But say</l>
-         <l>What meant that caution join'd, <q xml:id="kplq131.513" next="#kplq131.514" source="#kpl1.131.501l" rend="italic">If ye be found</q></l> 
-         <l><q xml:id="kplq131.514" prev="#kplq131.513" source="#kpl1.131.501l" rend="italic">Obedient</q>? Can we want obedience then</l> 
+         <l>What meant that caution join'd, <q xml:id="kplq131.513" next="#kplq131.514" source="#kpl1.131.0501l" rend="italic">If ye be found</q></l> 
+         <l><q xml:id="kplq131.514" prev="#kplq131.513" source="#kpl1.131.0501l" rend="italic">Obedient</q>? Can we want obedience then</l> 
          <l>To him, or possibly his love desert</l>
          <l>Who form'd us from the dust, and placed us here</l>
          <l>Full to the utmost measure of what bliss</l>
@@ -7014,7 +7026,7 @@
          
          <l>   To whom our great Progenitor.  Thy words</l>
          <l>Attentive, and with more delighted ear,</l>
-         <l><mod rend="lvs" spanTo="#kpl1.132.0548eol"/>Divine Instructor, I have heard, than when</l>
+         <l xml:id="kpl1.132.0546l"><mod rend="lvs" spanTo="#kpl1.132.0548eol"/>Divine Instructor, I have heard, than when</l>
          <l>Cherubic songs by night from neighbouring hills</l>
          <l>Aerial music send: nor knew I not<anchor xml:id="kpl1.132.0548eol"/></l> <!--[dieresis over "e"]-->
          <l>To be both will and deed created free;</l>
@@ -7147,12 +7159,12 @@
          <l>Resembles nearest, mazes intricate,</l>
          <l>Eccentric, intervolved, yet regular</l>
          <l>Then most, when most irregular they seem:<anchor xml:id="kpl1.134.0624eol"/></l> <!--Sic on "then"?-->
-         <l><mod rend="su" spanTo="#kpl1.134.0627"/>And in their motions harmony divine</l>
+         <l xml:id="kpl1.134.0625l"><mod rend="su" spanTo="#kpl1.134.0627"/>And in their motions harmony divine</l>
          <l>So smooths her charming tones, that God's own ear</l>
          <l>Listens delighted.<anchor xml:id="kpl1.134.0627"/>  Evening now approach'd,</l>
          <l><mod rend="lvs" spanTo="#kpl1.135.0639eol"/>(For we have also our evening and our morn,</l>
          <l>We ours for change delectable, not need):</l>
-         <l>Forthwith from dance to sweet repast they turn</l>
+         <l xml:id="kpl1.134.0630l">Forthwith from dance to sweet repast they turn</l>
          <l>Desirous; all in circles as they stood,</l>
          <l>Tables are set, and on a sudden piled</l>
          <l>With Angels' food, and rubied nectar flows</l>
@@ -7187,7 +7199,7 @@
          <l>By living streams among the trees of life.</l>
          <l>Pavilions numberless, and sudden rear'd,</l>
          <l>Celestial tabernacles, where they slept</l>
-         <l>Fann'd with cool winds; save those who in their course</l>
+         <l xml:id="kpl1.135.0655l">Fann'd with cool winds; save those who in their course</l>
          <l>Melodious hymns about the sovereign throne</l>
          <l>Alternate all night long:<anchor xml:id="kpl1.135.0657"/> but not so waked</l>
          <l>Satan, (so call him now, his former name</l>
@@ -7805,7 +7817,7 @@
          
          <lb/>
          
-         <p>BOOKS VI.</p>
+         <p>BOOK VI.</p>
          
          <lb/>
          <lb/>
@@ -7927,7 +7939,7 @@
             
             <l>   <mod rend="su" spanTo="#kpl2.005.0060"/>So spake the Sovereign Voice, and clouds began</l>
             <l>To darken all the hill, and smoke to roll</l>
-            <l>In dusky wreaths, reluctant flames, the sign</l>
+            <l xml:id="kpl2.004.0058l">In dusky wreaths, reluctant flames, the sign</l>
             
             
             
@@ -7944,7 +7956,7 @@
             
             
             
-            <l>Of wrath awaked; nor with less dread the loud</l>
+            <l xml:id="kpl2.005.0059l">Of wrath awaked; nor with less dread the loud</l>
             <l>Etherial trumpet from on high 'gan blow<anchor xml:id="kpl2.005.0060"/>;</l>
             <l>At which command the Powers militant,</l>
             <l>That stood for heaven, <mod rend="su" spanTo="#kpl2.005.0063"/>in mighty quadrate join'd</l>
@@ -8793,7 +8805,7 @@
             
             
             
-         <pb n="20"  facs="zp38w953g1t"/>
+         <pb n="20" facs="zp38w953g1t"/>
             
             
             
@@ -8885,7 +8897,7 @@
             <l>They saw them whelm'd, and all their confidence</l>
             <l>Under the weight of mountains buried deep;</l>
             <l>Themselves invaded next, and on their heads</l>
-            <l><mod rend="su" spanTo="#kpl2.021.0655"/>Main promontories flung, which in the air</l>
+            <l xml:id="kpl2.021.0654l"><mod rend="su" spanTo="#kpl2.021.0655"/>Main promontories flung, which in the air</l>
             <l><mod rend="lvt" spanTo="#kpl2.021.0655eol"/>Came shadowing,<anchor xml:id="kpl2.021.0655"/> and oppress'd whole legions arm'd;<anchor xml:id="kpl2.021.0655eol"/></l>
             <l>Their armour help'd their harm, crush'd in and bruised</l>
             <l>Into their substance pent, which wrought them pain</l>
@@ -9181,7 +9193,7 @@
             
             
             
-         <pb n="image" facs="02870v85r38"/> 
+         <pb n="image" xml:id="kpl2.26image" facs="02870v85r38"/> 
          
          <pb n="27" facs="02870v85r38"/>
             
@@ -9307,7 +9319,7 @@
             
             
             
-         <pb n="31" facs="08612n5295v"/>
+         <pb n="31" xml:id="kpl2.31" facs="08612n5295v"/>
             
          <lg>
             
@@ -9340,7 +9352,7 @@
             
             
             
-         <pb n="32" facs="0c483j35k6j"/>
+         <pb n="32" xml:id="kpl2.32" facs="0c483j35k6j"/>
             
             
             
@@ -9350,7 +9362,7 @@
             
             <l><mod rend="lvs" spanTo="#kpl2.032.0028eol"/>Standing on Earth, not rapt above the pole,</l>
             <l>More safe I sing with mortal voice, unchanged</l>
-            <l xml:id="kpl2.032.25l">To hoarse or mute, though fallen on evil days,</l>
+            <l xml:id="kpl2.032.0025l">To hoarse or mute, though fallen on evil days,</l>
             <l>On evil days though fallen, and evil tongues;</l>
             <l>In darkness, and with dangers compass'd round,</l>
             <l>And solitude; yet not alone, while thou<anchor xml:id="kpl2.032.0028eol"/></l>
@@ -9858,7 +9870,7 @@
             <l>Globose, and every magnitude of stars,</l>
             <l>And sow'd with stars the Heaven thick as a field:</l>
             <l>Of light by far the greater part he took,</l>
-            <l>Transplanted from <mod rend="su" spanTo="#kpl2.041.0360"/>her cloudy shrine,<anchor xml:id="kpl2.041.0360"/> and placed</l>
+            <l xml:id="kpl2.041.0360l">Transplanted from <mod rend="su" spanTo="#kpl2.041.0360"/>her cloudy shrine,<anchor xml:id="kpl2.041.0360"/> and placed</l>
             <l>In the sun's orb, made porous to receive</l>
             <l>And drink the liquid light; firm to retain</l>
             <l>Her gather'd beams, great palace now of light.</l>
@@ -9952,8 +9964,8 @@
             <l>Bursting with kindly rupture, forth disclosed</l>
             <l>Their callow young, but feather'd soon and fledge<anchor xml:id="kpl2.043.0420eol"/></l>
             <l>They summ'd their pens, and, soaring the air sublime</l>
-            <l xml:id="kpl2.043.422l"><mod rend="su" spanTo="#kpl2.043.0424"/>With clang despised the ground, under a cloud</l>
-            <l xml:id="kpl2.043.423l">In prospect; there the eagle and the stork</l>
+            <l xml:id="kpl2.043.0422l"><mod rend="su" spanTo="#kpl2.043.0424"/>With clang despised the ground, under a cloud</l>
+            <l xml:id="kpl2.043.0423l">In prospect; there the eagle and the stork</l>
             <l>On cliffs and cedar tops their eyries build;<anchor xml:id="kpl2.043.0424"/></l>
             <l>Part loosely wing the region, part more wise</l>
             <l><mod rend="lvs" spanTo="#kpl2.043.0433eol"/>In common, ranged in figure wedge their way,</l>
@@ -9968,9 +9980,9 @@
             <l>Till even, nor then the solemn nightingale</l>
             <l>Ceased warbling, but all night tuned her soft lays:</l>
             <l>Others on silver lakes and rivers bathed </l>
-            <l>Their downy breast; <mod rend="su" spanTo="#kpl2.043.0440"/>the swan, with arched neck</l>
+            <l xml:id="kpl2.043.0438l">Their downy breast; <mod rend="su" spanTo="#kpl2.043.0440"/>the swan, with arched neck</l>
             <l>Between her white wings mantling proudly, rows</l>
-            <l>Her state with oary feet;<anchor xml:id="kpl2.043.0440"/> yet oft they quit</l>
+            <l xml:id="kpl2.043.0440l">Her state with oary feet;<anchor xml:id="kpl2.043.0440"/> yet oft they quit</l>
             <l>The dank, and, rising on stiff pennons, tower</l>
             <l>The mid aerial sky: Others on ground</l>
             <l>Walk'd firm; the crested cock, <mod rend="su" spanTo="#kpl2.043.0446"/>whose clarion sounds</l>
@@ -10197,7 +10209,7 @@
             <l>Author and End of all things, and from work</l>
             <l>Now resting, bless'd and hallow'd the seventh day,</l>
             <l>As resting on that day from all his work,</l>
-            <l>But not in silence holy kept; <mod rend="su" spanTo="#kpl2.048.0600"/>the harp</l>
+            <l xml:id="kpl2.047.0594l">But not in silence holy kept; <mod rend="su" spanTo="#kpl2.048.0600"/>the harp</l>
             <l>Had work and rested not, the solemn pipe,</l>
             <l>And dulcimer, all organs of sweet stop,</l>
             <l>All sounds on fret by string or golden wire,</l>
@@ -10425,7 +10437,7 @@
             
             <l>With Goddess-like demeanour forth she went,</l>
             <l>Not unattended; for on her as queen</l>
-            <l><mod rend="lvs" spanTo="#kpl2.055.0062eol"/>A pomp of winning graces waited still,</l>
+            <l xml:id="kpl2.055.0061l"><mod rend="lvs" spanTo="#kpl2.055.0062eol"/>A pomp of winning graces waited still,</l>
             <l>And from about her shot darts of desire<anchor xml:id="kpl2.055.0062eol"/></l>
             <l>Into all eyes to wish her still in sight.</l>
             <l>And Raphael now, to Adam's doubt proposed,</l>
@@ -10461,7 +10473,7 @@
             <l>The benefit. Consider first, that great</l>
             <l>Or bright infers not excellence: the Earth,</l>
             <l>Though, in comparison of Heaven, so small,</l>
-            <l><mod rend="rvs" spanTo="#kpl2.055.0094eol"/>Not glistering, may of solid good contain</l>
+            <l xml:id="kpl2.055.0093l"><mod rend="rvs" spanTo="#kpl2.055.0094eol"/>Not glistering, may of solid good contain</l>
             <l>More plenty than the sun that <mod rend="su" spanTo="#kpl2.055.0094"/>barren shines<anchor xml:id="kpl2.055.0094"/>,<anchor xml:id="kpl2.055.0094eol"/></l>
             
             
@@ -10642,7 +10654,7 @@
             <l><mod rend="lvs" spanTo="#kpl2.059.0216eol"/>Fond, were it not in hope of thy reply:</l>
             <l>For, while I sit with thee, I seem in Heaven,</l>
             <l>And sweeter thy discourse is to my ear</l>
-            <l>Than fruits of palm-tree pleasantest to thirst</l>
+            <l xml:id="kpl2.059.0212l">Than fruits of palm-tree pleasantest to thirst</l>
             <l>And hunger both, from labour, at the hour</l>
             <l>Of sweet repast; they satiate, and soon fill</l>
             <l>Tho' pleasant; but thy words, with grace divine</l>
@@ -10753,7 +10765,7 @@
             <l>From whence I first drew air, and first beheld</l>
             <l>This happy light, when answer non return'd,</l>
             <l>On a green shady bank, profuse of flowers,</l>
-            <l xml:id="kpl2.061.287l">Pensive I sat me down; <mod rend="su" spanTo="#kpl2.061.0295"/>there gentle sleep</l>
+            <l xml:id="kpl2.061.0287l">Pensive I sat me down; <mod rend="su" spanTo="#kpl2.061.0295"/>there gentle sleep</l>
             <l>First found me, and with soft oppression seized</l>
             <l>My drowsed sense, untroubled, though I thought </l>
             <l>I then was passing to my former state</l>
@@ -10795,7 +10807,7 @@
             
             
             
-            <l>Had lively shadow'd: Here had new begun</l>
+            <l xml:id="kpl2.062.0311l">Had lively shadow'd: Here had new begun</l>
             <l>My wandering, had not he, who was my guide</l>
             <l>Up hither, from among the trees appear'd,<anchor xml:id="kpl2.062.0313eol"/></l>
             <l>Presence divine. Rejoicing, but with awe,</l>
@@ -11031,7 +11043,7 @@
             <l>Of sleep, which instantly fell on me, call'd<anchor xml:id="kpl2.066.0458eol"/></l>
             <l>By nature as in aid, and closed mine eyes. </l>
             <l><mod rend="lvs" spanTo="#kpl2.066.0462eol"/><mod rend="su" spanTo="#kpl2.066.0461"/>Mine eyes he closed, but open left the cell</l>
-            <l>Of fancy<anchor xml:id="kpl2.066.0461"/>, my internal sight; by which</l>
+            <l xml:id="kpl2.066.0461l">Of fancy<anchor xml:id="kpl2.066.0461"/>, my internal sight; by which</l>
             <l>Abstract as in a trance, methought I saw,<anchor xml:id="kpl2.066.0462eol"/></l>
             <l>Though sleeping, where I lay, and saw the shape </l>
             <l>Still glorious before whom awake I stood; </l>
@@ -11111,7 +11123,7 @@
             <l>Joyous the birds; fresh gales and gentle airs</l>
             <l>Whisper'd it to the woods, and from their wings</l>
             <l>Flung rose, flung odours from the spicy shrub, </l>
-            <l>Disporting, till the amorous bird of night</l>
+            <l xml:id="kpl2.067.0518l">Disporting, till the amorous bird of night</l>
             <l>Sung spousal, and bid haste the evening-star</l>
             <l>On his hill-top, to light the bridal lamp.<anchor xml:id="kpl2.067.0520"/></l>
             
@@ -11174,7 +11186,7 @@
             
          </lg><lg>
             
-            <l>   <mod rend="su" spanTo="#kpl2.068.0560"/>To whom the Angel with contracted brow<anchor xml:id="kpl2.068.0560"/>. </l>
+            <l xml:id="kpl2.068.0560l">   <mod rend="su" spanTo="#kpl2.068.0560"/>To whom the Angel with contracted brow<anchor xml:id="kpl2.068.0560"/>. </l>
             <l>Accuse not Nature, she hath done her part; </l>
             <l>Do thou but thine, and be not diffident</l>
             
@@ -11268,7 +11280,7 @@
             
          </lg><lg>
             
-            <l>   <mod rend="su" spanTo="#kpl2.070.0620"/>To whom the Angel, with a smile that glow'd</l>
+            <l xml:id="kpl2.070.0618l">   <mod rend="su" spanTo="#kpl2.070.0620"/>To whom the Angel, with a smile that glow'd</l>
             <l>Celestial rosy red, Loves proper hue, </l>
             <l>Answer'd<anchor xml:id="kpl2.070.0620"/>. Let it suffice thee that thou knowst</l>
             <l>Us happy, and without love no happiness. </l>
@@ -11426,7 +11438,7 @@
             
             <l>And dictates to me slumbering, or inspires </l>
             <l><mod rend="su" spanTo="#kpl2.076.0024"/>Easy my unpremeditated verse<anchor xml:id="kpl2.076.0024"/>:</l>
-            <l>Since first this subject for heroic song</l>
+            <l xml:id="kpl2.076.0025l">Since first this subject for heroic song</l>
             <l>Pleased me, long choosing, and beginning late:</l>
             <l>Not sedulous by nature to indite</l>
             <l>Wars, hitherto the only argument</l>
@@ -11444,11 +11456,11 @@
             <l>Not that which justly gives heroic name</l>
             <l>To person, or to poem. Me, of these</l>
             <l>Nor skill'd nor studious, higher argument</l>
-            <l><mod rend="lvs" spanTo="#kpl2.076.0047eol"/>Remains, sufficient of itself to raise</l>
+            <l xml:id="kpl2.076.0043l"><mod rend="lvs" spanTo="#kpl2.076.0047eol"/>Remains, sufficient of itself to raise</l>
             <l>That name, unless an age too late, or cold</l>
             <l>Climate, or years, damp my intended wing</l>
             <l>Depress'd; and much they may, if all be mine, </l>
-            <l rend="starred" xml:id="kpl2.076.47l">Not hers who brings it nightly to my ear.<anchor xml:id="kpl2.076.0047eol"/></l>
+            <l rend="starred" xml:id="kpl2.076.0047l">Not hers who brings it nightly to my ear.<anchor xml:id="kpl2.076.0047eol"/></l>
             
          </lg><lg>
             
@@ -11557,8 +11569,8 @@
             <l>Rocks, dens, and caves! But I in none of these</l>
             <l>Find place or refuge; and the more I see</l>
             <l>Pleasures about me, so much more I feel</l>
-            <l>Torment within me, <mod rend="su" spanTo="#kpl2.078.0122"/>as from the hateful siege</l>
-            <l><mod rend="lvt" spanTo="#kpl2.078.0122eol"/>Of contraries<anchor xml:id="kpl2.078.0122"/>; all good to me becomes<anchor xml:id="kpl2.078.0122eol"/></l>
+            <l xml:id="kpl2.078.0121l">Torment within me, <mod rend="su" spanTo="#kpl2.078.0122"/>as from the hateful siege</l>
+            <l xml:id="kpl2.078.0122l"><mod rend="lvt" spanTo="#kpl2.078.0122eol"/>Of contraries<anchor xml:id="kpl2.078.0122"/>; all good to me becomes<anchor xml:id="kpl2.078.0122eol"/></l>
             <l>Bane, and in Heaven much worse would be my state. </l>
             <l>But neither seek I, no nor in Heaven</l>
             <l>To dwell, unless by mastering Heaven's Supreme; </l>
@@ -11658,8 +11670,8 @@
             <l>Fearless, unfear'd he slept: in at his mouth</l>
             <l>The Devil enter'd, and his brutal sense, </l>
             <l>In heart or head, possessing, soon inspired</l>
-            <l xml:id="kpl2.080.190l">With act intelligential; but his sleep</l>
-            <l xml:id="kpl2.080.191l">Disturb'd not, waiting close the approach of morn<anchor xml:id="kpl2.080.0191"/>.</l>
+            <l xml:id="kpl2.080.0190l">With act intelligential; but his sleep</l>
+            <l xml:id="kpl2.080.0191l">Disturb'd not, waiting close the approach of morn<anchor xml:id="kpl2.080.0191"/>.</l>
             <l>Now, when as sacred light began to dawn</l>
             <l><mod rend="lvs" spanTo="#kpl2.080.0200eol"/>In Eden on the humid flowers, that breathed </l>
             <l>Their morning incense, when all things that breath, </l>
@@ -12036,7 +12048,7 @@
             <l>He sought them both, but wish'd his hap might find<anchor xml:id="kpl2.087.0421eol"/></l>
             <l>Eve separate; he wish'd but not with hope</l>
             <l>Of what so seldom changed; when to his wish, </l>
-            <l>Beyond his hope, <mod rend="su" spanTo="#kpl2.087.0435"/>Eve separate he spies, </l>
+            <l xml:id="kpl2.087.0424l">Beyond his hope, <mod rend="su" spanTo="#kpl2.087.0435"/>Eve separate he spies, </l>
             <l>Veil'd in a cloud of fragrance, where she stood, </l>
             <l>Half spied, so thick the roses blushing round</l>
             <l>About her glow'd, oft stooping to support</l>
@@ -12057,9 +12069,9 @@
             <l>Or that, not mystic, where the sapient king</l>
             <l><mod rend="su" spanTo="#kpl2.087.0443"/>Held dalliance with his fair Egyptian spouse<anchor xml:id="kpl2.087.0443"/>. </l>
             <l>Much he the place admired, the person more. </l>
-            <l>As one who long in populous city pent, </l> <!-- Cf. to Keats, "To One Who Has Been Long in City Pent" -->
+            <l xml:id="kpl2.087.0445l">As one who long in populous city pent, </l> <!-- Cf. to Keats, "To One Who Has Been Long in City Pent" -->
             <l>Where houses thick and sewers annoy the air, </l>
-            <l><mod rend="su" spanTo="#kpl2.087.0451"/>Forth issuing on a summer's morn, to breathe</l>
+            <l xml:id="kpl2.087.0447l"><mod rend="su" spanTo="#kpl2.087.0451"/>Forth issuing on a summer's morn, to breathe</l>
             <l>Among the pleasant villages and farms</l>
             <l>Adjoin'd, from each thing met conceives delight; </l>
             <l>The smell of grain, or tedded grass, or kine,</l>
@@ -12270,7 +12282,7 @@
             <l>A goodly fair tree far distant to behold</l>
             <l>Loaden with fruit of fairest colours mix'd, </l>
             <l>Ruddy and gold: I nearer drew to gaze; </l>
-            <l><mod rend="su" spanTo="#kpl2.091.0583"/>When from the boughs a savoury odour blown,</l>
+            <l xml:id="kpl2.091.0579l"><mod rend="su" spanTo="#kpl2.091.0583"/>When from the boughs a savoury odour blown,</l>
             <l>Grateful to appetite, more pleased my sense</l>
             <l>Than smell of sweetest fennel, or the teats</l>
             <l>Of ewe or goat dropping with milk at even, </l>
@@ -12347,7 +12359,7 @@
             
          </lg><lg>
             
-            <l>   Lead then, said Eve.  <mod rend="su" spanTo="#kpl2.092.0634"/>He, leading, swiftly roll'd </l>
+            <l xml:id="kpl2.092.0631l">   Lead then, said Eve.  <mod rend="su" spanTo="#kpl2.092.0634"/>He, leading, swiftly roll'd </l>
             <l>In tangles, and made intricate seem straight, </l>
             <l>To mischief swift.  Hope elevates, and joy</l>
             <l>Brightens his crest; as when a wandering fire,<anchor xml:id="kpl2.092.0634"/></l>
@@ -12407,7 +12419,7 @@
             
          </lg><lg>
             
-            <l><mod rend="lvs" spanTo="#kpl2.093.0669eol"/>   She scarce had said, though brief, when now more</l>
+            <l xml:id="kpl2.092.0664l"><mod rend="lvs" spanTo="#kpl2.093.0669eol"/>   She scarce had said, though brief, when now more</l>
             <l>The Tempter, but with show of zeal and love</l>
             <l>To Man, and indignation at his wrong, </l>
             <l>New part puts on; and, as to passion moved, </l>
@@ -12583,7 +12595,7 @@
             
             
             
-         <pb n="image" facs="3n203x83s9q"/> 
+         <pb n="kpl2.96image" facs="3n203x83s9q"/> 
          
          <pb n="97" facs="3r074t6730j"/>
             
@@ -12608,7 +12620,7 @@
             <l>In fruit she never tasted, whether true</l>
             <l>Or fancied so, through expectation high </l>
             <l>Of knowledge; nor was Godhead from her thought, </l>
-            <l><mod rend="su" spanTo="#kpl2.097.0794"/>Greedily she ingorged without restraint,</l>
+            <l xml:id="kpl2.097.0791l"><mod rend="su" spanTo="#kpl2.097.0794"/>Greedily she ingorged without restraint,</l>
             <l>And knew not eating death: Satiate at length, </l>
             <l>And heighten'd as with wine, jocund and boon, </l>
             <l>Thus to herself she pleasingly began<anchor xml:id="kpl2.097.0794"/>.</l>
@@ -12706,7 +12718,7 @@
             
             
             <l>Scarce from the tree returning; in her hand</l>
-            <l>A bough of fairest fruit, that downy smiled</l>
+            <l xml:id="kpl2.099.0851l">A bough of fairest fruit, that downy smiled</l>
             <l>New gather'd, and ambrosial smell diffused. </l>
             <l>To him she hasted; in her face excuse</l>
             <l>Came prologue, and apology too prompt;<anchor xml:id="kpl2.099.0854eol"/></l>
@@ -12767,7 +12779,7 @@
             <l><mod rend="su" spanTo="#kpl2.100.0887"/>But in her cheek distemper flushing glow'd<anchor xml:id="kpl2.100.0887"/>.</l>
             <l>On the other side, Adam, soon as he heard</l>
             <l>The fatal trespass done by Eve, amazed, </l>
-            <l><mod rend="su" spanTo="#kpl2.100.0894"/>Astonied stood and blank, while horror chill</l>
+            <l xml:id="kpl2.100.0890l"><mod rend="su" spanTo="#kpl2.100.0894"/>Astonied stood and blank, while horror chill</l>
             <l>Ran through his veins, and all his joints relax'd; </l>
             <l>From his slack hand the garland wreath'd for Eve</l>
             <l>Down dropt, and all the faded roses shed: </l>
@@ -13441,7 +13453,7 @@
             
             <l>The evening cool; when he, from wrath more cool, </l>
             <l>Came the mild Judge, and Intercessor both, </l>
-            <l>To sentence Man: <mod rend="su" spanTo="#kpl2.114.0099"/>The Voice of God they heard</l>
+            <l xml:id="kpl2.114.0097l">To sentence Man: <mod rend="su" spanTo="#kpl2.114.0099"/>The Voice of God they heard</l>
             <l>Now walking in the garden, by soft winds</l>
             <l>Brought to their ears, while day declined<anchor xml:id="kpl2.114.0099"/>; they heard, </l>
             <l>And from his presence hid themselves among</l>
@@ -13732,7 +13744,7 @@
             
          </lg><lg>
             
-            <l>   <mod rend="su" spanTo="#kpl2.118.0273"/>So saying, with delight he snuff'd the smell</l>
+            <l xml:id="kpl2.118.0272l">   <mod rend="su" spanTo="#kpl2.118.0273"/>So saying, with delight he snuff'd the smell</l>
             <l>Of mortal change on Earth.<anchor xml:id="kpl2.118.0273"/> As when a flock</l>
             <l>Of ravenous fowl, though many a league remote, </l>
             
@@ -13756,9 +13768,9 @@
             <l>Where armies lie encamp'd, come flying, lured</l>
             <l>With scent of living carcases design'd </l>
             <l>For death, the following day, in bloody fight: </l>
-            <l><mod rend="su" spanTo="#kpl2.119.0281"/>So scented the grim Feature, and upturn'd</l>
+            <l xml:id="kpl2.119.0279l"><mod rend="su" spanTo="#kpl2.119.0281"/>So scented the grim Feature, and upturn'd</l>
             <l>His nostril wide into the murky air, </l>
-            <l xml:id="kpl2.119.281l">Sagacious of his quarry from so far.<anchor xml:id="kpl2.119.0281"/></l>
+            <l xml:id="kpl2.119.0281l">Sagacious of his quarry from so far.<anchor xml:id="kpl2.119.0281"/></l>
             <l>Then both from out Hell-gates, into the waste</l>
             <l>Wide anarchy of Chaos, damp and dark,</l>
             <l>Flew diverse, and with power (their power was great)</l>
@@ -13823,7 +13835,7 @@
             <l>Satan, in likeness of an Angel bright, </l>
             <l>Betwixt the Centaur and the Scorpion steering</l>
             <l>His zenith, while the sun in Aries rose:</l>
-            <l>Disguised he came, but those his children dear<anchor xml:id="kpl2.120.0330"/></l>
+            <l xml:id="kpl2.120.0330l">Disguised he came, but those his children dear<anchor xml:id="kpl2.120.0330"/></l>
             <l>Their parent soon discern'd, though in disguise. </l>
             <l>He after Eve seduced, unminded slunk</l>
             <l>Into the wood fast by; and, changing shape,</l>
@@ -13857,11 +13869,11 @@
             
             <l>And at the brink of Chaos, <mod rend="su" spanTo="#kpl2.121.0348"/>near the foot</l>
             <l>Of this wondrous pontifice<anchor xml:id="kpl2.121.0348"/>, unhoped</l>
-            <l>Met, who to meet him came, his offspring dear.</l>
+            <l xml:id="kpl2.121.0349l">Met, who to meet him came, his offspring dear.</l>
             <l>Great joy was at their meeting, and at sight</l>
             <l>Of that stupendous bridge, his joy increased. </l>
-            <l>Long he admiring stood, till Sin, his fair</l>
-            <l>Inchanting daughter, thus the silence broke. </l>
+            <l xml:id="kpl2.121.0352l">Long he admiring stood, till Sin, his fair</l>
+            <l xml:id="kpl2.121.0353l">Inchanting daughter, thus the silence broke. </l>
             
          </lg><lg>
             
@@ -13916,7 +13928,7 @@
          <lg>
             
             <l>   Whom thus the Prince of Darkness answer'd glad. </l>
-            <l>Fair Daughter, and thou Son and Grand-child both, </l>
+            <l xml:id="kpl2.122.0384l">Fair Daughter, and thou Son and Grand-child both, </l>
             <l>High proof ye now have given to be the race</l>
             <l>Of Satan, (for I glory in the name,</l>
             <l>Antagonist of Heaven's Almighty King), </l>
@@ -13983,7 +13995,7 @@
             <l>In council sat, solicitous what chance</l>
             <l>Might intercept their emperor sent; so he</l>
             <l>Departing gave command, and they observed. </l>
-            <l><mod rend="su" spanTo="#kpl2.123.0436"/>As when the Tartar from his Russian foe, </l>
+            <l xml:id="kpl2.123.0431l"><mod rend="su" spanTo="#kpl2.123.0436"/>As when the Tartar from his Russian foe, </l>
             <l>By Astracan, over the snowy plains, </l>
             <l>Retires; or Bactrian Sophi, from the horns</l>
             <l>Of Turkish Crescent, leaves all waste beyond</l>
@@ -14104,7 +14116,7 @@
             <l>His arms clung to his ribs: his legs entwining</l>
             <l>Each other, till supplanted down he fell, </l>
             <l>A monstrous serpent on his belly prone, </l>
-            <l>Reluctant, but in vain; a greater power</l>
+            <l xml:id="kpl2.125.0515l">Reluctant, but in vain; a greater power</l>
             <l>Now ruled him, punished in the shape he sinn'd, </l>
             <l>According to his doom: He would have spoke, </l>
             <l>But hiss for hiss return'd with forked tongue </l>
@@ -14189,10 +14201,10 @@
             <l>This more delusive; not the touch, but taste</l>
             <l>Deceived; they, fondly thinking to allay </l>
             <l>Their appetite with gust, instead of fruit</l>
-            <l>Chew'd bitter ashes, <mod rend="su" spanTo="#kpl2.127.0567"/>which the offended taste</l>
+            <l xml:id="kpl2.127.0566l">Chew'd bitter ashes, <mod rend="su" spanTo="#kpl2.127.0567"/>which the offended taste</l>
             <l>With spattering noise rejected:<anchor xml:id="kpl2.127.0567"/> oft they assay'd, </l>
             <l>Hunger and thirst constraining; drugg'd as oft</l>
-            <l><mod rend="su" spanTo="#kpl2.127.0569"/>With hatefullest disrelish writhed their jaws<anchor xml:id="kpl2.127.0569"/></l>
+            <l xml:id="kpl2.127.0569l"><mod rend="su" spanTo="#kpl2.127.0569"/>With hatefullest disrelish writhed their jaws<anchor xml:id="kpl2.127.0569"/></l>
             <l>With soot and cinders fill'd; so oft they fell</l>
             <l>Into the same illusion, not as Man,</l>
             <l>Whom they triumph'd once lapsed. Thus were they plagued</l>
@@ -14216,7 +14228,7 @@
             <l>Once actual; now in body, and to dwell </l>
             <l>Habitual habitant; behind her Death, </l>
             <l>Close following pace for pace, <mod rend="su" spanTo="#kpl2.127.0590"/>not mounted yet</l>
-            <l>On his pale horse<anchor xml:id="kpl2.127.0590"/>; to whom Sin thus began. </l>
+            <l xml:id="kpl2.127.0590l">On his pale horse<anchor xml:id="kpl2.127.0590"/>; to whom Sin thus began. </l>
             
          </lg><lg>
             
@@ -14388,14 +14400,14 @@
             <l>These changes in the Heavens, though slow, produced</l>
             <l>Like change on sea and land; <mod rend="su" spanTo="#kpl2.130.0706"/>sideral blast, </l>
             <l>Vapour, and mist, and exhalation hot, </l>
-            <l>Corrupt and pestilent: Now, from the north</l>
+            <l xml:id="kpl2.130.0695l">Corrupt and pestilent: Now, from the north</l>
             <l>Of Norumbega, and the Samoed shore, </l>
             <l>Bursting their brazen dungeon, arm'd with ice, </l>
             <l>And snow, and hail, and stormy gust and flaw, </l>
             <l>Boreas, and Caecias, and Argestes loud,</l>  <!--ae ligature-->
             <l>And Thrascias, rend the woods, and seas upturn;</l>
             <l>With adverse blast upturns them from the south</l>
-            <l>Notus and Afer black with thunderous clouds</l>
+            <l xml:id="kpl2.130.0702l">Notus and Afer black with thunderous clouds</l>
             <l>From Serraliona; thwart of these, as fierce, </l>
             <l>Forth rush the Levant and the Potent winds, </l>
             <l>Eurus and Zephyr, with their lateral noise, </l>
@@ -14429,7 +14441,7 @@
             
          </lg><lg>
             
-            <l>   O miserable of happy! Is this the end</l>
+            <l xml:id="kpl2.131.0720l">   O miserable of happy! Is this the end</l>
             <l>Of this new glorious world, and me so late</l>
             <l>The glory of that glory, who now become </l>
             <l>Accursed of blessed? hide me from the face</l>
@@ -14609,7 +14621,7 @@
             <l>Wholesome, and cool, and mild, but with black air</l>
             <l>Accompanied, with damps, and dreadful gloom; </l>
             <l>Which to his evil conscience represented </l>
-            <l>All things with double terror: <mod rend="su" spanTo="#kpl2.135.0852"/>On the ground</l>
+            <l xml:id="kpl2.134.0850l">All things with double terror: <mod rend="su" spanTo="#kpl2.135.0852"/>On the ground</l>
             
             
             
@@ -14626,7 +14638,7 @@
             
             
             
-            <l>Outstretch'd he lay, on the cold ground;  and oft</l>
+            <l xml:id="kpl2.135.0851l">Outstretch'd he lay, on the cold ground; and oft</l>
             <l>Cursed his creation<anchor xml:id="kpl2.135.0852"/>; Death as oft accused </l>
             <l>Of tardy execution, since denounced </l>
             <l>The day of his offence. Why comes not Death, </l>
@@ -15285,7 +15297,7 @@
             
             
             
-            <l><mod rend="su" spanTo="#kpl2.149.0133"/>Spangled with eyes more numerous than those</l>
+            <l xml:id="kpl2.149.0130l"><mod rend="su" spanTo="#kpl2.149.0133"/>Spangled with eyes more numerous than those</l>
             <l>Of Argus, and more wakeful than to drowse, </l>
             <l>Charm'd with Arcadian pipe, the pastoral reed</l>
             <l>Of Hermes, or his opiate rod.<anchor xml:id="kpl2.149.0133"/> Meanwhile, </l>
@@ -15704,7 +15716,7 @@
             <l>Our second Adam, in the wilderness; </l>
             <l>To shew him all Earth's kingdoms, and their glory. </l>
             <l>His eye might there command wherever stood</l>
-            <l><mod rend="lvs" spanTo="#kpl2.156.0411eol"/>City of old or modern fame, the seat</l>
+            <l xml:id="kpl2.156.0386l"><mod rend="lvs" spanTo="#kpl2.156.0411eol"/>City of old or modern fame, the seat</l>
             <l>Of mightiest empire, from the destined walls</l>
             <l>Of Cambalu, seat of Cathaian Can, </l>
             <l>And Samarchand by Oxus, Temir's throne;</l>
@@ -16243,7 +16255,7 @@
          </lg><lg>
             
             <l>   He look'd, and saw the face of things quite changed;</l>
-            <l>The <mod rend="su" spanTo="#kpl2.165.0713"/>brazen throat of war had ceased to roar<anchor xml:id="kpl2.165.0713"/>:</l>
+            <l xml:id="kpl2.165.0713l">The <mod rend="su" spanTo="#kpl2.165.0713"/>brazen throat of war had ceased to roar<anchor xml:id="kpl2.165.0713"/>:</l>
             <l>All now was turn'd to jollity and game, </l>
             <l>To luxury and riot, feast and dance, </l>
             <l>Marrying or prostituting, as befell, </l>
@@ -16444,7 +16456,7 @@
             
             
             
-         <pb n="171" ana="169" type="misnumbered" facs="79407w65460"/>
+         <pb xml:id="kpl2.169" n="171" ana="169" type="misnumbered" facs="79407w65460"/>
             
             
             
@@ -16984,7 +16996,7 @@
             
             
             
-         <pb n="173" ana="181" type="misnumbered" facs="7w62f764t29"/>
+         <pb xml:id="kpl2.181" n="173" ana="181" type="misnumbered" facs="7w62f764t29"/>
             
             
             
@@ -17527,7 +17539,7 @@
             
             
             
-         <pb n="image" facs="8g84mk64g8w"/>
+         <pb n="image" xml:id="kpl2.190image" facs="8g84mk64g8w"/>
             
          <pb n="183" ana="191" type="misnumbered" facs="8k71ng47r99"/>
             
@@ -17680,9 +17692,36 @@
    <!-- Now begins a section on Keats's handwritten notes-->  
       
       
-      <!-- Vol. 1, front matter -->
       
-      <!-- This appears to be not in Keats's hand -->
+      
+      <!--  Vol. 1, front matter -->
+      
+      <note 
+         type="marginal"
+         resp="CharlesDilke" 
+         target="#kpl1.front-flyleaf1"
+         >
+         
+         
+         See an article by me signed “an admirer of Keats”—in the Athenaeum—Oct 26th 1872.  I discovered that J. F. C. was the Revd James Freeman Clarke[.]  I discovered that Herbert Lindon (son of Louis Lindon who died after the article was written) had Keats’ Shakespeare—with the original draft of the sonnet “on sitting down to read King Lear once again” &amp; the lines “on seeing a lock of Milton’s hair”.         
+         
+         
+         
+      </note>
+      
+      
+      
+      <!-- Vol. 1, front matter -->
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.front-flyleaf1"
+         >
+      
+      This note was written by Sir Charles Dilke, grandson of Charles Wentworth and Maria Dilke, to the latter of whom Keats gave his copy of <title rend="italic">Paradise Lost</title>.  In his note, Sir Charles Dilke refers to an article he published in <title rend="italic">The Athenaeum</title> under the name “An Admirer of Keats,” in which he transcribed the eight notes in Keats’s <title rend="italic">Paradise Lost</title> that had not been previously published by “J. F. C.” or James Freeman Clarke in the American periodical <title rend="italic">The Dial</title> for April 1843 (see discussion in Introduction, section on “Transmission and Publication History”).  Herbert Lindon was the son of Louis and Fanny Brawne Lindon.  Keats gave his folio copy of <title>Mr. William Shakespeare’s Comedies, Histories, &amp; Tragedies</title>, into which he written the two poems Dilke mentions, to Fanny Brawne before he left for Italy.
+      
+      </note>
+      
       
       
       
@@ -17699,10 +17738,32 @@
          The Genius of Milton, more particularly in respect to its span in immensity, calculated him, by a sort of birthright, for such an 'argument' as the paradise lost. he had an exquisite passion for what is properly in the sense of ease and pleasure poetical Luxury&mdash;and with that it appears to me he would fain have been content if he could so doing have preserved his self respect and feel of duty perform'd&mdash;but there was working in him as it were that same sort of thing as operates in the great world to the end of a Prophecy's being accomplish'd&mdash;therefore he devoted himself rather to the Ardours than the pleasures of Song, solacing himself at intervals with cups of old wine&mdash;and those are with some exceptions the finest parts of the Poem. <del>In some par</del> With some exceptions&mdash;for the spirit of mounting and adventure can never be unfruitful or unrewarded&mdash;had he not broken through the clouds which envellope so deliciously the Elysian field of Verse and committed himself to the Extreme we never should have seen Satan as described 
          
          <lb/>
-         <q source="#kpl1.020.600l"><l>"But his face</l></q>
-         <q source="#kpl1.020.601l"><l>"Deep Scars of thunder had entrench'd &amp;[c.]</l></q>
+         <q source="#kpl1.020.0600l"><l>"But his face</l></q>
+         <q source="#kpl1.020.0601l"><l>"Deep Scars of thunder had entrench'd &amp;[c.]</l></q>
          
       </note>
+      
+      
+      
+      
+      
+      
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.half-title2"
+         >
+         
+         Keats’s characterization of Milton’s conflict between “poetical Luxury” and “the Ardours . . . of Song” resembles his own struggle with these impulses, as when he distinguishes between a “Life of Sensations” and a life of “Thoughts” in a 22 November 1817 letter to Bailey and when he tells John Taylor on 24 April 1818 that “I have been hovering for some time between an exquisite sense of the luxurious and a love for Philosophy” (<title rend="italic">Letters</title> 1: 185, 271).  Some critics, in fact, believe that Keats in this note is projecting onto Milton his own inner conflicts (Wilkie 162; Trott, “Keats and the Prison-House” 270).  Others, however, note that choices between sensuality and other temptations of this world versus disciplined obedience are central to Milton’s poetry, from “L’Allegro” and “Il Penseroso” to <title rend="italic">Comus</title>, <title rend="italic">Paradise Lost</title>, <title rend="italic">Samson Agonistes</title>, and <title rend="italic">Paradise Regained</title>, so that Keats may be identifying a struggle he shares with the elder poet (see especially Leslie Brisman, ix-54).  Newlyn claims that “It is to moments of choice” in <title rend="italic">Paradise Lost</title> “that the Romantics frequently return, especially in their narrative poetry” (85).  Havens notes both similarities and differences between Keats and Milton regarding the conflict between duty and “poetical Luxury” (213-14).
+         
+      </note>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -17721,6 +17782,18 @@
       </note>
       
       
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.2"
+         >
+         
+         “Hell is also peopled with angels it also move[s] on like music not grating and ha[r]sh” is an allusion to Wordsworth’s “Lines Composed a Few Miles above Tintern Abbey,” 91-92: “The still, sad music of humanity, / Nor harsh nor grating.”
+         
+         <p>Several other of Keats’s notes convey an appreciation of contrasts in Milton.  The <ref target="#kpl1.18">note on PL 1.535-69</ref> celebrates the “light and shade—the sort of black brightness” in that passage.  The <ref target="#kpl1.62">note at the beginning of book 3</ref> praises Milton’s “management” of the poem as the setting shifts from hell to heaven and declares, “we are getting ripe for diversity.”  Finally, the related terms “sublime pathetic” and “Grandeur of Tenderness” in notes on <ref target="#kpl1.44">2.546-52</ref> and <ref target="#kpl1.85">4.1-4</ref>, respectively, are oxymoronic and thereby signify a blending of contrasting qualities.  Keats’s appreciation of opposites in <title rend="italic">Paradise Lost</title> is further expressed in the poem “Welcome joy, and welcome sorrow,” which has for a motto “Under the flag / Of each his faction, they to battle bring / Their embryo atoms,” a slight misquotation from <ref target="#kpl1.054.0899l">PL 2.899-901</ref>.  Keats also responds to passages that convey not the delight and harmony but the pain of contrast, as when he underscores and marks with triple vertical lines Satan’s experience of “the hateful siege / Of contraries” (<ref target="#kpl2.078.0121l">9.121-22</ref>).  Keats also quotes this passage to describe the conflict he feels composing Hyperion while his brother is dying (Letters 1: 369).  R. S. White notes that Keats’s markings in his two copies of Shakespeare’s plays often draw attention to contrasts and oppositions (24-25).  For further discussion of Keats’s interest in contrasts in Paradise Lost see Lau 59-61; Fairer 162-63.</p>
+         
+      </note>
+      
       
       
       
@@ -17735,10 +17808,42 @@
          
          <desc type="noteLocation">Text runs across top margin</desc>
          
-         There is always a great charm in the openings of great Poems&mdash;more particularly where the action begins&mdash;that of Dante's Hell&mdash;of Hamlet. the first step must be heroic and full of power and nothing can be more impressive and shaded than the commencement of the action here <q source="#kpl1.004.56l" rend="su">'Round he throws his baleful eyes'</q>&mdash;
+         There is always a great charm in the openings of great Poems&mdash;more particularly where the action begins&mdash;that of Dante's Hell&mdash;of Hamlet. the first step must be heroic and full of power and nothing can be more impressive and shaded than the commencement of the action here <q source="#kpl1.004.0056l" rend="su">'Round he throws his baleful eyes'</q>&mdash;
          
       </note>
       
+      
+      
+      
+      <!-- Vol. 1, p. 3 -->
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.3"
+         >
+         
+         Compare Keats’s remark in his 4 January 1818 <title rend="italic">Champion</title> review of <title rend="italic">Retribution, or the Chieftain’s Daughter</title> (written around the same time as Keats was beginning to read and annotate his copy of <title rend="italic">Paradise Lost</title>): <q>“The title of an old play gives us a direct taste and surmise of its inwards, as the first lines of the Paradise Lost smack of the great Poem”</q> (Forman 5: 247).  Apropos of Keats’s reference to the <q>“charm”</q> of the opening of <q>“Dante’s Hell,”</q> Robert Gittings notes that <q>“the first two pages of the first canto of the <title rend="italic">Inferno</title> [are marked] more heavily than anywhere else”</q> in Keats’s copy (10).  Keats’s markings of <title rend="italic">Hamlet</title>’s opening scene in his copy of <title rend="italic">The Dramatic Works of William Shakespeare</title>, vol. 7, can be viewed on the Harvard Keats Collection website at <ref target="https://iiif.lib.harvard.edu/manifests/view/drs:14637636$3112i">https://iiif.lib.harvard.edu/manifests/view/drs:14637636$3112i</ref>.  See also R. S. White’s discussion of Keats’s markings in <title rend="italic">Hamlet</title> (109-26). 
+         
+      </note>
+      
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 1, p. 4 -->
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.004.0056l"
+         >
+         
+         Keats quotes “round he throws his baleful eyes” twice in his annotations: first in <ref target="#kpl1.3">his note on PL 1-22</ref> and next in <ref target="#kpl1.63">his note on 3.26-50</ref>.
+         
+      </note>
       
       
       
@@ -17763,6 +17868,42 @@
       
       
       
+      <!-- Vol. 1, p. 5 -->
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.5"
+         >
+         
+         <p>Several critics compare Keats's marginal remarks on this page to his concept of Negative Capability, as expressed in his 27 (?) December 1817 letter to his brothers (<title rend="italic">Letters</title> 1: 193-94).  See Finney 1: 340, Wittreich 564n19, Williams 117.</p>
+         
+         <p>Compare Keats’s emphasis on the uniqueness of each poet’s imagination (<q>"men are as distinct in their conceptions of material shadowings as they are in matters of spiritual understanding"</q>) to his remarks on Milton’s originality in <ref target="#kpl1.92">his note to page 91 of volume 1 (<title rend="italic">PL</title> book 4) </ref>. </p>
+         
+         <p>By “ade” Keats presumably means “aid.”</p>
+         
+         <p>Keats suggests that Milton’s blindness enhanced his creativity by liberating his imagination over actual, visual perception. In the same way Keats lauds Homer’s <q>“triple sight in blindness keen”</q> in his 1818 sonnet <title>“To Homer”</title> and writes <q>“Milton”</q> beside a passage in <title rend="italic">The Faerie Queene</title> that describes a holy man who is blind in <q>“earthly Eyen,”</q> but whose spirit is <q>“wondrous quick and pierceant . . . As Eagle’s Eye, that can behold the Sun”</q> (book 1, canto 10, stanza 47; see Lowell 2: 570).  Similarly, in The <title rend="italic">Fall of Hyperion</title> Moneta’s eyes are <q>“Half closed, and visionless entire they seem’d / Of all external things”</q> (1.267-68), though the goddess possesses the wisdom of the ages and bestows on the speaker <q>“A power within me of enormous ken, / To see as a God sees”</q> (1.303-04).  One can also compare the passage in <title>“Ode to a Nightingale”</title> in which the speaker is impelled to <q>“guess each sweet”</q> by means of his imagination when he can no longer <q>“see what flowers are at my feet”</q> (43, 41).  Interestingly, however, Keats does not mark <ref target="#kpl1.062.0051l"><title rend="italic">PL</title> 3.51-55,</ref> where Milton claims that his blindness is compensated for by a <q>“celestial light”</q> that <q>“shine[s] inward” and “plant[s] eyes”</q> in his mind so that he <q>“may see and tell / Of things invisible to mortal sight.”</q> Perhaps Keats was unsympathetic with the explicitly religious nature of the inspiration Milton invokes in this passage.  For a discussion of <ref target="#kpl1.062.0051l"><title rend="italic">PL</title> 3.51-55</ref> in relation to <title>“Ode to a Nightingale,”</title> see Revard (211-14).  For a comparison of this note to others in Keats’s copy of <title rend="italic">PL</title>, <ref target="#kpl1.012.0321l">see note to <title rend="italic">PL</title> 1.321</ref>.</p>
+         
+      </note>
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 1, p. 7 -->
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.007.0157l"
+         >
+         
+         Compare lines 157-8 to the following passage in Hazlitt’s lecture <title>“On Shakespeare and Milton”</title>: “He [Satan] expresses the sum and substance of all ambition in one line.  ‘Fallen cherub, to be weak is miserable, doing or suffering!’” (5: 64).
+         
+         
+      </note>
+      
       
       
       
@@ -17778,10 +17919,31 @@
          <desc type="noteLocation">Text runs across top margin and down left margin</desc>
          
          
-         There is a cool pleasure in the very sound of vale&mdash;The english word is of the happiest chance. Milton has put vales in heaven and hell with the very utter affection and yearning of a great Poet. It is a sort of delphic Abstraction a beautiful thing made more beautiful by being reflected and put in a Mist. The Next mention of Vale is one of the most pathetic in the whole range of Poetry <q source="#kpl1.002.546l">'Others more mild, retreated in a Silent Valley'</q>&amp;[c]. How much of the charm is in the Valley!&mdash;
+         There is a cool pleasure in the very sound of vale&mdash;The english word is of the happiest chance. Milton has put vales in heaven and hell with the very utter affection and yearning of a great Poet. It is a sort of delphic Abstraction a beautiful thing made more beautiful by being reflected and put in a Mist. The Next mention of Vale is one of the most pathetic in the whole range of Poetry <q source="#kpl1.044.0546l">'Others more mild, retreated in a Silent Valley'</q>&amp;[c]. How much of the charm is in the Valley!&mdash;
          
       </note>
       
+      
+      
+      
+      
+      
+      <!-- Vol. 1, p. 12 -->
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.12"
+         >
+         
+         <p>Keats marks several passages in <title rend="italic">PL</title> in which mist is mentioned (<ref target="#kpl1.019.0594l">1.594-96</ref>; <ref target="#kpl1.122.0185l">5.185-87</ref>).  In addition, two passages that describe light veiled by a cloud are underscored (<ref target="#kpl1.071.0377l">3.377-82</ref>; <ref target="#kpl2.041.0360l">7.360</ref>).  Keats’s marginal remark here on things made more beautiful by being <q>“put in a Mist”</q> may be compared to <ref target="#kpl1.23">his note on page 23 of volume 1 (<title rend="italic">Paradise Lost</title> book 1)</ref>, in which he celebrates <q>“the intense pleasure of not knowing”</q> that produces <q>“A sense of independence, of power from the fancy’s creating a world of its own by the sense of probabilities,”</q> as well as his note on <ref target="#kpl1.5">page 5 of volume 1</ref>, where Milton’s blindness is said to have aided “<q>the magnitude of his conceptions as a bat in a large gothic vault.”</q> These various comments are in keeping with the aesthetic of the sublime, according to which obscure images are more powerful and moving than clear images and indistinct or ambiguous ideas are more stimulating than definite ones.  Milton was a touchstone of the sublime for many Romantic writers (see Newlyn 11-12, 49-62, 193-204; Trott, <title>“Milton and the Romantics”</title> 530-32.  See also the section on “Obscurity” in Lau 49-54. Leigh Hunt published an essay on <title>“Mists and Fogs”</title> in <title rend="italic">The Indicator</title>, 1 December 1819, in which he cites numerous instances from literature (including <title rend="italic">Paradise Lost</title>) of appearances made more impressive by atmospheric haze.  Keats celebrates Fall as the <q>“Season of mists and mellow fruitfulness”</q> in <title>“To Autumn”</title> (1), a passage that may be indebted to <ref target="#kpl1.122.0185l"><title rend="italic">PL</title> 5.185-87</ref>.</p>
+         <p>Wolfson notes that <q>“Apollo’s oracular communications at Delphi often involved mist; Delphic thus means ‘obscure’”</q> (227n4).  Delphi’s association with Apollo, god of poetry, also suggests that “Delphic” means “inspired.”  Keats uses the word again in his note to <ref target="#kpl1.85"><title rend="italic">PL</title> 4.1-4</ref> (“Nothing can be higher—Nothing so more than delphic”).</p> 
+         <p>Wilkie relates Keats's note on <q>"charm [...] in the Valley"</q> to the shady vale in which <title rend="italic">Hyperion</title> opens and to Keats’s 21 April 1819 “vale of Soul-making” letter.  <q>“All three of these references to ‘vale,’”</q> Wilkie writes, <q>“express the same theme: the transition from a world of innocence or joy or both to a world of tragic suffering”</q> (165).  Jonathan Bate discusses Keats’s note on vales as it reflects differences between Keats’s and Milton’s treatments of fallen and unfallen conditions (“Keats’s Two Hyperions” 322-24). 
+         </p>
+         
+         
+         
+      </note>
       
       
       
@@ -17798,7 +17960,23 @@
          
          <desc type="noteLocation">Text runs up left margin and across top margin</desc>
          
-         The light and shade&mdash;the sort of black brightness&mdash;the ebon diamonding&mdash;the ethiop Immortality&mdash;the sorrow the pain. the sad-sweet Melody&mdash;the P[h]langes of Spirits so depressed as to be '<q source="#kpl1.002.07l">uplifted beyond hope</q>'&mdash;the short mitigation of Misery&mdash;the thousand Melancholies and Magnificences of this Page&mdash;leaves no room for any thing to be said thereon, but: '<emph rend="su">so it is</emph>'&mdash;
+         The light and shade&mdash;the sort of black brightness&mdash;the ebon diamonding&mdash;the ethiop Immortality&mdash;the sorrow the pain. the sad-sweet Melody&mdash;the P[h]langes of Spirits so depressed as to be '<q source="#kpl1.029.0007l">uplifted beyond hope</q>'&mdash;the short mitigation of Misery&mdash;the thousand Melancholies and Magnificences of this Page&mdash;leaves no room for any thing to be said thereon, but: '<emph rend="su">so it is</emph>'&mdash;
+         
+      </note>
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 1, p. 18 -->
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.018.0535l"
+         >
+         
+         For Keats’s appreciation of contrasts in this and other passages in <title rend="italic">Paradise Lost</title>, see <ref target="#kpl1.2">his note over the ARGUMENT of book 1</ref>. 
          
       </note>
 
@@ -17819,11 +17997,39 @@
          <desc type="noteLocation">Text runs up left margin and across top margin</desc>
          
          
-         How noble and collected an indignation against Kings '<q source="#kpl1.019.598l #kpl1.020.599l" rend="su">and for fear of change perplexes Monarchs</q>' &amp;[c.] His very wishing should have had power to pull that feeble animal Charles from his bloody throne. '<q source="#kpl2.032.25l">The evil days</q>' had come to him&mdash;he hit the new System of things a mighty mental blow&mdash;the exertion must have had or is yet to have some sequences&mdash;
+         How noble and collected an indignation against Kings '<q source="#kpl1.019.0598l #kpl1.020.0599l" rend="su">and for fear of change perplexes Monarchs</q>' &amp;[c.] His very wishing should have had power to pull that feeble animal Charles from his bloody throne. '<q source="#kpl2.032.0025l">The evil days</q>' had come to him&mdash;he hit the new System of things a mighty mental blow&mdash;the exertion must have had or is yet to have some sequences&mdash;
             
          
       </note>
       
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 1, p. 20 -->
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.20"
+         >
+      
+         <p>"Perplexes monarchs" (line 599): like many progressive Romantic writers, Keats frequently celebrates Milton as a patriot who opposed monarchical tyranny.  For example, in <title>“Oh! How I love, on a fair summer’s eve”</title> Keats writes, <q>“There warm my breast with patriotic lore, / Musing on Milton’s fate—on Sydney’s bier”</q> (9-10), and in a letter to George and Georgiana he similarly remarks, <q>“there are none [at the current time] prepared to suffer in obscurity for their Country. . . . We have no Milton, no Algernon Sidney”</q> (<title rend="italic">Letters</title> 1: 396; see also 397).  For Milton’s reputation in the Romantic period as a defender of liberty who suffered heroically for his views, see Newlyn 32-39; on Keats’s association of Milton with liberal politics, see Roe 28, 47, 49, 209.  Wolfson suggests that the reference to <q>“the blasted heath”</q> in line 615, a little further down from the lines that provoked his note praising Milton’s <q>“noble and collected . . . indignation against Kings,”</q> may have reminded Keats of King Lear, <q>“exiled to the blasted hearth, where he confronts his pompous neglect of his poor subjects”</q> (Wolfson 229n6).  The phrase may also have suggested to Keats the setting where another tragic, misguided Shakespearean figure—Macbeth—hears the prophecy of the three witches that impels him on his bloodthirsty pursuit of a throne. 
+         
+         </p>
+         
+         <p>
+            Keats quotes <q>“but his face / Deep scars of thunder had intrench’d”</q> in <ref target="#kpl1.half-title2">his note on the half-title page of vol. 1</ref>.            
+         </p>
+         
+         
+         <p>
+            Keats quotes <q>“Tears such as angels weep”</q> as an example of <q>“the sublime pathetic”</q> in <ref target="#kpl1.44">his note to <title rend="italic">PL</title> 2.546-52</ref>.
+            
+         </p>
+         
+      </note>
       
       
       
@@ -17839,11 +18045,46 @@
          
          <desc type="noteLocation">Text circles around top, right, and bottom margins</desc>
          
-         What creates the intense pleasure of not knowing? A sense of independence, of power from the fancy's creating a world of its own by the sense of probabilities&mdash;We have read the Arabian Nights and hear there are thousands of those sort of Romances lost&mdash;we imagine them&mdash;but not their realities if we had them nor our fancies in ther <!-- sic --> strength can go further than this Pandemonium&mdash; &mdash; - - '<q source="#kpl1.023.723l #kpl1.023.724l">Straight the doors opening</q>" &amp;c[.] '<q source="#kpl1.023.711l">rose like an exhalation</q>&mdash;
+         What creates the intense pleasure of not knowing? A sense of independence, of power from the fancy's creating a world of its own by the sense of probabilities&mdash;We have read the Arabian Nights and hear there are thousands of those sort of Romances lost&mdash;we imagine after them&mdash;but not their realities if we had them nor our fancies in the[i]r <!-- sic --> strength can go further than this Pandemonium&mdash; &mdash; - - '<q source="#kpl1.023.0723l #kpl1.023.0724l">Straight the doors opening</q>" &amp;c[.] '<q source="#kpl1.023.0711l">rose like an exhalation</q>&mdash;
             
 
          
       </note>
+      
+      
+      
+      
+      
+      <!-- Vol. 1, p. 23 -->
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.23"
+         >
+         
+         <p>See the discussion of this note <ref target="#kpl1.5">on page 5 of volume 1</ref>, <q>“one of the most mysterious of semi-speculations,"</q> and <ref target="#kpl1.12">on page 12</ref>, <q>“There is a cool pleasure in the very sound of vale”</q>. </p> 
+         <p>Jackson observes that Keats’s use of “We” instead of “I” in this and other notes (those on <ref target="#kpl1.44">pages 44-45 of volume 1 (book 2)</ref> and <ref target="#kpl1.62">pages 62-63 (book 3)</ref>) suggests the communal nature of his marginalia.  Keats’s annotations were not intended for himself alone, Jackson argues, but were meant to be shared with <q>“a coterie comfortable in its shared values”</q> (194-95).  On Keats’s expectation of an audience for his marginalia, see also Lau 13-16.  </p>
+         <p>Wolfson perceives a <q>“rich layering of meanings”</q> in Keats’s phrase, <q>“we imagine after them”</q> (the <q>“Romances lost”</q>) and offers three implications: <q>“our imagination is chronologically later; strains to grasp them; takes their pattern”</q> (231n11).</p>
+         
+         
+      </note>
+      
+      
+      
+      
+      
+      <!-- Vol. 1, p. 29 -->
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.029.0007l"
+         >
+         
+         Keats quotes <q>“uplifted beyond hope”</q> in <ref target="#kpl1.18">his note on Volume 1, page 18.</ref>
+         
+      </note>
+      
+      
       
       
       
@@ -17855,12 +18096,114 @@
          resp="Keats" 
          target="#kpl1.44 #kpl1.45">
          
-         <desc type="noteLocation">Text circles around the outside margins (top, bottom, left, right) of the two pages, 44 and 45</desc>
+         <desc type="noteLocation">Text circles around the outside margins (left, top, right, bottom) of the two pages, 44 and 45</desc>
          
-         Milton is godlike in the sublime pathetic. In Demons, fallen Angels, and Monsters the delicacies of passion living in and from their immortality, is of the most softening and dissolving nature. It is carried to the utmost here&mdash;<q source="#kpl1.002.546l">Others more mild</q>&mdash;nothing can express the sensation one feels at '<q source="#kpl1.044.552l" rend="su">Their song was partial</q> &amp;[c]. Examples of this nature are divine to the utmost in other poets&mdash;in Caliban '<q rend="su">Sometimes a thousand twangling instruments</q>' &amp;c[.] In Theocritus'&mdash;&mdash;&mdash;Polyphemus&mdash;and Homers Hym to Pan where Mercury is represented as taking his '<q rend="su">homely fac'd</q>' to heaven. There are numerous other instances in Milton&mdash;where Satan's progeny is called '<q rend="su">daughter dear</q>,' and where this same Sin, a female, and with a feminine instinct for the showy &amp; martial is in pain lest death should sully his bright arms '<q source="#kpl1.051.811l #kpl1.051.812l" rend="su">nor vainly hope to be invulnerable in those bright arms</q>'. Another instance is '<q source="#kpl2.061.287l" rend="su">pensive I sat</q> alone[.] We need not mention '<q source="#kpl1.020.620l" rend="su">Tears such as Angels weep</q>'.
+         Milton is godlike in the sublime pathetic. In Demons, fallen Angels, and Monsters the delicacies of passion living in and from their immortality, is of the most softening and dissolving nature. It is carried to the utmost here&mdash;<q source="#kpl1.044.0546l">Others more mild</q>&mdash;nothing can express the sensation one feels at '<q source="#kpl1.044.0552l" rend="su">Their song was partial</q> &amp;[c]. Examples of this nature are divine to the utmost in other poets&mdash;in Caliban '<q rend="su">Sometimes a thousand twangling instruments</q>' &amp;c[.] In Theocritus'&mdash;&mdash;&mdash;Polyphemus&mdash;and Homers Hymn to Pan where Mercury is represented as taking his '<q rend="su">homely fac'd</q>' to heaven. There are numerous other instances in Milton&mdash;where Satan's progeny is called '<q rend="su">daughter dear</q>,' and where this same Sin, a female, and with a feminine instinct for the showy &amp; martial is in pain lest death should sully his bright arms '<q source="#kpl1.051.0811l #kpl1.051.0812l" rend="su">nor vainly hope to be invulnerable in those bright arms</q>'. Another instance is '<q source="#kpl2.061.0287l" rend="su">pensive I sat</q> alone[.] We need not mention '<q source="#kpl1.020.0620l" rend="su">Tears such as Angels weep</q>'.
       
       
       </note>
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 1, 44 -->
+
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.44"
+         >
+         
+         <p>In his lecture <title>“On Shakespeare and Milton”</title> Hazlitt writes that “of all the passages in Paradise Lost, the description of the employments of the angels during the absence of Satan, some of whom ‘retreated in a silent valley, sing with notes angelical to many a harp their own heroic deeds and hapless fall by doom of battle,’ is the most perfect example of mingled pathos and sublimity” (5: 66).  The passage Hazlitt cites, <ref target="#kpl1.044.0546l"><title rend="italic">PL</title> 2.546-50</ref>, is not only marked by Keats (with underscoring and a marginal line) but is also quoted in his note on <ref target="#kpl1.012.0321l"><title rend="italic">PL</title> 1.321</ref>.  Other passages in which Hazlitt juxtaposes the terms <q>“sublimity”</q> and <q>“pathos”</q> occur in his lecture <title>“On Poetry in General”</title> (5: 5) and his edition of <title rend="italic">Select British Poets</title> (9: 237 [on Milton], 241-42 [on Thomas Gray], and 244 [on Byron]).  Stuart Ende believes that Hazlitt, “As well as being the probable source of Keats’s ‘sublime pathetic’ . . . may have provided Keats with his understanding of both sublimity and pathos” (190n21).  Ende discusses at length Keats’s concept of the “sublime pathetic” (xvi-xvii, 27-28, 89-91, 96-97).  See also Albrecht (who disagrees with Ende) 198-201 and Lau 61-66.</p>
+         
+         <p>In his note (<q>“'homely fac'd' to heaven”</q>) Keats quotes from Shakespeare’s <title rend="italic">The Tempest</title> 3.2.134 and George Chapman’s translation of Homer’s <title rend="italic">Hymn to Pan</title>, line 74.  Keats’s pronoun is ambiguous; “his homely fac’d” in <title rend="italic">Hymn to Pan</title> refers to Pan’s face.  Theocritus recounts Polyphemus’s unrequited love for Galatea in his eleventh idyll.
+         </p>
+         
+         <p>
+            It is interesting to compare the passage not underscored in the lines <q>“and took with ravishment / The thronging audience”</q> to a comment Keats made about a similar passage in book 4 of Wordsworth’s <title rend="italic">Excursion</title>.  According to Benjamin Bailey, Keats said that the line <q>“And filled the illumined groves with ravishment”</q> (<title rend="italic">The Excursion</title> 4.860) should have been omitted from Wordsworth’s description of Apollo (<title rend="italic">Keats Circle</title> 2: 276).  Keats himself uses <q>“ravishment”</q> in <title>“I stood tip-toe upon a little hill”</title> 147 and <title rend="italic">Endymion</title> 2.715, 875, so he does not appear to have found this word objectionable in itself.
+            
+         </p>
+         
+         
+      </note>
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 1, 45 -->
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.45"
+         >
+         
+         Keats quotes line 584 in a 27 April 1818 letter to Reynolds: <q>“If I must be immortal, I hope it will be after having taken a little of <q>‘that watery labyrinth’</q> in order to forget some of my schoolboy days &amp; others since then”</q> (<title rend="italic">Letters</title> 1: 273).
+         
+      </note>
+         
+         
+         
+         
+      
+      
+      
+      
+      <!-- Vol. 1, 51 -->
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.51"
+         >
+         
+         <p>Keats quotes (slightly misquotes) <q>“Pensive here I sat / Alone”</q> as an example of <q>“the sublime pathetic”</q> in <ref target="#kpl1.44">his note on <title rend="italic">Paradise Lost</title> Book 2, pages 44-45 (lines 525-96)</ref>.</p>
+         
+         <p>Keats quotes <q>“vainly hope / To be invulnerable in those bright arms”</q> as an example of <q>“the sublime pathetic”</q> in <ref target="#kpl1.44">his note on PL 2.546-52</ref>.</p>
+         
+      </note>
+      
+      
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 1, 52 -->
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.052.0817l"
+         >
+      
+      In his note on <ref target="#kpl1.44"><title rend="italic">PL</title> 2.546-52</ref>, Keats refers to Satan calling Sin his <q>“daughter dear”</q>; he presumably has this passage (line 817) in mind. 
+      
+      
+      </note>
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 1, 54 -->
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.054.0901l"
+         >
+      
+         Lines 899-901, slightly misquoted, serve as a motto for Keats’s 1818 poem <title>“Welcome joy, and welcome sorrow.”</title>
+      
+      </note>
+      
       
       
       
@@ -17874,14 +18217,47 @@
          
          <desc type="noteLocation">Text circles around the top, bottom, and right margins of the two pages, 62 and 63</desc>
          
-         The management of this Poem is Apollonian&mdash;Satan first '<q source="#kpl1.004.56l" rend="su">throws round his baleful eyes</q>' the[n] awakes his legions, he consu[l]ts, he sets forward on his voyage&mdash;and just as he is getting to the end of it we see the Great God and our first parent, and that same satan all brough[t] in one's vision&mdash;we have the invocation to light before we mount to heaven&mdash;we breathe more freely&mdash;we feel the&mdash;&mdash;great Author's consolations coming thick upon him at a time when he complains most&mdash;we are getting ripe for diversity&mdash;&mdash;the immediate topic of the Poem opens with a grand Perspective of all concerned.
+         The management of this Poem is Apollonian&mdash;Satan first '<q source="#kpl1.004.0056l" rend="su">throws round his baleful eyes</q>' the[n] awakes his legions, he consu[l]ts, he sets forward on his voyage&mdash;and just as he is getting to the end of it we see the Great God and our first parent, and that same satan all brough[t] in one's vision&mdash;we have the invocation to light before we mount to heaven&mdash;we breathe more freely&mdash;we feel the&mdash;&mdash;great Author's consolations coming thick upon him at a time when he complains most&mdash;we are getting ripe for diversity&mdash;&mdash;the immediate topic of the Poem opens with a grand Perspective of all concerned.
          
-         <!-- Note: second reference in the notes to kpl1.004.56l -->
+         <!-- Note: second reference in the notes to kpl1.004.0056l -->
          
       </note>
       
       
       
+      
+      
+      
+      <!-- Vol. 1, 62 and 63 -->
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.62 #kpl1.63"
+         >
+         
+         Apollo’s attributes as god of the sun and of poetry are both relevant to this note of Keats's, which praises Milton’s magisterial handling of his epic poem as it moves from hell into the precincts of light and heaven in book 3.  Adjectives similar to <q>“Apollonian”</q> that express Keats’s admiration for Milton’s achievement in <title rend="italic">Paradise Lost</title> are <q>“godlike”</q> in his note to <ref target="#kpl1.44"><title rend="italic">PL</title> 2.546-52</ref> (<q>“Milton is godlike in the sublime pathetic”</q>) and <q>“delphic”</q> in <ref target="#kpl1.85">his note to PL 4.1-4</ref> (<q>“nothing can be higher—Nothing so more than delphic”</q>).  See also <q>“Delphic Abstraction”</q> in <ref target="#kpl1.12">his note to <title rend="italic">PL</title> 1.321</ref>. 
+         
+      </note>
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 1, 63 -->
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.063.0071l"
+         >
+         
+         On line 71, Keats draws an exclamation point after <q>“sight,”</q> probably to challenge the word’s validity.  In most editions of <title rend="italic">Paradise Lost</title>, the word is given as <q>“side.”</q>  The marginalia in Keats’s two editions of Shakespeare’s plays and in Z. Jackson’s <title rend="italic">Shakspeare’s Genius Justified</title> frequently question the editors’ construction of a line or passage.  See Forman 5: 268-75, 287-90 and the discussion in Jackson 190-93.
+         
+      </note>
+      
+
       
       
       
@@ -17913,7 +18289,7 @@
       <note 
          type="marginal"
          resp="Keats" 
-         target="#kpl1.74 #kpl1.074.488l"
+         target="#kpl1.74 #kpl1.074.0488l"
          >
          
          <desc type="noteLocation">Text runs up left margin; connected by asterisk to line 488, 'Blows them traverse ten thousand leagues awry'</desc>
@@ -17927,16 +18303,12 @@
       
       
       
-      <!--Vol. 1, 78
-      
-      (xml:id="kpl1.078.610l")
-      
-      -->
+      <!--Vol. 1, 78  -->
       
       <note 
          type="marginal"
          resp="Keats" 
-         target="#kpl1.78 kpl1.078.610l"
+         target="#kpl1.78 #kpl1.078.610l"
          >
          
          <desc type="noteLocation">Text runs up left margin, along lines 610-617</desc>
@@ -17951,6 +18323,26 @@
       
       
       
+      <!--Vol. 1, 78 -->
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.78"
+         >
+         
+         <p>On line 608, Keats draws a line through the <q>“r”</q> in <q>“Portable,”</q> making the word <q>“Potable.”</q>  As in <ref target="#kpl1.063.0071l">3.71</ref>, Keats is probably correcting his edition of <title rend="italic">Paradise Lost</title> in this passage.</p>
+         
+         <p>Keats also refers to <q>“the Theory of Spirits eyes”</q> in <ref target="#kpl2.42">his note on page 42 of Volume 2</ref>. </p>
+         
+      </note>
+      
+      
+      
+      
+      
+ 
+      
+      
       
       <!-- Vol. 1, 85 -->  
       
@@ -17962,10 +18354,52 @@
          
          <desc type="noteLocation">Text runs across top margin</desc>
          
-         A friend of mine says this Book has the finest opening of any&mdash;the point of time is gigantically critical&mdash;the wax is melted, the seal is about to be applied&mdash;and Milton breaks out '<q source="#kpl1.085.01l" rend="su">O for that warning voice</q> &amp;[c.]' There is moreover an opportunity for a Grandeur of Tenderness&mdash;the opportunity is not lost. Nothing can be higher&mdash;Nothing so more than delphic&mdash;
+         A friend of mine says this Book has the finest opening of any&mdash;the point of time is gigantically critical&mdash;the wax is melted, the seal is about to be applied&mdash;and Milton breaks out '<q source="#kpl1.085.0001l" rend="su">O for that warning voice</q> &amp;[c.]' There is moreover an opportunity for a Grandeur of Tenderness&mdash;the opportunity is not lost. Nothing can be higher&mdash;Nothing so more than delphic&mdash;
          
       </note>
       
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 1, 85 -->  
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.85"
+         >
+         
+         <p>Benjamin Bailey told Richard Monckton Milnes in 1849 that this note about “a friend of mine” referred to himself, for <q>“We had much talk of Milton when Keats was at Oxford: &amp; I remember that I expressed, though more at large, this opinion, or something to the effect here noted down”</q> (<title rend="italic">Keats Circle</title> 2: 296).  The “friend” mentioned in Keats’s note may actually be Charles Wentworth Dilke rather than Bailey.  A copy of Milton’s poems bearing Dilke’s bookplate (owned by Keats House) contains an annotation at the beginning of book 4 of <title rend="italic">Paradise Lost</title> that is similar to Keats’s: <q>“The opening of this Book is fearful[ly] sublime.—It gives note of dreadful preparation.—It seems to rouse us from a moral slumber, &amp; bids us prepare for some strange &amp;mp; unkn[own] consequences—It is fit prelude to the act:--an act that in its consequen[ce] was to be felt through all succeeding generations.  It is much the finest in the whole work.”</q>  Claude Lee Finney points out the similarity between Dilke’s and Keats’s remarks on the opening of book 4 and believes the two men were reading and discussing <title rend="italic">Paradise Lost</title> in December 1817 and January 1818 (1: 337).  Both Bailey and Dilke may have influenced Keats’s response to the beginning of book 4 as expressed in this note.</p>
+         
+         <p>
+            The phrase <q>“Grandeur of Tenderness”</q> is similar to <q>“sublime pathetic,”</q> which Keats uses in <ref target="#kpl1.44">his note on pages 44 and 45 of volume 1</ref>.  Compare also <ref target="#kpl1.092.0271l">his note on the pathos of <title rend="italic">PL</title> 4.271-72</ref>.
+            
+         </p>
+         
+         <p>
+            Apollo was believed to communicate with petitioners at his oracle at Delphi.  <q>“Delphic”</q> therefore means divinely inspired, though for Keats the divinity in question is the Greek god of poetry (and the sun) rather than Milton’s Christian muse Urania (see <ref target="#kpl1.3"><title rend="italic">PL</title> 1.6-12</ref>, <ref target="#kpl2.31">7.1-39</ref>).  Keats concludes each stanza of his poem <title>“God of the golden bow”</title> with the phrase, <q>“O Delphic Apollo.”</q>  His poem <title>“On Receiving a Laurel Crown from Leigh Hunt,”</title> written around the same time as <title>“God of the golden bow”</title> (late 1816 / early 1817) laments his lack of inspiration by stating, <q>“Minutes are flying swiftly; and as yet / Nothing unearthly has enticed my brain / Into a delphic labyrinth”</q> (1-3).  For other uses of “Delphic” or “Apollonian” in the <title rend="italic">Paradise Lost</title> marginalia, see <ref target="#kpl1.62 #kpl1.63">editorial note to volume 1, pages 62-63</ref>.
+         </p>
+      
+      </note>
+      
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 1, 88 -->  
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.088.0126l"
+         >
+         
+         Keats quotes (slightly misquotes) <q>“on the Assyrian mount / Saw him disfigured”</q> (lines 126-127) in his note on <ref target="#kpl2.043.0422l"><title rend="italic">PL</title> 7.422-23</ref> as an example of Milton’s gift for <q>“stationing.”</q>
+         
+      </note>
       
       
       
@@ -17985,6 +18419,89 @@
          There are two specimens of a very extraordinary beauty in the Paradise Lost, they are of a nature as far as I have read, unexampled elsewhere&mdash;they are entirely distinct from the brief pathos of Dante&mdash;and they are not to be found even in Shakspeare&mdash;they are according to the great prerogative of poetry better described in themselves than by a volume the one is in this fol. '<q rend="su">which cost Ceres all that pain</q>'&mdash;the other is that ending '<q rend="su">Nor could the Muse defend her son</q>'&mdash;they appear exclusively Miltonic without the shadow of another mind ancient or modern&mdash;
          
       </note>
+            
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 1, 92 -->  
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.92"
+         >
+         
+         <p>Keats slightly misquotes line 239 in a 27 June 1818 letter to Tom Keats: <q>“the stream itself is interesting throughout with <q>‘mazy error over pendant shades.’</q>  Milton meant a smooth river—this is buffetting all the way on a rocky bed ever various”</q> (<title rend="italic">Letters</title> 1: 300).</p>
+         
+         <p>The two passages Keats singles out in his marginal note as examples <q>“of a very extraordinary beauty in the Paradise Lost”</q>—Ceres’s loss of her daughter Proserpine to the god Pluto or Dis and the muse Calliope’s inability to save her son Orpheus from death—both involve a mother’s grief over the absence of a child.  See also <ref target="#kpl1.44">Keats’s note to PL 2.546-52</ref> citing instances of “the sublime pathetic” in <title rend="italic">Paradise Lost</title>.</p>
+         
+         <p>Keats’s emphasis in this note on Milton’s originality was a point often made by other Romantic writers.  Hazlitt, for example, observes that <q>“Milton has borrowed more than any other writer; yet he is perfectly distinct from every other writer.  The power of his mind is stamped on every line.  He is a writer of centos, and yet in originality only inferior to Homer”</q> (<title>“On Milton’s Versification”</title> 4: 37; a similar passage appears in <title>“On Shakespeare and Milton”</title> 5: 58).  Newlyn discusses Hazlitt’s remarks as part of a tradition that began in the eighteenth century, in which Milton was considered a rare example of a highly original writer who depended heavily on earlier sources (47). Keats also stresses Milton’s (and all writers’) uniqueness in <ref target="#kpl1.5">his note to 1.59-94</ref> when he writes, <q>“A Poet can seldom have justice done to his imagination—for men are as distinct in their conception of material shadowings as they are in matters of spiritual understanding.”</q></p>
+      
+      </note>
+      
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 1, 98 -->  
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.98"
+         >
+         
+         Keats quotes the lines describing Adam as <q>“fair indeed, and tall, / Under a plantane”</q> (477-78) as an example of Milton’s gift for <q>“stationing”</q> in <ref target="#kpl2.42 #kpl2.43">his note on pages 42 and 43 of book 7, in volume 2</ref>.
+         
+         
+      </note>
+      
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 1, 104 -->
+      
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.104.0683l"
+         >
+         
+         Keats slightly misquotes line 683 in a 31 August 1819 letter to John Taylor: <q>“Men should be in imitation of Spirits <q>‘responsive to each others note’</q>”</q> (<title rend="italic">Letters</title> 2: 153).
+         
+      </note>
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 1, 130 -->
+      
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl1.130.0479l"
+         >
+         
+         
+         Keats quotes lines 479-80, <q>“So from the root / Springs lighter the green stalk,”</q> in <ref target="#kpl2.42 #kpl2.43">his note on pages 42 and 43 of book 7, in volume 2</ref>.
+         
+         
+      </note>
+      
+      
+      
+      
       
       
       
@@ -18046,10 +18563,7 @@
       
       
       
-      
-      
-      
-      
+
       
       
       
@@ -18076,6 +18590,48 @@
       
       
       
+      <!-- Vol. 2, p. 4 -->
+      
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl2.004.0058l"
+         >
+         
+         By the <q>“original”</q> meaning of <q>“reluctant,”</q> Keats is probably thinking of  “struggling” or “writhing”; the <q>“modern meaning”</q> would be “unwilling, averse; disinclined to do something” (<title rend="italic">OED Online</title>; accessed 12 Oct. 2018).  Interestingly, the <title rend="italic">OED</title> cites <title rend="italic">PL</title> 6.58 to illustrate the modern meaning of <q>“reluctant”</q> and <ref target="#kpl2.125.0515l"><title rend="italic">PL</title> 10.515</ref> (<q>“down [Satan] fell, / A monstrous serpent on his belly prone, / Reluctant, but in vain”</q>) to illustrate the earlier meaning.  Keats uses the modern meaning of the word in <title rend="italic">Hyperion</title> 1.60-61:  <q>“Thy thunder, conscious of the new command, / Rumbles reluctant o’er our fallen house.”</q>  
+         
+         
+      </note>
+      
+      
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 2, p. 32 -->
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl2.32"
+         >
+         
+         <p>Keats quotes “evil days” from line 25 in his note on <ref target="#kpl1.20"><title rend="italic">PL</title> 1.598-99</ref>.</p>
+         
+         <p>Keats quotes lines 37 and 38, <q>“nor could the Muse defend / Her Son,”</q> as one of two <q>“specimens of a very extraordinary beauty in the Paradise Lost”</q> in his note on <ref target="#kpl1.92 #kpl1.93"><title rend="italic">PL</title> 4.268-72</ref>.</p>
+         
+         
+         
+      </note>
+      
+      
+
+      
+      
+      
+      
       <!-- Vol. 2, p. 42 and 43 -->  
       <note
          type="marginal"
@@ -18085,7 +18641,7 @@
          
          <desc type="noteLocation">Text circles around the outside margins (top, bottom, left, right), but not the inside gutter, of the two pages, 42 and 43</desc>
          
-         Milton in every instance pursues his imagination to the utmost&mdash;and he is '<q source="#kpl2.119.281l">sagacious of his Quarry</q>' he sees Beauty on the wing, pounces upon it and gorges it to the producing his essential verse '<q source="#kpl1.130.479l #kpl1.130.480l">So from the root the springs lighter the green stalk</q>' &amp;[c.]&mdash;but in no instance is this sort of perseverance more exemplified than in what may be called his <emph rend="su">stationing or statu[a]ry</emph>: He is not content with simple description, he must station&mdash;Thus here, we not only see how the Birds '<q source="#kpl2.043.422l" rend="su">with clang despised the ground</q>' but we see them '<q source="#kpl2.043.422l #kpl2.043.423l" rend="su">under a cloud in prospect</q>' So we see Adam '<q source="#kpl1.098.477l" rend="su">Fair indeed and tall</q>&mdash;<q source="#kpl1.098.478l" rend="su">under a plantane</q> and so we see Satan '<q source="#kpl1.088.127l" rend="su">disfigured</q>&mdash;<q source="kpl1.088.126l" rend="su">on the Assyrian Mount</q>' This last with all its accompaniments, and keeping in mind the &mdash;Theory of Spirits eyes and the simile of Gallilio, has a dramatic&mdash;&mdash;vastness and solemnity fit and worthy to hold one amazed in the midst of this Paradise Lost&mdash;
+         Milton in every instance pursues his imagination to the utmost&mdash;and he is '<q source="#kpl2.119.0281l">sagacious of his Quarry</q>' he sees Beauty on the wing, pounces upon it and gorges it to the producing his essential verse '<q source="#kpl1.130.0479l #kpl1.130.0480l">So from the root the springs lighter the green stalk</q>' &amp;[c.]&mdash;but in no instance is this sort of perseverance more exemplified than in what may be called his <emph rend="su">stationing or statu[a]ry</emph>: He is not content with simple description, he must station&mdash;Thus here, we not only see how the Birds '<q source="#kpl2.043.0422l" rend="su">with clang despised the ground</q>' but we see them '<q source="#kpl2.043.0422l #kpl2.043.0423l" rend="su">under a cloud in prospect</q>' So we see Adam '<q source="#kpl1.098.0477l" rend="su">Fair indeed and tall</q>&mdash;<q source="#kpl1.098.0478l" rend="su">under a plantane</q> and so we see Satan '<q source="#kpl1.088.0127l" rend="su">disfigured</q>&mdash;<q source="kpl1.088.0126l" rend="su">on the Assyrian Mount</q>' This last with all its accompaniments, and keeping in mind the &mdash;Theory of Spirits eyes and the simile of Gallilio, has a dramatic&mdash;&mdash;vastness and solemnity fit and worthy to hold one amazed in the midst of this Paradise Lost&mdash;
          
          
       </note>
@@ -18096,17 +18652,77 @@
       
       
       
+      <!-- Vol. 2, p. 42 and 43 -->  
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl2.42 #kpl2.43"
+         >
+         
+         <p>Both Finney (1: 339-40) and W. J. Bate (244-46) link Keats’s celebration of Milton’s intensity in this note to Hazlitt’s concept of <q>“gusto.”</q> In his <title rend="italic">Round Table</title> essay <title>“On Gusto”</title> Hazlitt writes, <q>“Milton has great gusto.  He repeats his blows twice; grapples with and exhausts his subject”</q> (4: 79).  In <title>“On Milton’s Versification,”</title> also from <title rend="italic">The Round Table</title>, Hazlitt states that <q>“Milton had as much of what is meant by gusto as any poet.  He forms the most intense conception of things, and then embodies them by a single stroke of his pen.  Force of style is perhaps his first excellence”</q> (4: 38).  Keats reports reading Hazlitt’s <title rend="italic">Round Table</title> with Bailey in September 1817 (<title rend="italic">Letters</title> 1: 166).</p>
+         
+         <p>The term <q>“stationing”</q> derives from theories of the visual arts and refers to the positioning of figures within a particular setting.  Keats’s remarks on Milton’s <q>“stationing or statu[a]ry”</q> are similar to comments Hazlitt makes in his essay <title>“On Shakespeare and Milton”</title> (5: 59-60).  See the Introduction (section on “Themes and Patterns in the Marginalia: Descriptive Passages”) for further discussion of these points.  </p> <!-- LINK??? XYZ -->
+         
+         <p>It is not clear what <q>“Theory of Spirits eyes”</q> Keats is alluding to in this note, but presumably it involves the superior visual power spirits or angels are thought to possess.  Keats writes <q>“A Spirit’s eye”</q> alongside an earlier passage in which Satan lands on the sun and gazes on the brilliant scene <q>“Undazzled, far and wide his eye commands, / For sight no obstacle found here, nor shade, / But all sunshine”</q> (<ref target="#kpl1.078.0614l">3.614-16</ref>).  Another passage that refers to spirits’ enhanced eyesight is <ref target="#kpl1.005.0059l">PL 1.59-60</ref> (which Keats underscores): <q>“At once, as far as Angel’s ken, he [Satan] views / The dismal situation waste and wild.”</q></p>
+         
+         <p>Three similes in <title rend="italic">Paradise Lost</title> allude to Galileo, all involving his telescope and all marked by Keats: <ref target="#kpl1.011.0287l">1.287-91</ref>, <ref target="#kpl1.077.0588l">3.588-90</ref>, and <ref target="#kpl1.124.0261l">5.261-63</ref>.  Galileo’s telescope in Milton’s accounts is similar (though inferior) to the vision of angels in that it allows clear perception of far-off objects and reveals hitherto unknown features of the moon and sun. </p>
+         
+         <p>The passage Keats cites in relation to the <q>“Theory of Spirits eyes and the simile of Gallilio”</q> (<q>“Satan <q>‘disfigured on the Assyrian Mount’</q>”</q>) depicts Satan as he is viewed by the archangel Uriel.  Satan previously had disguised himself as an angel and fooled Uriel into giving him directions to Eden.  At this point, however, when his face is distorted by <q>“ire, envy, and despair”</q> (<ref target="#kpl1.088.0115l">PL 4.115</ref>), Satan reveals his true, tormented self, while he thinks himself alone and doesn’t realize that he is being observed by Uriel. The dramatic <q>“vastness and solemnity”</q> Keats perceives in this image therefore would seem to involve the pathetic irony of a being who once looked on his surroundings with supernatural keenness of perception, but whose fallen condition has now made him, all unaware, the sorry object of a superior angel’s penetrating gaze.
+         </p>
+         
+      </note>
+      
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 2, p. 43 -->  
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl2.043.0438l"
+         >
+         
+         Richard Woodhouse noted a parallel between lines 438-40 and Keats’s <title>“Imitation of Spenser”</title> 14-15: “There saw the swan his neck of arched snow, / And oar’d himself along with majesty” (Sperry, <title>“Woodhouse’s Interleaved and Annotated Copy”</title> 144-45).
+         
+      </note>
+      
+      
+      
+           
+      
+      
+      
+      
+      <!-- Vol. 2, p. 62 -->  
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl2.062.0311l"
+         >
+         
+         Compare the passage ending “Had lively shadow'd" (line 311) to the well-known passage from Keats’s 22 November 1817 letter to Bailey: <q>“The Imagination may be compared to Adam’s dream—he awoke and found it truth. . . . It is <q>‘a Vision in the form of Youth’</q> a Shadow of reality to come”</q> (<title rend="italic">Letters</title> 1: 185).  Keats does not mark the other passage in which Adam’s dream becomes reality: when he dreams of Eve and wakes to find her presented to him by God (<ref target="#kpl2.066.0461l">8.461-90</ref>).
+         
+      </note>
+      
+     
+      
+      
+      
+      
       
       <!-- Vol. 2, 76 
       
-      (kpl2.076.47l)
+      (kpl2.076.0047l)
       
       -->
       
       <note 
          type="marginal"
          resp="Keats" 
-         target="#kpl2.76 #kpl2.076.47l"
+         target="#kpl2.76 #kpl2.076.0047l"
          >
          
          <desc type="noteLocation">Text runs up left margin; connected by asterisk to line 47, 'Not hers who brings it nightly to my ear'</desc>
@@ -18115,6 +18731,26 @@
          
          
       </note>
+      
+      
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 2, p. 78 -->  
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl2.078.0121l"
+         >
+         
+         Keats quotes lines 121-22, <q>“the hateful siege / Of contraries,”</q> in a 21 September 1818 letter to Dilke in which he describes the strain of living with his dying brother Tom (<title rend="italic">Letters</title> 1.369).  See also the discussion of this passage in the Introduction (section on “Dating the Marginalia”). <!-- XYZ: Link this? -->
+         
+         
+      </note>
+      
       
       
       
@@ -18131,12 +18767,164 @@
          
          <desc type="noteLocation">Text runs up the left margin of page 80, across the top margin of page 80, and then across the top margin of page 81</desc>
          
-         Satan having entered the Serpent, and inform'd his brutal sense - might seem seem [sic] sufficient - but Milton goes on "<q source="#kpl2.080.190l #kpl2.080.191l">but his sleep disturb'd not</q>' &amp;c. Whose spirit does not ache at the smothering and confinement&mdash;the unwilling stillness--the '<q source="#kpl2.080.191l">waiting close</q>'? Whose head is not dizzy at the prosiable speculations of satan in this serpent prison&mdash; - - no passage of poetry ever can give a greater pain of suffocation. 
+         Satan having entered the Serpent, and inform'd his brutal sense - might seem seem [sic] sufficient - but Milton goes on "<q source="#kpl2.080.0190l #kpl2.080.0191l" rend="su">but his sleep disturb'd not</q>' &amp;c. Whose spirit does not ache at the smothering and confinement&mdash;the unwilling stillness--the '<q source="#kpl2.080.0191l" rend="su">waiting close</q>'? Whose head is not dizzy at the prosiable speculations of satan in this serpent prison&mdash; - - no passage of poetry ever can give a greater pain of suffocation. 
          
          
          
       </note>
       
+      
+      
+      
+      
+      <!-- Vol. 2, p. 80 and 81 -->
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl2.80 #kpl2.81"
+         >
+                  
+         <p>As other editors note, Keats's <q>“prosiable”</q> appears to be a combination of “probable” and “possible” (compare Forman 5: 305; Barnard 526; Cook 614).  Wolfson suggests that Keats may also have had in mind “‘prosy’ (wearisome)” (237).  Keats may have begun writing with one word in mind and then switched to the other, or he may have intentionally coined a new term to express his meaning.</p>
+         
+         <p>Both W. J. Bate (254) and Meg Williams (117) cite Keats's note as illustrative of his gift for empathy or “negative capability.” Nicola Trott, however, points out that Satan does not lose his own identity as he takes on the form of the serpent but instead retains his own consciousness and finds the experience of inhabiting another body oppressive (<title>“Keats and the Prison House”</title> 263-64).  Allott (411) compares this note to <title rend="italic">Hyperion</title> 1.258-63; Cook (614) suggests a comparison to The Eve of St. Agnes 17-18.</p>
+         
+      </note>
+      
+      
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 2, p. 119 -->  
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl2.119.0281l"
+         >
+         
+         Keats quotes <q>“Sagacious of his quarry”</q> in his note on <ref target="#kpl2.42"><title rend="italic">PL</title> 7.422-23</ref>.
+         
+      
+      </note>
+      
+      
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 2, p. 120 -->  
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl2.120.0330l"
+         >
+         
+         <q>“Children dear”</q> (line 330) would seem to be another example of what Keats considers <q>“the sublime pathetic”</q> in Milton.  See his note to <ref target="#kpl1.44"><title rend="italic">PL</title> 2.546-52</ref>, where he cites as an instance of the sublime pathetic <q>“where Satan’s progeny is called his <q>‘daughter dear’</q>.”</q>  Keats, however, does not underscore similar passages on the next two pages referring to Sin as Satan’s “offspring dear,” “fair / Enchanting daughter,” and “Fair daughter” (<ref target="#kpl2.121.0349l">10.349</ref>, <ref target="#kpl2.121.0352l">352-53</ref>, <ref target="#kpl2.122.0384l">384</ref>).  Perhaps Keats began to perceive in these latter passages not pathos but sinister irony, as Satan cherishes and flatters the hideous offspring who collaborate with him on bringing about the suffering of mankind.
+         
+         
+      </note>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 2, p. 127 -->  
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl2.127.0590l"
+         >
+         
+         <q>“On his pale horse”</q> (line 590): in December 1817 Keats saw Benjamin West’s painting “Death on the Pale Horse” and described it in a letter to his brothers (<title rend="italic">Letters</title> 1: 192).
+         
+         
+      </note>
+         
+      
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 2, p. 130 --> 
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl2.130.0702l"
+         >
+         
+         Keats quotes lines 702-03 of book 10 in his 3 May 1818 letter to Reynolds: <q>“one would think there has been growing up for these last four thousand years, a grandchild Scion of the old forbidden tree, and that some modern Eve had just violated it; and that there was come with double charge, <q>‘Notus and Afer black with thunderous clouds from Sierra-leona’</q>”</q> (<title rend="italic">Letters</title> 1: 276).
+         
+      </note>
+      
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 2, p. 133 --> 
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl2.149.0130l"
+         >
+         
+         As Allott notes (499), Keats’s poem <title>“As Hermes once took to his feathers light”</title> appears to be indebted to lines 130-33 of book 11.
+         
+      </note>
+      
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 2, p. 169 (incorrectly labelled "171") --> 
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl2.169"
+         >
+         
+         What should be p. 169 is numbered 171 in Keats’s edition.  Subsequent pages continue with the new numbering sequence through p. 182, which is then followed by pages numbered 173-83.
+         
+      </note>
+      
+      
+      
+      
+      
+      
+      
+      
+      <!-- Vol. 2, p. 181 (incorrectly labelled "173") -->
+      
+      <note 
+         type="editorial"
+         resp="BethLau" 
+         target="#kpl2.181"
+         >
+         
+         As explained in the previous editorial note, the page numbering is erratic in this section of Keats’s edition of <title rend="italic">Paradise Lost</title>.  After p. 168, pages are numbered 171-82, 173-83.  There are no pages numbered 169 or 170 in vol. 2 of Keats’s edition.
+         
+      </note>
       
      
      

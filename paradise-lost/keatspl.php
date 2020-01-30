@@ -33,7 +33,9 @@
             
             <br>
             
-            [Cover]<br>
+            
+            
+            [Cover]<br><br>
             
 </div>
 
@@ -52,7 +54,9 @@
             
             <br>
             
-            [Bookplate of Charles Wentworth Dilke]<br>
+            
+            
+            [Bookplate of Charles Wentworth Dilke]<br><br>
             
 </div>
 
@@ -71,7 +75,9 @@
             
             <br>
             
-            [Blank page, marbling]<br>
+            
+            
+            [Blank page, marbling]<br><br>
             
 </div>
 
@@ -90,7 +96,32 @@
             
             <br>
             
-            [Handwriting]<br>
+            
+            <div class="writtenNote"><span class="noteHeader">Note in Charles Dilke's Hand</span><br><span class="noteLocation"></span><br><br><span class="noteContent">
+                  
+                  
+                  See an article by me signed “an admirer of Keats”—in the Athenaeum—Oct 26th 1872.
+                  I discovered that J. F. C. was the Revd James Freeman Clarke[.]  I discovered that
+                  Herbert Lindon (son of Louis Lindon who died after the article was written) had Keats’
+                  Shakespeare—with the original draft of the sonnet “on sitting down to read King Lear
+                  once again” &amp; the lines “on seeing a lock of Milton’s hair”.         
+                  
+                  
+                  
+                  </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  This note was written by Sir Charles Dilke, grandson of Charles Wentworth and Maria
+                  Dilke, to the latter of whom Keats gave his copy of <span class="italic_text ">Paradise Lost</span>.  In his note, Sir Charles Dilke refers to an article he published in <span class="italic_text ">The Athenaeum</span> under the name “An Admirer of Keats,” in which he transcribed the eight notes in
+                  Keats’s <span class="italic_text ">Paradise Lost</span> that had not been previously published by “J. F. C.” or James Freeman Clarke in the
+                  American periodical <span class="italic_text ">The Dial</span> for April 1843 (see discussion in Introduction, section on “Transmission and Publication
+                  History”).  Herbert Lindon was the son of Louis and Fanny Brawne Lindon.  Keats gave
+                  his folio copy of Mr. William Shakespeare’s Comedies, Histories, &amp; Tragedies, into which he written the two poems Dilke mentions, to Fanny Brawne before he left
+                  for Italy.
+                  
+                  </span><br><br></div>
+            
+            [Handwriting]<br><br>
             
 </div>
 
@@ -109,7 +140,9 @@
             
             <br>
             
-            [Identifying marks]<br>
+            
+            
+            [Identifying marks]<br><br>
             
 </div>
 
@@ -128,7 +161,9 @@
             
             <br>
             
-            [Blank]<br>
+            
+            
+            [Blank]<br><br>
             
 </div>
 
@@ -147,26 +182,28 @@
             
             <br>
             
+            
+            
             Milton's 
             <br>
              
             PARADISE LOST:
-            <br>
+            <br><br>
             
             <br>
-            A NEW EDITION.<br>
+            A NEW EDITION.<br><br>
             
             <br>
             
             Adorned with Beautiful Plates
             
-            <br>
+            <br><br>
             
             <br>
             
             Volume 1.
             
-            <br>
+            <br><br>
             
             <br>
             
@@ -187,7 +224,7 @@
             
             1807.
             
-            <br>
+            <br><br>
             
 </div>
 
@@ -206,7 +243,9 @@
             
             <br>
             
-            [Blank]<br>
+            
+            
+            [Blank]<br><br>
             
 </div>
 
@@ -246,15 +285,32 @@
                   <a href="#kpl53">"But his face<br>
                   </a><a href="#kpl53">"Deep Scars of thunder had entrench'd &amp;[c.]<br>
                   </a></span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  Keats’s characterization of Milton’s conflict between “poetical Luxury” and “the Ardours
+                  . . . of Song” resembles his own struggle with these impulses, as when he distinguishes
+                  between a “Life of Sensations” and a life of “Thoughts” in a 22 November 1817 letter
+                  to Bailey and when he tells John Taylor on 24 April 1818 that “I have been hovering
+                  for some time between an exquisite sense of the luxurious and a love for Philosophy”
+                  (<span class="italic_text ">Letters</span> 1: 185, 271).  Some critics, in fact, believe that Keats in this note is projecting
+                  onto Milton his own inner conflicts (Wilkie 162; Trott, “Keats and the Prison-House”
+                  270).  Others, however, note that choices between sensuality and other temptations
+                  of this world versus disciplined obedience are central to Milton’s poetry, from “L’Allegro”
+                  and “Il Penseroso” to <span class="italic_text ">Comus</span>, <span class="italic_text ">Paradise Lost</span>, <span class="italic_text ">Samson Agonistes</span>, and <span class="italic_text ">Paradise Regained</span>, so that Keats may be identifying a struggle he shares with the elder poet (see especially
+                  Leslie Brisman, ix-54).  Newlyn claims that “It is to moments of choice” in <span class="italic_text ">Paradise Lost</span> “that the Romantics frequently return, especially in their narrative poetry” (85).
+                  Havens notes both similarities and differences between Keats and Milton regarding
+                  the conflict between duty and “poetical Luxury” (213-14).
+                  
+                  </span><br><br></div>
             
-            PARADISE LOST:<br>
+            PARADISE LOST:<br><br>
             
             <br>
             
             <br>
             
             <br>
-            <span class="italic_text ">POEM.<br>
+            <span class="italic_text ">POEM.</span><br><br>
             
 </div>
 
@@ -273,8 +329,10 @@
             
             <br>
             
-            Printed by<br>
-            Abernethy &amp; Walker.<br>
+            
+            
+            Printed by<br><br>
+            Abernethy &amp; Walker.<br><br>
             
 </div>
 
@@ -293,7 +351,9 @@
             
             <br>
             
-            [Prefatory Material: The Life of MR John Milton.]<br>
+            
+            
+            [Prefatory Material: The Life of MR John Milton.]<br><br>
             
 </div>
 
@@ -312,7 +372,9 @@
             
             <br>
             
-            [Prefatory Material: The Life of MR John Milton.]<br>
+            
+            
+            [Prefatory Material: The Life of MR John Milton.]<br><br>
             
 </div>
 
@@ -331,7 +393,9 @@
             
             <br>
             
-            [Prefatory Material: The Life of MR John Milton.]<br>
+            
+            
+            [Prefatory Material: The Life of MR John Milton.]<br><br>
             
 </div>
 
@@ -350,7 +414,9 @@
             
             <br>
             
-            [Prefatory Material: The Life of MR John Milton.]<br>
+            
+            
+            [Prefatory Material: The Life of MR John Milton.]<br><br>
             
 </div>
 
@@ -369,7 +435,9 @@
             
             <br>
             
-            [Prefatory Material: The Life of MR John Milton.]<br>
+            
+            
+            [Prefatory Material: The Life of MR John Milton.]<br><br>
             
 </div>
 
@@ -388,7 +456,9 @@
             
             <br>
             
-            [Prefatory Material: The Life of MR John Milton.]<br>
+            
+            
+            [Prefatory Material: The Life of MR John Milton.]<br><br>
             
 </div>
 
@@ -407,7 +477,9 @@
             
             <br>
             
-            [Prefatory Material: The Life of MR John Milton.]<br>
+            
+            
+            [Prefatory Material: The Life of MR John Milton.]<br><br>
             
 </div>
 
@@ -426,7 +498,9 @@
             
             <br>
             
-            [Prefatory Material: The Life of MR John Milton.]<br>
+            
+            
+            [Prefatory Material: The Life of MR John Milton.]<br><br>
             
 </div>
 
@@ -445,7 +519,9 @@
             
             <br>
             
-            [Prefatory Material: The Life of MR John Milton.]<br>
+            
+            
+            [Prefatory Material: The Life of MR John Milton.]<br><br>
             
 </div>
 
@@ -464,7 +540,9 @@
             
             <br>
             
-            [Blank]<br>
+            
+            
+            [Blank]<br><br>
             
 </div>
 
@@ -483,7 +561,9 @@
             
             <br>
             
-            [Prefatory Material: Postscript.]<br>
+            
+            
+            [Prefatory Material: Postscript.]<br><br>
             
 </div>
 
@@ -502,7 +582,9 @@
             
             <br>
             
-            [Prefatory Material: Postscript.]<br>
+            
+            
+            [Prefatory Material: Postscript.]<br><br>
             
 </div>
 
@@ -521,7 +603,9 @@
             
             <br>
             
-            [Prefatory Material: Postscript.]<br>
+            
+            
+            [Prefatory Material: Postscript.]<br><br>
             
 </div>
 
@@ -540,7 +624,9 @@
             
             <br>
             
-            [Blank]<br>
+            
+            
+            [Blank]<br><br>
             
 </div>
 
@@ -559,7 +645,9 @@
             
             <br>
             
-            [Prefatory Material: In Paradisum Amissam]<br>
+            
+            
+            [Prefatory Material: In Paradisum Amissam]<br><br>
             
 </div>
 
@@ -578,7 +666,9 @@
             
             <br>
             
-            [Prefatory Material: In Paradisum Amissam]<br>
+            
+            
+            [Prefatory Material: In Paradisum Amissam]<br><br>
             
 </div>
 
@@ -597,7 +687,9 @@
             
             <br>
             
-            [Prefatory Material: On Paradise Lost.]<br>
+            
+            
+            [Prefatory Material: On Paradise Lost.]<br><br>
             
 </div>
 
@@ -616,7 +708,9 @@
             
             <br>
             
-            [Prefatory Material: On Paradise Lost.]<br>
+            
+            
+            [Prefatory Material: On Paradise Lost.]<br><br>
             
 </div>
 
@@ -635,7 +729,9 @@
             
             <br>
             
-            [Prefatory Material: On the Verse.]<br>
+            
+            
+            [Prefatory Material: On the Verse.]<br><br>
             
 </div>
 
@@ -654,7 +750,9 @@
             
             <br>
             
-            [Blank]<br>
+            
+            
+            [Blank]<br><br>
             
 </div>
 
@@ -673,10 +771,12 @@
             
             <br>
             
-            Paradise Lost:<br>
-            A<br>
-            Poem.<br>
-            [Title page misprint / mistaken binding for vol. 2?]<br>
+            
+            
+            Paradise Lost:<br><br>
+            A<br><br>
+            Poem.<br><br>
+            [Title page misprint / mistaken binding for vol. 2?]<br><br>
             
 </div>
 
@@ -695,8 +795,10 @@
             
             <br>
             
-            Printed by<br>
-            Abernethy &amp; Walker.<br>
+            
+            
+            Printed by<br><br>
+            Abernethy &amp; Walker.<br><br>
             
 </div>
 
@@ -715,8 +817,10 @@
             
             <br>
             
-            Paradise Lost.<br>
-            Book I.<br>
+            
+            
+            Paradise Lost.<br><br>
+            Book I.<br><br>
             
 </div>
 
@@ -742,6 +846,27 @@
                   like music throughout—Hell is also peopled with angels it also move[s] on like music
                   not grating and ha[r]sh but like a grand accompaniment in the Base to Heaven—
                   
+                  </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  “Hell is also peopled with angels it also move[s] on like music not grating and ha[r]sh”
+                  is an allusion to Wordsworth’s “Lines Composed a Few Miles above Tintern Abbey,” 91-92:
+                  “The still, sad music of humanity, / Nor harsh nor grating.”
+                  
+                  Several other of Keats’s notes convey an appreciation of contrasts in Milton.  The
+                  <a href="#kpl51">note on PL 1.535-69</a> celebrates the “light and shade—the sort of black brightness” in that passage.  The
+                  <a href="#kpl96">note at the beginning of book 3</a> praises Milton’s “management” of the poem as the setting shifts from hell to heaven
+                  and declares, “we are getting ripe for diversity.”  Finally, the related terms “sublime
+                  pathetic” and “Grandeur of Tenderness” in notes on <a href="#kpl77">2.546-52</a> and <a href="#kpl119">4.1-4</a>, respectively, are oxymoronic and thereby signify a blending of contrasting qualities.
+                  Keats’s appreciation of opposites in <span class="italic_text ">Paradise Lost</span> is further expressed in the poem “Welcome joy, and welcome sorrow,” which has for
+                  a motto “Under the flag / Of each his faction, they to battle bring / Their embryo
+                  atoms,” a slight misquotation from <a href="#kpl88">PL 2.899-901</a>.  Keats also responds to passages that convey not the delight and harmony but the
+                  pain of contrast, as when he underscores and marks with triple vertical lines Satan’s
+                  experience of “the hateful siege / Of contraries” (<a href="#kpl270">9.121-22</a>).  Keats also quotes this passage to describe the conflict he feels composing Hyperion
+                  while his brother is dying (Letters 1: 369).  R. S. White notes that Keats’s markings
+                  in his two copies of Shakespeare’s plays often draw attention to contrasts and oppositions
+                  (24-25).  For further discussion of Keats’s interest in contrasts in Paradise Lost
+                  see Lau 59-61; Fairer 162-63.<br><br>
                   </span><br><br></div>
             
             <span class="italic_text ">ARGUMENT</span><br><span class="italic_text ">
@@ -791,6 +916,13 @@
                   the action begins—that of Dante's Hell—of Hamlet. the first step must be heroic and
                   full of power and nothing can be more impressive and shaded than the commencement
                   of the action here <span class="single_underline ">'Round he throws his baleful eyes'</span>—
+                  
+                  </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  Compare Keats’s remark in his 4 January 1818 <span class="italic_text ">Champion</span> review of <span class="italic_text ">Retribution, or the Chieftain’s Daughter</span> (written around the same time as Keats was beginning to read and annotate his copy
+                  of <span class="italic_text ">Paradise Lost</span>): “The title of an old play gives us a direct taste and surmise of its inwards, as the
+                  first lines of the Paradise Lost smack of the great Poem” (Forman 5: 247).  Apropos of Keats’s reference to the “charm” of the opening of “Dante’s Hell,” Robert Gittings notes that “the first two pages of the first canto of the <span class="italic_text ">Inferno</span> [are marked] more heavily than anywhere else” in Keats’s copy (10).  Keats’s markings of <span class="italic_text ">Hamlet</span>’s opening scene in his copy of <span class="italic_text ">The Dramatic Works of William Shakespeare</span>, vol. 7, can be viewed on the Harvard Keats Collection website at <a href="https://iiif.lib.harvard.edu/manifests/view/drs:14637636$3112i">https://iiif.lib.harvard.edu/manifests/view/drs:14637636$3112i</a>.  See also R. S. White’s discussion of Keats’s markings in <span class="italic_text ">Hamlet</span> (109-26). 
                   
                   </span><br><br></div>
             
@@ -900,6 +1032,17 @@
                   conceptions as a bat in a large gothic vault—.
                   
                   
+                  </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">Several critics compare Keats's marginal remarks on this page to his concept of Negative
+                  Capability, as expressed in his 27 (?) December 1817 letter to his brothers (<span class="italic_text ">Letters</span> 1: 193-94).  See Finney 1: 340, Wittreich 564n19, Williams 117.<br><br>
+                  Compare Keats’s emphasis on the uniqueness of each poet’s imagination ("men are as distinct in their conceptions of material shadowings as they are in matters
+                  of spiritual understanding") to his remarks on Milton’s originality in <a href="#kpl126">his note to page 91 of volume 1 (<span class="italic_text ">PL</span> book 4) </a>. <br><br>
+                  By “ade” Keats presumably means “aid.”<br><br>
+                  Keats suggests that Milton’s blindness enhanced his creativity by liberating his imagination
+                  over actual, visual perception. In the same way Keats lauds Homer’s “triple sight in blindness keen” in his 1818 sonnet “To Homer” and writes “Milton” beside a passage in <span class="italic_text ">The Faerie Queene</span> that describes a holy man who is blind in “earthly Eyen,” but whose spirit is “wondrous quick and pierceant . . . As Eagle’s Eye, that can behold the Sun” (book 1, canto 10, stanza 47; see Lowell 2: 570).  Similarly, in The <span class="italic_text ">Fall of Hyperion</span> Moneta’s eyes are “Half closed, and visionless entire they seem’d / Of all external things” (1.267-68), though the goddess possesses the wisdom of the ages and bestows on the
+                  speaker “A power within me of enormous ken, / To see as a God sees” (1.303-04).  One can also compare the passage in “Ode to a Nightingale” in which the speaker is impelled to “guess each sweet” by means of his imagination when he can no longer “see what flowers are at my feet” (43, 41).  Interestingly, however, Keats does not mark <a href="#kpl96"><span class="italic_text ">PL</span> 3.51-55,</a> where Milton claims that his blindness is compensated for by a “celestial light” that “shine[s] inward” and “plant[s] eyes” in his mind so that he “may see and tell / Of things invisible to mortal sight.” Perhaps Keats was unsympathetic with the explicitly religious nature of the inspiration
+                  Milton invokes in this passage.  For a discussion of <a href="#kpl96"><span class="italic_text ">PL</span> 3.51-55</a> in relation to “Ode to a Nightingale,” see Revard (211-14).  For a comparison of this note to others in Keats’s copy of
+                  <span class="italic_text ">PL</span>, <a href="#kpl44">see note to <span class="italic_text ">PL</span> 1.321</a>.<br><br>
                   </span><br><br></div>
             
             <span class="single_underline ">At once, as far as Angels' ken, he views</span><br>
@@ -1290,6 +1433,25 @@
                   of the most pathetic in the whole range of Poetry <a href="#kpl77">'Others more mild, retreated in a Silent Valley'</a>&amp;[c]. How much of the charm is in the Valley!—
                   
                   </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">Keats marks several passages in <span class="italic_text ">PL</span> in which mist is mentioned (<a href="#kpl52">1.594-96</a>; <a href="#kpl157">5.185-87</a>).  In addition, two passages that describe light veiled by a cloud are underscored
+                  (<a href="#kpl105">3.377-82</a>; <a href="#kpl233">7.360</a>).  Keats’s marginal remark here on things made more beautiful by being “put in a Mist” may be compared to <a href="#kpl56">his note on page 23 of volume 1 (<span class="italic_text ">Paradise Lost</span> book 1)</a>, in which he celebrates “the intense pleasure of not knowing” that produces “A sense of independence, of power from the fancy’s creating a world of its own by
+                  the sense of probabilities,” as well as his note on <a href="#kpl37">page 5 of volume 1</a>, where Milton’s blindness is said to have aided “the magnitude of his conceptions as a bat in a large gothic vault.” These various comments are in keeping with the aesthetic of the sublime, according
+                  to which obscure images are more powerful and moving than clear images and indistinct
+                  or ambiguous ideas are more stimulating than definite ones.  Milton was a touchstone
+                  of the sublime for many Romantic writers (see Newlyn 11-12, 49-62, 193-204; Trott,
+                  “Milton and the Romantics” 530-32.  See also the section on “Obscurity” in Lau 49-54. Leigh Hunt published an
+                  essay on “Mists and Fogs” in <span class="italic_text ">The Indicator</span>, 1 December 1819, in which he cites numerous instances from literature (including
+                  <span class="italic_text ">Paradise Lost</span>) of appearances made more impressive by atmospheric haze.  Keats celebrates Fall
+                  as the “Season of mists and mellow fruitfulness” in “To Autumn” (1), a passage that may be indebted to <a href="#kpl157"><span class="italic_text ">PL</span> 5.185-87</a>.<br><br>
+                  Wolfson notes that “Apollo’s oracular communications at Delphi often involved mist; Delphic thus means
+                  ‘obscure’” (227n4).  Delphi’s association with Apollo, god of poetry, also suggests that “Delphic”
+                  means “inspired.”  Keats uses the word again in his note to <a href="#kpl119"><span class="italic_text ">PL</span> 4.1-4</a> (“Nothing can be higher—Nothing so more than delphic”).<br><br>
+                  Wilkie relates Keats's note on "charm [...] in the Valley" to the shady vale in which <span class="italic_text ">Hyperion</span> opens and to Keats’s 21 April 1819 “vale of Soul-making” letter.  “All three of these references to ‘vale,’” Wilkie writes, “express the same theme: the transition from a world of innocence or joy or both to
+                  a world of tragic suffering” (165).  Jonathan Bate discusses Keats’s note on vales as it reflects differences
+                  between Keats’s and Milton’s treatments of fallen and unfallen conditions (“Keats’s
+                  Two Hyperions” 322-24). 
+                  <br><br>
+                  </span><br><br></div>
             
             And broken chariot-wheels: so thick bestrown<br>
             Abject and lost lay these, covering the flood,<br>
@@ -1344,6 +1506,8 @@
             </a></div>
             
             <br>
+            
+            
             
             
 </div>
@@ -1761,6 +1925,26 @@
                   
                   
                   </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">"Perplexes monarchs" (line 599): like many progressive Romantic writers, Keats frequently
+                  celebrates Milton as a patriot who opposed monarchical tyranny.  For example, in “Oh! How I love, on a fair summer’s eve” Keats writes, “There warm my breast with patriotic lore, / Musing on Milton’s fate—on Sydney’s bier” (9-10), and in a letter to George and Georgiana he similarly remarks, “there are none [at the current time] prepared to suffer in obscurity for their Country.
+                  . . . We have no Milton, no Algernon Sidney” (<span class="italic_text ">Letters</span> 1: 396; see also 397).  For Milton’s reputation in the Romantic period as a defender
+                  of liberty who suffered heroically for his views, see Newlyn 32-39; on Keats’s association
+                  of Milton with liberal politics, see Roe 28, 47, 49, 209.  Wolfson suggests that the
+                  reference to “the blasted heath” in line 615, a little further down from the lines that provoked his note praising
+                  Milton’s “noble and collected . . . indignation against Kings,” may have reminded Keats of King Lear, “exiled to the blasted hearth, where he confronts his pompous neglect of his poor
+                  subjects” (Wolfson 229n6).  The phrase may also have suggested to Keats the setting where another
+                  tragic, misguided Shakespearean figure—Macbeth—hears the prophecy of the three witches
+                  that impels him on his bloodthirsty pursuit of a throne. 
+                  
+                  <br><br>
+                  
+                  Keats quotes “but his face / Deep scars of thunder had intrench’d” in <a href="#kpl9">his note on the half-title page of vol. 1</a>.            
+                  <br><br>
+                  
+                  Keats quotes “Tears such as angels weep” as an example of “the sublime pathetic” in <a href="#kpl77">his note to <span class="italic_text ">PL</span> 2.546-52</a>.
+                  
+                  <br><br>
+                  </span><br><br></div>
             
             <span class="single_underline ">Perplexes monarchs</span>.  Darken'd so, yet shone<br>
             Above them all the Arch-Angel: <span class="single_underline ">but his face</span><br>
@@ -1929,10 +2113,18 @@
                   What creates the intense pleasure of not knowing? A sense of independence, of power
                   from the fancy's creating a world of its own by the sense of probabilities—We have
                   read the Arabian Nights and hear there are thousands of those sort of Romances lost—we
-                  imagine them—but not their realities if we had them nor our fancies in ther  strength can go further than this Pandemonium— — - - '<a href="#kpl56">Straight the doors opening</a>" &amp;c[.] '<a href="#kpl56">rose like an exhalation</a>—
+                  imagine after them—but not their realities if we had them nor our fancies in the[i]r
+                   strength can go further than this Pandemonium— — - - '<a href="#kpl56">Straight the doors opening</a>" &amp;c[.] '<a href="#kpl56">rose like an exhalation</a>—
                   
                   
                   
+                  </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">See the discussion of this note <a href="#kpl37">on page 5 of volume 1</a>, “one of the most mysterious of semi-speculations," and <a href="#kpl44">on page 12</a>, “There is a cool pleasure in the very sound of vale”. <br><br>
+                  Jackson observes that Keats’s use of “We” instead of “I” in this and other notes (those
+                  on <a href="#kpl77">pages 44-45 of volume 1 (book 2)</a> and <a href="#kpl96">pages 62-63 (book 3)</a>) suggests the communal nature of his marginalia.  Keats’s annotations were not intended
+                  for himself alone, Jackson argues, but were meant to be shared with “a coterie comfortable in its shared values” (194-95).  On Keats’s expectation of an audience for his marginalia, see also Lau
+                  13-16.  <br><br>
+                  Wolfson perceives a “rich layering of meanings” in Keats’s phrase, “we imagine after them” (the “Romances lost”) and offers three implications: “our imagination is chronologically later; strains to grasp them; takes their pattern” (231n11).<br><br>
                   </span><br><br></div>
             
             <span class="left_vertical "><span class="single_underline ">A various mould, and from the boiling cells</span></span><br>
@@ -2082,7 +2274,7 @@
             
             <br>
             
-            [Blank]<br>
+            [Blank]<br><br>
             
 </div>
 
@@ -2101,8 +2293,8 @@
             
             <br>
             
-            Paradise Lost.<br>
-            Book II.<br>
+            Paradise Lost.<br><br>
+            Book II.<br><br>
             
 </div>
 
@@ -2945,18 +3137,37 @@
             <br>
             
             
-            <div class="writtenNote"><span class="noteHeader">Note in Keats's Hand</span><br><span class="noteLocation">Text circles around the outside margins (top, bottom, left, right) of the two pages,
+            <div class="writtenNote"><span class="noteHeader">Note in Keats's Hand</span><br><span class="noteLocation">Text circles around the outside margins (left, top, right, bottom) of the two pages,
                   44 and 45</span><br><br><span class="noteContent">
                   
                   Milton is godlike in the sublime pathetic. In Demons, fallen Angels, and Monsters
                   the delicacies of passion living in and from their immortality, is of the most softening
                   and dissolving nature. It is carried to the utmost here—<a href="#kpl77">Others more mild</a>—nothing can express the sensation one feels at '<span class="single_underline ">Their song was partial</span> &amp;[c]. Examples of this nature are divine to the utmost in other poets—in Caliban
-                  '<span class="single_underline ">Sometimes a thousand twangling instruments</span>' &amp;c[.] In Theocritus'———Polyphemus—and Homers Hym to Pan where Mercury is represented
+                  '<span class="single_underline ">Sometimes a thousand twangling instruments</span>' &amp;c[.] In Theocritus'———Polyphemus—and Homers Hymn to Pan where Mercury is represented
                   as taking his '<span class="single_underline ">homely fac'd</span>' to heaven. There are numerous other instances in Milton—where Satan's progeny is
                   called '<span class="single_underline ">daughter dear</span>,' and where this same Sin, a female, and with a feminine instinct for the showy &amp;
                   martial is in pain lest death should sully his bright arms '<span class="single_underline ">nor vainly hope to be invulnerable in those bright arms</span>'. Another instance is '<span class="single_underline ">pensive I sat</span> alone[.] We need not mention '<span class="single_underline ">Tears such as Angels weep</span>'.
                   
                   
+                  </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">In his lecture “On Shakespeare and Milton” Hazlitt writes that “of all the passages in Paradise Lost, the description of the
+                  employments of the angels during the absence of Satan, some of whom ‘retreated in
+                  a silent valley, sing with notes angelical to many a harp their own heroic deeds and
+                  hapless fall by doom of battle,’ is the most perfect example of mingled pathos and
+                  sublimity” (5: 66).  The passage Hazlitt cites, <a href="#kpl77"><span class="italic_text ">PL</span> 2.546-50</a>, is not only marked by Keats (with underscoring and a marginal line) but is also
+                  quoted in his note on <a href="#kpl44"><span class="italic_text ">PL</span> 1.321</a>.  Other passages in which Hazlitt juxtaposes the terms “sublimity” and “pathos” occur in his lecture “On Poetry in General” (5: 5) and his edition of <span class="italic_text ">Select British Poets</span> (9: 237 [on Milton], 241-42 [on Thomas Gray], and 244 [on Byron]).  Stuart Ende believes
+                  that Hazlitt, “As well as being the probable source of Keats’s ‘sublime pathetic’
+                  . . . may have provided Keats with his understanding of both sublimity and pathos”
+                  (190n21).  Ende discusses at length Keats’s concept of the “sublime pathetic” (xvi-xvii,
+                  27-28, 89-91, 96-97).  See also Albrecht (who disagrees with Ende) 198-201 and Lau
+                  61-66.<br><br>
+                  In his note (“'homely fac'd' to heaven”) Keats quotes from Shakespeare’s <span class="italic_text ">The Tempest</span> 3.2.134 and George Chapman’s translation of Homer’s <span class="italic_text ">Hymn to Pan</span>, line 74.  Keats’s pronoun is ambiguous; “his homely fac’d” in <span class="italic_text ">Hymn to Pan</span> refers to Pan’s face.  Theocritus recounts Polyphemus’s unrequited love for Galatea
+                  in his eleventh idyll.
+                  <br><br>
+                  
+                  It is interesting to compare the passage not underscored in the lines “and took with ravishment / The thronging audience” to a comment Keats made about a similar passage in book 4 of Wordsworth’s <span class="italic_text ">Excursion</span>.  According to Benjamin Bailey, Keats said that the line “And filled the illumined groves with ravishment” (<span class="italic_text ">The Excursion</span> 4.860) should have been omitted from Wordsworth’s description of Apollo (<span class="italic_text ">Keats Circle</span> 2: 276).  Keats himself uses “ravishment” in “I stood tip-toe upon a little hill” 147 and <span class="italic_text ">Endymion</span> 2.715, 875, so he does not appear to have found this word objectionable in itself.
+                  
+                  <br><br>
                   </span><br><br></div>
             
             <span class="single_underline ">Leads him perplex'd, where he may likeliest find</span><br>
@@ -3013,17 +3224,22 @@
             <br>
             
             
-            <div class="writtenNote"><span class="noteHeader">Note in Keats's Hand</span><br><span class="noteLocation">Text circles around the outside margins (top, bottom, left, right) of the two pages,
+            <div class="writtenNote"><span class="noteHeader">Note in Keats's Hand</span><br><span class="noteLocation">Text circles around the outside margins (left, top, right, bottom) of the two pages,
                   44 and 45</span><br><br><span class="noteContent">
                   
                   Milton is godlike in the sublime pathetic. In Demons, fallen Angels, and Monsters
                   the delicacies of passion living in and from their immortality, is of the most softening
                   and dissolving nature. It is carried to the utmost here—<a href="#kpl77">Others more mild</a>—nothing can express the sensation one feels at '<span class="single_underline ">Their song was partial</span> &amp;[c]. Examples of this nature are divine to the utmost in other poets—in Caliban
-                  '<span class="single_underline ">Sometimes a thousand twangling instruments</span>' &amp;c[.] In Theocritus'———Polyphemus—and Homers Hym to Pan where Mercury is represented
+                  '<span class="single_underline ">Sometimes a thousand twangling instruments</span>' &amp;c[.] In Theocritus'———Polyphemus—and Homers Hymn to Pan where Mercury is represented
                   as taking his '<span class="single_underline ">homely fac'd</span>' to heaven. There are numerous other instances in Milton—where Satan's progeny is
                   called '<span class="single_underline ">daughter dear</span>,' and where this same Sin, a female, and with a feminine instinct for the showy &amp;
                   martial is in pain lest death should sully his bright arms '<span class="single_underline ">nor vainly hope to be invulnerable in those bright arms</span>'. Another instance is '<span class="single_underline ">pensive I sat</span> alone[.] We need not mention '<span class="single_underline ">Tears such as Angels weep</span>'.
                   
+                  
+                  </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  Keats quotes line 584 in a 27 April 1818 letter to Reynolds: “If I must be immortal, I hope it will be after having taken a little of ‘that watery labyrinth’ in order to forget some of my schoolboy days &amp; others since then” (<span class="italic_text ">Letters</span> 1: 273).
                   
                   </span><br><br></div>
             
@@ -3242,6 +3458,8 @@
             </a></div>
             
             <br>
+            
+            
             
             
 </div>
@@ -3792,8 +4010,8 @@
             
             <br>
             
-            Paradise Lost.<br>
-            Book III.<br>
+            Paradise Lost.<br><br>
+            Book III.<br><br>
             
 </div>
 
@@ -3902,6 +4120,14 @@
                   immediate topic of the Poem opens with a grand Perspective of all concerned.
                   
                   </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  Apollo’s attributes as god of the sun and of poetry are both relevant to this note
+                  of Keats's, which praises Milton’s magisterial handling of his epic poem as it moves
+                  from hell into the precincts of light and heaven in book 3.  Adjectives similar to
+                  “Apollonian” that express Keats’s admiration for Milton’s achievement in <span class="italic_text ">Paradise Lost</span> are “godlike” in his note to <a href="#kpl77"><span class="italic_text ">PL</span> 2.546-52</a> (“Milton is godlike in the sublime pathetic”) and “delphic” in <a href="#kpl119">his note to PL 4.1-4</a> (“nothing can be higher—Nothing so more than delphic”).  See also “Delphic Abstraction” in <a href="#kpl44">his note to <span class="italic_text ">PL</span> 1.321</a>. 
+                  
+                  </span><br><br></div>
             
             Revisit not these eyes, that roll in vain<br>
             To find thy piercing ray, and find no dawn;<br>
@@ -3966,6 +4192,14 @@
                   mount to heaven—we breathe more freely—we feel the——great Author's consolations coming
                   thick upon him at a time when he complains most—we are getting ripe for diversity——the
                   immediate topic of the Poem opens with a grand Perspective of all concerned.
+                  
+                  </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  Apollo’s attributes as god of the sun and of poetry are both relevant to this note
+                  of Keats's, which praises Milton’s magisterial handling of his epic poem as it moves
+                  from hell into the precincts of light and heaven in book 3.  Adjectives similar to
+                  “Apollonian” that express Keats’s admiration for Milton’s achievement in <span class="italic_text ">Paradise Lost</span> are “godlike” in his note to <a href="#kpl77"><span class="italic_text ">PL</span> 2.546-52</a> (“Milton is godlike in the sublime pathetic”) and “delphic” in <a href="#kpl119">his note to PL 4.1-4</a> (“nothing can be higher—Nothing so more than delphic”).  See also “Delphic Abstraction” in <a href="#kpl44">his note to <span class="italic_text ">PL</span> 1.321</a>. 
                   
                   </span><br><br></div>
             
@@ -4797,6 +5031,9 @@
                   A Spirit's eye—
                   
                   </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">On line 608, Keats draws a line through the “r” in “Portable,” making the word “Potable.”  As in <a href="#kpl97">3.71</a>, Keats is probably correcting his edition of <span class="italic_text ">Paradise Lost</span> in this passage.<br><br>
+                  Keats also refers to “the Theory of Spirits eyes” in <a href="#kpl234">his note on page 42 of Volume 2</a>. <br><br>
+                  </span><br><br></div>
             
             In Aaron's breast-plate, and a stone besides<br>
             Imagined rather oft than elsewhere seen,<br>
@@ -5033,8 +5270,8 @@
             
             <br>
             
-            Paradise Lost.<br>
-            Book IV.<br>
+            Paradise Lost.<br><br>
+            Book IV.<br><br>
             
 </div>
 
@@ -5099,6 +5336,27 @@
                   breaks out '<span class="single_underline ">O for that warning voice</span> &amp;[c.]' There is moreover an opportunity for a Grandeur of Tenderness—the opportunity
                   is not lost. Nothing can be higher—Nothing so more than delphic—
                   
+                  </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">Benjamin Bailey told Richard Monckton Milnes in 1849 that this note about “a friend
+                  of mine” referred to himself, for “We had much talk of Milton when Keats was at Oxford: &amp; I remember that I expressed,
+                  though more at large, this opinion, or something to the effect here noted down” (<span class="italic_text ">Keats Circle</span> 2: 296).  The “friend” mentioned in Keats’s note may actually be Charles Wentworth
+                  Dilke rather than Bailey.  A copy of Milton’s poems bearing Dilke’s bookplate (owned
+                  by Keats House) contains an annotation at the beginning of book 4 of <span class="italic_text ">Paradise Lost</span> that is similar to Keats’s: “The opening of this Book is fearful[ly] sublime.—It gives note of dreadful preparation.—It
+                  seems to rouse us from a moral slumber, &amp; bids us prepare for some strange &amp;mp; unkn[own]
+                  consequences—It is fit prelude to the act:--an act that in its consequen[ce] was to
+                  be felt through all succeeding generations.  It is much the finest in the whole work.”  Claude Lee Finney points out the similarity between Dilke’s and Keats’s remarks
+                  on the opening of book 4 and believes the two men were reading and discussing <span class="italic_text ">Paradise Lost</span> in December 1817 and January 1818 (1: 337).  Both Bailey and Dilke may have influenced
+                  Keats’s response to the beginning of book 4 as expressed in this note.<br><br>
+                  
+                  The phrase “Grandeur of Tenderness” is similar to “sublime pathetic,” which Keats uses in <a href="#kpl77">his note on pages 44 and 45 of volume 1</a>.  Compare also <a href="#kpl126">his note on the pathos of <span class="italic_text ">PL</span> 4.271-72</a>.
+                  
+                  <br><br>
+                  
+                  Apollo was believed to communicate with petitioners at his oracle at Delphi.  “Delphic” therefore means divinely inspired, though for Keats the divinity in question is the
+                  Greek god of poetry (and the sun) rather than Milton’s Christian muse Urania (see
+                  <a href="#kpl35"><span class="italic_text ">PL</span> 1.6-12</a>, <a href="#kpl223">7.1-39</a>).  Keats concludes each stanza of his poem “God of the golden bow” with the phrase, “O Delphic Apollo.”  His poem “On Receiving a Laurel Crown from Leigh Hunt,” written around the same time as “God of the golden bow” (late 1816 / early 1817) laments his lack of inspiration by stating, “Minutes are flying swiftly; and as yet / Nothing unearthly has enticed my brain /
+                  Into a delphic labyrinth” (1-3).  For other uses of “Delphic” or “Apollonian” in the <span class="italic_text ">Paradise Lost</span> marginalia, see <a href="#kpl96">editorial note to volume 1, pages 62-63</a>.
+                  <br><br>
                   </span><br><br></div>
             
             <span class="single_underline ">O FOR that warning voice, which he who saw</span><br>
@@ -5476,6 +5734,19 @@
                   by a volume the one is in this fol. '<span class="single_underline ">which cost Ceres all that pain</span>'—the other is that ending '<span class="single_underline ">Nor could the Muse defend her son</span>'—they appear exclusively Miltonic without the shadow of another mind ancient or modern—
                   
                   </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">Keats slightly misquotes line 239 in a 27 June 1818 letter to Tom Keats: “the stream itself is interesting throughout with ‘mazy error over pendant shades.’  Milton meant a smooth river—this is buffetting all the way on a rocky bed ever various” (<span class="italic_text ">Letters</span> 1: 300).<br><br>
+                  The two passages Keats singles out in his marginal note as examples “of a very extraordinary beauty in the Paradise Lost”—Ceres’s loss of her daughter Proserpine to the god Pluto or Dis and the muse Calliope’s
+                  inability to save her son Orpheus from death—both involve a mother’s grief over the
+                  absence of a child.  See also <a href="#kpl77">Keats’s note to PL 2.546-52</a> citing instances of “the sublime pathetic” in <span class="italic_text ">Paradise Lost</span>.<br><br>
+                  Keats’s emphasis in this note on Milton’s originality was a point often made by other
+                  Romantic writers.  Hazlitt, for example, observes that “Milton has borrowed more than any other writer; yet he is perfectly distinct from
+                  every other writer.  The power of his mind is stamped on every line.  He is a writer
+                  of centos, and yet in originality only inferior to Homer” (“On Milton’s Versification” 4: 37; a similar passage appears in “On Shakespeare and Milton” 5: 58).  Newlyn discusses Hazlitt’s remarks as part of a tradition that began in
+                  the eighteenth century, in which Milton was considered a rare example of a highly
+                  original writer who depended heavily on earlier sources (47). Keats also stresses
+                  Milton’s (and all writers’) uniqueness in <a href="#kpl37">his note to 1.59-94</a> when he writes, “A Poet can seldom have justice done to his imagination—for men are as distinct in
+                  their conception of material shadowings as they are in matters of spiritual understanding.”<br><br>
+                  </span><br><br></div>
             
             <span class="single_underline ">With mazy error under pendant shades</span><br>
             <span class="single_underline ">Ran nectar, visiting each plant, and fed</span><br>
@@ -5812,6 +6083,14 @@
             </a></div>
             
             <br>
+            
+            
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  Keats quotes the lines describing Adam as “fair indeed, and tall, / Under a plantane” (477-78) as an example of Milton’s gift for “stationing” in <a href="#kpl234">his note on pages 42 and 43 of book 7, in volume 2</a>.
+                  
+                  
+                  </span><br><br></div>
             
             <span class="left_vertical ">Into a liquid plain, then stood unmoved,</span><br>
             <span class="left_vertical ">Pure as the expanse of Heaven: I thither went,</span><br>
@@ -6405,6 +6684,8 @@
             <br>
             
             
+            
+            
 </div>
 
 <br>
@@ -6698,8 +6979,8 @@
             
             <br>
             
-            Paradise Lost.<br>
-            Book V.<br>
+            Paradise Lost.<br><br>
+            Book V.<br><br>
             
 </div>
 
@@ -8131,7 +8412,7 @@
             
             <br>
             
-            [Blank]<br>
+            [Blank]<br><br>
             
 </div>
 
@@ -8150,7 +8431,7 @@
             
             <br>
             
-            [Blank]<br>
+            [Blank]<br><br>
             
 </div>
 
@@ -8169,7 +8450,7 @@
             
             <br>
             
-            [Blank]<br>
+            [Blank]<br><br>
             
 </div>
 
@@ -8188,7 +8469,7 @@
             
             <br>
             
-            [Blank page, marbling]<br>
+            [Blank page, marbling]<br><br>
             
 </div>
 
@@ -8207,7 +8488,7 @@
             
             <br>
             
-            [Blank page, marbling]<br>
+            [Blank page, marbling]<br><br>
             
 </div>
 
@@ -8226,7 +8507,7 @@
             
             <br>
             
-            [Back cover]<br>
+            [Back cover]<br><br>
             
 </div>
 
@@ -8245,7 +8526,7 @@
             
             <br>
             
-            [Cover]<br>
+            [Cover]<br><br>
             
 </div>
 
@@ -8264,7 +8545,7 @@
             
             <br>
             
-            [Bookplate of Charles Wentworth Dilke]<br>
+            [Bookplate of Charles Wentworth Dilke]<br><br>
             
 </div>
 
@@ -8283,7 +8564,7 @@
             
             <br>
             
-            [Blank page, marbling]<br>
+            [Blank page, marbling]<br><br>
             
 </div>
 
@@ -8302,7 +8583,7 @@
             
             <br>
             
-            [Blank]<br>
+            [Blank]<br><br>
             
 </div>
 
@@ -8338,7 +8619,7 @@
                   Bright tressed From the grey <span class="strikeThrough">west's</span> east's shuddering bourne <br>
                   </span><br><br></div>
             
-            [Contains draft of Keats's poem, "To Sleep"]<br>
+            [Contains draft of Keats's poem, "To Sleep"]<br><br>
             
 </div>
 
@@ -8357,7 +8638,7 @@
             
             <br>
             
-            [Blank]<br>
+            [Blank]<br><br>
             
 </div>
 
@@ -8377,31 +8658,31 @@
             <br>
             
             
-            <div class="writtenNote"><span class="noteHeader">Note in Keats's Hand</span><br><span class="noteLocation">Dedication in upper right margin</span><br><br><span class="noteContent">Mrs. Dilke from<br>
-                  her sincere friend<br>
-                  J. Keats<br>
+            <div class="writtenNote"><span class="noteHeader">Note in Keats's Hand</span><br><span class="noteLocation">Dedication in upper right margin</span><br><br><span class="noteContent">Mrs. Dilke from<br><br>
+                  her sincere friend<br><br>
+                  J. Keats<br><br>
                   </span><br><br></div>
             
             Milton's 
             <br>
              
             PARADISE LOST:
-            <br>
+            <br><br>
             
             <br>
-            A NEW EDITION.<br>
+            A NEW EDITION.<br><br>
             
             <br>
             
             Adorned with Beautiful Plates
             
-            <br>
+            <br><br>
             
             <br>
             
             Volume II.
             
-            <br>
+            <br><br>
             
             <br>
             
@@ -8423,7 +8704,7 @@
             1807.
             
             
-            <br>
+            <br><br>
             
 </div>
 
@@ -8442,7 +8723,7 @@
             
             <br>
             
-            [Blank]<br>
+            [Blank]<br><br>
             
 </div>
 
@@ -8461,10 +8742,10 @@
             
             <br>
             
-            PARADISE LOST:<br>
+            PARADISE LOST:<br><br>
             
             <br>
-            BOOKS VI.<br>
+            BOOK VI.<br><br>
             
             <br>
             
@@ -8479,7 +8760,7 @@
             <br>
             
             VOL. II.         
-            <br>
+            <br><br>
             
 </div>
 
@@ -9819,6 +10100,8 @@
             <br>
             
             
+            
+            
 </div>
 
 <br>
@@ -9935,8 +10218,8 @@
             
             <br>
             
-            Paradise Lost.<br>
-            Book VII.<br>
+            Paradise Lost.<br><br>
+            Book VII.<br><br>
             
 </div>
 
@@ -9977,6 +10260,8 @@
             
             <br>
             
+            
+            
             Descend from Heaven, Urania, by that name<br>
             If rightly thou art call'd, whose voice divine<br>
             Following, above the Olympian hill I soar,<br>
@@ -10016,6 +10301,11 @@
             </a></div>
             
             <br>
+            
+            
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">Keats quotes “evil days” from line 25 in his note on <a href="#kpl53"><span class="italic_text ">PL</span> 1.598-99</a>.<br><br>
+                  Keats quotes lines 37 and 38, “nor could the Muse defend / Her Son,” as one of two “specimens of a very extraordinary beauty in the Paradise Lost” in his note on <a href="#kpl126"><span class="italic_text ">PL</span> 4.268-72</a>.<br><br>
+                  </span><br><br></div>
             
             <span class="left_vertical ">Standing on Earth, not rapt above the pole,</span><br>
             <span class="left_vertical ">More safe I sing with mortal voice, unchanged</span><br>
@@ -10569,6 +10859,31 @@
                   
                   
                   </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">Both Finney (1: 339-40) and W. J. Bate (244-46) link Keats’s celebration of Milton’s
+                  intensity in this note to Hazlitt’s concept of “gusto.” In his <span class="italic_text ">Round Table</span> essay “On Gusto” Hazlitt writes, “Milton has great gusto.  He repeats his blows twice; grapples with and exhausts his
+                  subject” (4: 79).  In “On Milton’s Versification,” also from <span class="italic_text ">The Round Table</span>, Hazlitt states that “Milton had as much of what is meant by gusto as any poet.  He forms the most intense
+                  conception of things, and then embodies them by a single stroke of his pen.  Force
+                  of style is perhaps his first excellence” (4: 38).  Keats reports reading Hazlitt’s <span class="italic_text ">Round Table</span> with Bailey in September 1817 (<span class="italic_text ">Letters</span> 1: 166).<br><br>
+                  The term “stationing” derives from theories of the visual arts and refers to the positioning of figures
+                  within a particular setting.  Keats’s remarks on Milton’s “stationing or statu[a]ry” are similar to comments Hazlitt makes in his essay “On Shakespeare and Milton” (5: 59-60).  See the Introduction (section on “Themes and Patterns in the Marginalia:
+                  Descriptive Passages”) for further discussion of these points.  <br><br>
+                  It is not clear what “Theory of Spirits eyes” Keats is alluding to in this note, but presumably it involves the superior visual
+                  power spirits or angels are thought to possess.  Keats writes “A Spirit’s eye” alongside an earlier passage in which Satan lands on the sun and gazes on the brilliant
+                  scene “Undazzled, far and wide his eye commands, / For sight no obstacle found here, nor
+                  shade, / But all sunshine” (<a href="#kpl112">3.614-16</a>).  Another passage that refers to spirits’ enhanced eyesight is <a href="#kpl37">PL 1.59-60</a> (which Keats underscores): “At once, as far as Angel’s ken, he [Satan] views / The dismal situation waste and
+                  wild.”<br><br>
+                  Three similes in <span class="italic_text ">Paradise Lost</span> allude to Galileo, all involving his telescope and all marked by Keats: <a href="#kpl43">1.287-91</a>, <a href="#kpl111">3.588-90</a>, and <a href="#kpl159">5.261-63</a>.  Galileo’s telescope in Milton’s accounts is similar (though inferior) to the vision
+                  of angels in that it allows clear perception of far-off objects and reveals hitherto
+                  unknown features of the moon and sun. <br><br>
+                  The passage Keats cites in relation to the “Theory of Spirits eyes and the simile of Gallilio” (“Satan ‘disfigured on the Assyrian Mount’”) depicts Satan as he is viewed by the archangel Uriel.  Satan previously had disguised
+                  himself as an angel and fooled Uriel into giving him directions to Eden.  At this
+                  point, however, when his face is distorted by “ire, envy, and despair” (<a href="#kpl122">PL 4.115</a>), Satan reveals his true, tormented self, while he thinks himself alone and doesn’t
+                  realize that he is being observed by Uriel. The dramatic “vastness and solemnity” Keats perceives in this image therefore would seem to involve the pathetic irony
+                  of a being who once looked on his surroundings with supernatural keenness of perception,
+                  but whose fallen condition has now made him, all unaware, the sorry object of a superior
+                  angel’s penetrating gaze.
+                  <br><br>
+                  </span><br><br></div>
             
             With thousand lesser lights dividual holds,<br>
             With thousand thousand stars, that then appear'd<br>
@@ -10636,6 +10951,31 @@
                   to hold one amazed in the midst of this Paradise Lost—
                   
                   
+                  </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">Both Finney (1: 339-40) and W. J. Bate (244-46) link Keats’s celebration of Milton’s
+                  intensity in this note to Hazlitt’s concept of “gusto.” In his <span class="italic_text ">Round Table</span> essay “On Gusto” Hazlitt writes, “Milton has great gusto.  He repeats his blows twice; grapples with and exhausts his
+                  subject” (4: 79).  In “On Milton’s Versification,” also from <span class="italic_text ">The Round Table</span>, Hazlitt states that “Milton had as much of what is meant by gusto as any poet.  He forms the most intense
+                  conception of things, and then embodies them by a single stroke of his pen.  Force
+                  of style is perhaps his first excellence” (4: 38).  Keats reports reading Hazlitt’s <span class="italic_text ">Round Table</span> with Bailey in September 1817 (<span class="italic_text ">Letters</span> 1: 166).<br><br>
+                  The term “stationing” derives from theories of the visual arts and refers to the positioning of figures
+                  within a particular setting.  Keats’s remarks on Milton’s “stationing or statu[a]ry” are similar to comments Hazlitt makes in his essay “On Shakespeare and Milton” (5: 59-60).  See the Introduction (section on “Themes and Patterns in the Marginalia:
+                  Descriptive Passages”) for further discussion of these points.  <br><br>
+                  It is not clear what “Theory of Spirits eyes” Keats is alluding to in this note, but presumably it involves the superior visual
+                  power spirits or angels are thought to possess.  Keats writes “A Spirit’s eye” alongside an earlier passage in which Satan lands on the sun and gazes on the brilliant
+                  scene “Undazzled, far and wide his eye commands, / For sight no obstacle found here, nor
+                  shade, / But all sunshine” (<a href="#kpl112">3.614-16</a>).  Another passage that refers to spirits’ enhanced eyesight is <a href="#kpl37">PL 1.59-60</a> (which Keats underscores): “At once, as far as Angel’s ken, he [Satan] views / The dismal situation waste and
+                  wild.”<br><br>
+                  Three similes in <span class="italic_text ">Paradise Lost</span> allude to Galileo, all involving his telescope and all marked by Keats: <a href="#kpl43">1.287-91</a>, <a href="#kpl111">3.588-90</a>, and <a href="#kpl159">5.261-63</a>.  Galileo’s telescope in Milton’s accounts is similar (though inferior) to the vision
+                  of angels in that it allows clear perception of far-off objects and reveals hitherto
+                  unknown features of the moon and sun. <br><br>
+                  The passage Keats cites in relation to the “Theory of Spirits eyes and the simile of Gallilio” (“Satan ‘disfigured on the Assyrian Mount’”) depicts Satan as he is viewed by the archangel Uriel.  Satan previously had disguised
+                  himself as an angel and fooled Uriel into giving him directions to Eden.  At this
+                  point, however, when his face is distorted by “ire, envy, and despair” (<a href="#kpl122">PL 4.115</a>), Satan reveals his true, tormented self, while he thinks himself alone and doesn’t
+                  realize that he is being observed by Uriel. The dramatic “vastness and solemnity” Keats perceives in this image therefore would seem to involve the pathetic irony
+                  of a being who once looked on his surroundings with supernatural keenness of perception,
+                  but whose fallen condition has now made him, all unaware, the sorry object of a superior
+                  angel’s penetrating gaze.
+                  <br><br>
                   </span><br><br></div>
             
             <span class="left_vertical ">Their brood as numerous hatch, from the egg that soon</span><br>
@@ -11005,8 +11345,8 @@
             
             <br>
             
-            Paradise Lost.<br>
-            Book VIII.<br>
+            Paradise Lost.<br><br>
+            Book VIII.<br><br>
             
 </div>
 
@@ -12061,8 +12401,8 @@
             
             <br>
             
-            Paradise Lost.<br>
-            Book IX.<br>
+            Paradise Lost.<br><br>
+            Book IX.<br><br>
             
 </div>
 
@@ -12386,12 +12726,22 @@
                   across the top margin of page 81</span><br><br><span class="noteContent">
                   
                   Satan having entered the Serpent, and inform'd his brutal sense - might seem seem
-                  [sic] sufficient - but Milton goes on "<a href="#kpl272">but his sleep disturb'd not</a>' &amp;c. Whose spirit does not ache at the smothering and confinement—the unwilling stillness--the
-                  '<a href="#kpl272">waiting close</a>'? Whose head is not dizzy at the prosiable speculations of satan in this serpent
+                  [sic] sufficient - but Milton goes on "<span class="single_underline ">but his sleep disturb'd not</span>' &amp;c. Whose spirit does not ache at the smothering and confinement—the unwilling stillness--the
+                  '<span class="single_underline ">waiting close</span>'? Whose head is not dizzy at the prosiable speculations of satan in this serpent
                   prison— - - no passage of poetry ever can give a greater pain of suffocation. 
                   
                   
                   
+                  </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">As other editors note, Keats's “prosiable” appears to be a combination of “probable” and “possible” (compare Forman 5: 305;
+                  Barnard 526; Cook 614).  Wolfson suggests that Keats may also have had in mind “‘prosy’
+                  (wearisome)” (237).  Keats may have begun writing with one word in mind and then switched
+                  to the other, or he may have intentionally coined a new term to express his meaning.<br><br>
+                  Both W. J. Bate (254) and Meg Williams (117) cite Keats's note as illustrative of
+                  his gift for empathy or “negative capability.” Nicola Trott, however, points out that
+                  Satan does not lose his own identity as he takes on the form of the serpent but instead
+                  retains his own consciousness and finds the experience of inhabiting another body
+                  oppressive (“Keats and the Prison House” 263-64).  Allott (411) compares this note to <span class="italic_text ">Hyperion</span> 1.258-63; Cook (614) suggests a comparison to The Eve of St. Agnes 17-18.<br><br>
                   </span><br><br></div>
             
             That to the height of deity aspired!<br>
@@ -12453,12 +12803,22 @@
                   across the top margin of page 81</span><br><br><span class="noteContent">
                   
                   Satan having entered the Serpent, and inform'd his brutal sense - might seem seem
-                  [sic] sufficient - but Milton goes on "<a href="#kpl272">but his sleep disturb'd not</a>' &amp;c. Whose spirit does not ache at the smothering and confinement—the unwilling stillness--the
-                  '<a href="#kpl272">waiting close</a>'? Whose head is not dizzy at the prosiable speculations of satan in this serpent
+                  [sic] sufficient - but Milton goes on "<span class="single_underline ">but his sleep disturb'd not</span>' &amp;c. Whose spirit does not ache at the smothering and confinement—the unwilling stillness--the
+                  '<span class="single_underline ">waiting close</span>'? Whose head is not dizzy at the prosiable speculations of satan in this serpent
                   prison— - - no passage of poetry ever can give a greater pain of suffocation. 
                   
                   
                   
+                  </span><br><br></div>
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">As other editors note, Keats's “prosiable” appears to be a combination of “probable” and “possible” (compare Forman 5: 305;
+                  Barnard 526; Cook 614).  Wolfson suggests that Keats may also have had in mind “‘prosy’
+                  (wearisome)” (237).  Keats may have begun writing with one word in mind and then switched
+                  to the other, or he may have intentionally coined a new term to express his meaning.<br><br>
+                  Both W. J. Bate (254) and Meg Williams (117) cite Keats's note as illustrative of
+                  his gift for empathy or “negative capability.” Nicola Trott, however, points out that
+                  Satan does not lose his own identity as he takes on the form of the serpent but instead
+                  retains his own consciousness and finds the experience of inhabiting another body
+                  oppressive (“Keats and the Prison House” 263-64).  Allott (411) compares this note to <span class="italic_text ">Hyperion</span> 1.258-63; Cook (614) suggests a comparison to The Eve of St. Agnes 17-18.<br><br>
                   </span><br><br></div>
             
             The hands' dispatch of two gardening so wide; <br>
@@ -13312,7 +13672,7 @@
             <br>
             <div class="pageWrapper" id="kpl289">
             
-            <div class="pageNumber" style="visibility: hidden;">image</div>
+            <div class="pageNumber" style="visibility: hidden;">kpl2.96image</div>
 
 <br>
             
@@ -13969,8 +14329,8 @@
             
             <br>
             
-            Paradise Lost.<br>
-            Book X.<br>
+            Paradise Lost.<br><br>
+            Book X.<br><br>
             
 </div>
 
@@ -15312,7 +15672,7 @@
             
             <br>
             
-            <span class="single_underline ">Outstretch'd he lay, on the cold ground;  and oft</span><br>
+            <span class="single_underline ">Outstretch'd he lay, on the cold ground; and oft</span><br>
             <span class="single_underline ">Cursed his creation</span>; Death as oft accused <br>
             Of tardy execution, since denounced <br>
             The day of his offence. Why comes not Death, <br>
@@ -15710,8 +16070,8 @@
             
             <br>
             
-            Paradise Lost.<br>
-            Book XI.<br>
+            Paradise Lost.<br><br>
+            Book XI.<br><br>
             
 </div>
 
@@ -17033,6 +17393,15 @@
             
             <br>
             
+            
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  What should be p. 169 is numbered 171 in Keats’s edition.  Subsequent pages continue
+                  with the new numbering sequence through p. 182, which is then followed by pages numbered
+                  173-83.
+                  
+                  </span><br><br></div>
+            
             <span class="single_underline ">With soft foot towards the Deep</span>; who now had stopt<br>
             His sluices, as the Heaven his windows shut. <br>
             The ark no more now floats, but seems on ground, <br>
@@ -17123,8 +17492,8 @@
             
             <br>
             
-            Paradise Lost.<br>
-            Book XII.<br>
+            Paradise Lost.<br><br>
+            Book XII.<br><br>
             
 </div>
 
@@ -17584,6 +17953,15 @@
             </a></div>
             
             <br>
+            
+            
+            <div class="writtenNote"><span class="noteHeader">Editorial Note</span><br><br><span class="noteContent">
+                  
+                  As explained in the previous editorial note, the page numbering is erratic in this
+                  section of Keats’s edition of <span class="italic_text ">Paradise Lost</span>.  After p. 168, pages are numbered 171-82, 173-83.  There are no pages numbered 169
+                  or 170 in vol. 2 of Keats’s edition.
+                  
+                  </span><br><br></div>
             
             Erewhile perplex'd with thoughts, what would become <br>
             Of me and all mankind: But now I see<br>
@@ -18126,6 +18504,8 @@
             <br>
             
             
+            
+            
 </div>
 
 <br>
@@ -18177,7 +18557,7 @@
             
             <br>
             
-            [Blank]<br>
+            [Blank]<br><br>
             
 </div>
 
@@ -18196,7 +18576,7 @@
             
             <br>
             
-            [Blank]<br>
+            [Blank]<br><br>
             
 </div>
 
@@ -18215,7 +18595,7 @@
             
             <br>
             
-            [Blank page, marbling]<br>
+            [Blank page, marbling]<br><br>
             
 </div>
 
@@ -18234,7 +18614,7 @@
             
             <br>
             
-            [Blank page, marbling]<br>
+            [Blank page, marbling]<br><br>
             
 </div>
 
@@ -18253,7 +18633,7 @@
             
             <br>
             
-            [Back cover]<br>
+            [Back cover]<br><br>
             </div>
          </div>
       </div>

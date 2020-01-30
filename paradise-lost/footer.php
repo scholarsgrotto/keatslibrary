@@ -9,7 +9,7 @@
 			&emsp;&emsp;&emsp;
 			<a href="https://library.nd.edu"><img src="images/hesburghlogo.jpg" alt="Hesburgh Libraries, University of Notre Dame" title="Hesburgh Libraries"></a>
 			&emsp;&emsp;&emsp;
-			<a href="http://www.tei-c.org/"><img src="images/TEI-400.jpg" alt="Link to the Text Encoding Initiative, whose standards were used for this encoding" title="TEI" style="width:64px;height:64px;" align="middle"></a>
+			<a href="http://www.tei-c.org/"><img src="images/TEI-400.jpg" alt="Link to the Text Encoding Initiative, whose standards were used for this encoding" title="TEI" style="width:64px;height:64px; align:middle"></a>
 
 		</div>
 
