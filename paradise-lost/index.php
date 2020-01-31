@@ -20,9 +20,9 @@
                
                ... <a href="keats_zotero_bib.php" title="Works Cited">View works cited</a><br>
                
-               ... <a href="https://github.com/scholarsgrotto/keatslibrary/blob/master/paradise-lost/documentation/pl_technical.md" title="Technical Introduction">View technical introduction</a> by Dan Johnson<br>
+               ... <a href="https://github.com/scholarsgrotto/keatslibrary/blob/master/paradise-lost/documentation/pl_technical.md" title="Technical Introduction">View technical introduction</a> by Daniel Johnson<br>
                
-               ... <a href="https://github.com/scholarsgrotto/keatslibrary/blob/master/paradise-lost/documentation/pl_encoding_principles.md" title="Technical Introduction">View documentation on encoding principals</a> by Dan Johnson<br>
+               ... <a href="https://github.com/scholarsgrotto/keatslibrary/blob/master/paradise-lost/documentation/pl_encoding_principles.md" title="Technical Introduction">View documentation on encoding principals</a> by Daniel Johnson<br>
                
                ... <a href="#contrib" title="Contributors">View contributors</a><br><br></p><br><h3 id="schol_in">Scholarly Introduction</h3>Keats’s two-volume, 1807 copy of Milton’s <span class="titleAttribution">Paradise Lost</span> is one of the most valuable of the poet’s surviving books.  H. J. Jackson claims
             that only two of Keats’s annotated books contain notes that offer “serious critical commentary:” his <span class="titleAttribution">Paradise Lost</span> and his folio Shakespeare (191).
