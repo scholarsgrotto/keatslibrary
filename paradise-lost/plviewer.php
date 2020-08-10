@@ -494,8 +494,12 @@ $(document).ready(function(){
 
 		rulerSelection = ( $(this).find("option:selected").attr('value') ); 
 
-		// Open the appropriate ruler page in new tab/window
-		window.open(rulerSelection, '_blank');
+		if (rulerSelection != "null"){
+
+			// Open the appropriate ruler page in new tab/window
+			window.open(rulerSelection, '_blank');
+			
+		}
 
 	});
 	
