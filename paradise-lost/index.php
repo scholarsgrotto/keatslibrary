@@ -14,7 +14,7 @@
                     <?php include '../head.php';?>
                     </div>
       <div id="pageWrapper">
-         <div id="contentWrapper"><span style="font-size:135%;font-weight:bold;">Keats's Paradise Lost: a Digital Edition </span><br><span class="usageText" style="color:red;">Release Candidate 3, last updated January 30, 2020</span><p><a href="plviewer.php"><img src="images/pl-small-title.jpg" alt="Link to the Keats copy of Paradise Lost" title="Open Keats's Paradise Lost" align="middle" style="margin:0px 10px 0px 0px;float:left;"></a><br><span style="font-size:120%"><a href="plviewer.php" title="Paradise Lost">OPEN Keats's <span class="titleAttribution">Paradise Lost</span></a></span><br><br>
+         <div id="contentWrapper"><span style="font-size:135%;font-weight:bold;">Keats's Paradise Lost: a Digital Edition </span><br><span class="usageText" style="color:red;">1.0.0, last updated August 10, 2020</span><p><a href="plviewer.php"><img src="images/pl-small-title.jpg" alt="Link to the Keats copy of Paradise Lost" title="Open Keats's Paradise Lost" align="middle" style="margin:0px 10px 0px 0px;float:left;"></a><br><span style="font-size:120%"><a href="plviewer.php" title="Paradise Lost">OPEN Keats's <span class="titleAttribution">Paradise Lost</span></a></span><br><br>
                
                ... <a href="#schol_in" title="Scholarly Introduction">View scholarly introduction</a> by Beth Lau<br>
                

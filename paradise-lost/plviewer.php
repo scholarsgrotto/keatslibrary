@@ -488,6 +488,16 @@ $(document).ready(function(){
 
 
 	});
+
+	//Detect when we've selected a new book
+	$('#rulerSelect').change(function(){
+
+		rulerSelection = ( $(this).find("option:selected").attr('value') ); 
+
+		// Open the appropriate ruler page in new tab/window
+		window.open(rulerSelection, '_blank');
+
+	});
 	
 
 	
@@ -553,6 +563,18 @@ $(document).ready(function(){
 			<option value="10">Book 10</option>
 			<option value="11">Book 11</option>
 			<option value="12">Book 12</option>
+		</select>
+
+
+		&ensp;
+
+
+		Ruler/Color Card: 
+
+		<select id="rulerSelect">
+			<option value="null"></option>
+			<option value="https://curate.nd.edu/downloads/9c67wm14b20">Volume 1</option>
+			<option value="https://curate.nd.edu/downloads/9593tt47s04">Volume 2</option>
 		</select>
 
 		<br/>

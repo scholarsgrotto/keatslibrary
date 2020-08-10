@@ -999,7 +999,7 @@
             <span class="single_underline ">Hurl'd headlong flaming from the ethereal sky,</span><br>
             <span class="single_underline ">With hideous ruin and combustion, down</span><br>
             <span class="single_underline ">To bottomless perdition, there to dwell</span><br>
-            <span class="single_underline ">In adamantine chaims and penal fire,</span><br>
+            <span class="single_underline ">In adamantine chains and penal fire,</span><br>
             <span class="single_underline ">Who durst defy the Omnipotent to arms</span>.<br>
             Nine times the space that measures day and night<br>
             To mortal men, he with his horrid crew<br>
@@ -1057,7 +1057,7 @@
             <span class="single_underline ">The dismal situation waste and wild;</span><br>
             A dungeon horrible on all sides round<br>
             As one great furnace flamed, yet from those flames<br>
-            No light, but rather darkenss visible<br>
+            No light, but rather darkness visible<br>
             Serv'd only to discover <span class="single_underline ">sights of woe,</span><br>
             <span class="single_underline ">Regions of sorrow, doleful shades, where peace</span><br>
             <span class="single_underline ">And rest can never dwell; hope never comes</span><br>
@@ -1407,7 +1407,7 @@
             Of some great admiral, were but a wand,<br>
             He walk'd with to support uneasy steps<br>
             <span class="single_underline ">Over the burning marle; not like those steps</span><br>
-            <span class="single_underline ">On Heaven's azure, and the the torrid clime</span><br>
+            <span class="single_underline ">On Heaven's azure, and the torrid clime</span><br>
             <span class="single_underline ">Smote on him sore besides, vaulted with fire</span>:<br>
             Nathless he so endured, till on the beach<br>
             Of that inflamed sea he stood, and call'd <br>
@@ -1556,7 +1556,7 @@
             Forthwith from every squadron and each band<br>
             The heads and leaders thither haste, where stood<br>
             Their great commander; godlike shapes and forms<br>
-            Excelling human, pricely dignities,<br>
+            Excelling human, princely dignities,<br>
             And powers that erst in Heaven sat on thrones;<br>
             Though of their names in heavenly records now<br>
             Be no memorial, blotted out and rased<br>
@@ -1564,7 +1564,7 @@
             Nor had they yet among the sons of Eve<br>
             Got them new names, till wandering o'er the earth,<br>
             Through God's high sufferance for the trial of man,<br>
-            By falsitites and lies the greatest part<br>
+            By falsities and lies the greatest part<br>
             Of mankind they corrupted to forsake<br>
             God their Creator, and the invisible<br>
             Glory of him that made them to transform<br>
@@ -2275,7 +2275,7 @@
             <span class="single_underline ">The great Seraphic Lords and Cherubim</span><br>
             <span class="single_underline ">In close recess, and secret conclave sat;</span><br>
             <span class="single_underline ">A thousand Demi-gods on golden seats,</span><br>
-            <span class="single_underline ">Frequent and full</span>.  After short selence then<br>
+            <span class="single_underline ">Frequent and full</span>.  After short silence then<br>
             And summons read, the great consult began.<br>
             
 </div>
@@ -2845,7 +2845,7 @@
             Beyond his potent arm, to live exempt<br>
             From Heaven's high jurisdiction, in new league<br>
             Banded against his throne, but to remain<br>
-            In strictest bondange, though thus far removed<br>
+            In strictest bondage, though thus far removed<br>
             Under the inevitable curb, reserved<br>
             His captive multitude: for he, be sure,<br>
             In heighth or depth, still first and last will reign<br>
@@ -2867,7 +2867,7 @@
             In doing what we most in suffering feel?<br>
             Nor will occasion want, nor shall we need<br>
             With dangerous expedition to invade<br>
-            Heaven, whose high walls fear no assualt or siege,<br>
+            Heaven, whose high walls fear no assault or siege,<br>
             Or ambush from the deep.  What if we find<br>
             Some easier enterprise?  There is a place,<br>
             
@@ -3004,7 +3004,7 @@
             Astonish'd:  None among the choice and prime<br>
             Of those Heaven-warring champions could be found<br>
             So hardy as to proffer or accept<br>
-            Alone, the dreaful voyage; till at last<br>
+            Alone, the dreadful voyage; till at last<br>
             Satan, whom now transcendent glory raised<br>
             Above his fellows, with monarchial pride,<br>
             Conscious of highest worth, unmoved thus spake.<br>
@@ -4087,10 +4087,10 @@
             a place, since called the Limbo of vanity; what persons and things fly up thither:
             thence comes to the gate of Heaven, described ascending by stairs, and the waters
             above the firmament that flow about it: His passage thence to the orb of the sun;
-            he finds there Uriel the regent of that orb, but first changes himeself into the shape
+            he finds there Uriel the regent of that orb, but first changes himself into the shape
             of a meaner Angel: and pretending a zealous desire to behold the new creation, and
-            Man whom God had placed here, inqures of him the place of his habitation, and is directed:
-            alights first on mount Niphates.</span><br>
+            Man whom God had placed here, inquires of him the place of his habitation, and is
+            directed: alights first on mount Niphates.</span><br>
 </div>
 
 <br>
@@ -4283,7 +4283,7 @@
             And Man there placed, with purpose to assay<br>
             If him by force he can destroy, or worse,<br>
             By some false guile pervert; and shall pervert,<br>
-            For Man will hearken to his glosing lies,<br>
+            For Man will hearken to his glozing lies,<br>
             And easily transgress the sole command,<br>
             
 </div>
@@ -5583,7 +5583,7 @@
             Him counterfeit, if any eye beheld:<br>
             For heavenly minds from such distempers foul<br>
             Are ever clear.  Whereof he soon aware,<br>
-            Each pertubation smooth'd with outward calm,<br>
+            Each perturbation smooth'd with outward calm,<br>
             Artificer of fraud; and was the first<br>
             That practised falsehood under saintly show,<br>
             Deep malice to conceal, couch'd with revenge:<br>
@@ -5684,7 +5684,7 @@
             Of hill or highest wall, and sheer within<br>
             Lights on his feet.  As when a prowling wolf,<br>
             Whom hunger drives to seek new haunt for prey,<br>
-            <span class="single_underline ">Watching where shpherds pen their flocks at eve</span><br>
+            <span class="single_underline ">Watching where shepherds pen their flocks at eve</span><br>
             <span class="single_underline ">In hurdled cotes amid the field secure,</span><br>
             <span class="single_underline ">Leaps o'er the fence with ease into the fold</span>;<br>
             Or as a thief bent to unhoard the cash<br>
@@ -5752,7 +5752,7 @@
             Which from his darksome passage now appears,<br>
             And now divided into four main streams,<br>
             Runs diverse, wandering many a famous realm<br>
-            And country, wherof here needs no account;<br>
+            And country, whereof here needs no account;<br>
             But rather to tell how, if Art could tell,<br>
             <span class="single_underline ">How from that sapphire fount the crisped brooks,</span><br>
             <span class="single_underline ">Rolling on orient pearl and sands of gold,</span><br>
@@ -6316,7 +6316,7 @@
             <span class="single_underline ">Alien from Heaven,</span> with passions foul obscured;<br>
             Mine eye pursued him still, but under shade<br>
             Lost sight of him: one of the banish'd crew,<br>
-            I fear, hath ventued from the deep, to raise<br>
+            I fear, hath ventured from the deep, to raise<br>
             New troubles; him thy care must be to find.<br>
             <span class="tab_space">   </span>   To whom the winged warrior thus return'd.<br>
             Uriel! no wonder if thy perfect sight,<br>
@@ -6707,7 +6707,7 @@
             For you; there sitting where ye durst not soar:<br>
             Not to know me argues yourselves unknown,<br>
             The lowest of your throng; or if ye know,<br>
-            Why ask ye, and superflous begin<br>
+            Why ask ye, and superfluous begin<br>
             Your message, like to end as much in vain?<br>
             <span class="tab_space">   </span>   To whom thus Zephon, answering scorn with scorn.<br>
             Think not, revolted Spirit! thy shape the same,<br>
@@ -7571,7 +7571,7 @@
             To us perhaps he brings, and will vouchsafe<br>
             This day to be our guest.  But go with speed,<br>
             And what thy stores contain bring forth, and pour<br>
-            Abudance, fit to honour and receive<br>
+            Abundance, fit to honour and receive<br>
             Our heavenly stranger: Well we may afford<br>
             Our givers their own gifts, and large bestow<br>
             From large bestow'd, where Nature multiplies<br>
@@ -7978,7 +7978,7 @@
             Of Angels by imperial summons call'd,<br>
             Innumerable before the Almighty's throne,<br>
             Forthwith from all the ends of Heaven appear'd<br>
-            Under their Heirarchs in orders bright:<br>
+            Under their Hierarchs in orders bright:<br>
             <span class="single_underline ">Ten thousand thousand ensigns high advanced,</span><br>
             <span class="single_underline ">Standards, and gonfalons 'twixt van and rear</span><br>
             <span class="single_underline ">Stream in the air</span>, and for distinction serve<br>
@@ -8091,7 +8091,7 @@
             In favour and pre-eminence, yet fraught<br>
             With envy against the Son of God, that day<br>
             Honour'd by his great Father, and proclaim'd<br>
-            Messiah King annointed, could not bear<br>
+            Messiah King anointed, could not bear<br>
             Through pride that sight, and thought himself impair'd.<br>
             Deep malice thence conceiving, and disdain,<br>
             Soon as midnight brought on the dusky hour<br>
@@ -9058,7 +9058,7 @@
             Abdiel that sight indured not, where he stood<br>
             Among the mightiest, bent on highest deeds,<br>
             And thus his own undaunted heart explores.<br>
-            <span class="tab_space">   </span>   O Heaven! that such resemblance of the Hightest<br>
+            <span class="tab_space">   </span>   O Heaven! that such resemblance of the Highest<br>
             Should yet remain, where faith and realty <br>
             Remain not: Wherefore should not strength and might<br>
             There fail where virtue fails, or weakest prove<br>
@@ -9119,7 +9119,7 @@
             Of this right hand provoked, since first that tongue,<br>
             Inspired with contradiction, durst oppose<br>
             A third part of the Gods, in synod met<br>
-            Their dieties to assert, who, while they feel<br>
+            Their deities to assert, who, while they feel<br>
             Vigour divine within them, can allow<br>
             Omnipotence to none.  But well thou comest<br>
             Before thy fellows, ambitious to win<br>
@@ -9147,7 +9147,7 @@
             
             <br>
             
-            Minstering Spirits, train'd up in feast and song;<br>
+            Ministering Spirits, train'd up in feast and song;<br>
             Such hast thou arm'd, the minstrelsy of Heaven,<br>
             Servility with freedom to contend,<br>
             As both their deeds compared this day shall prove.<br>
@@ -9380,7 +9380,7 @@
             <span class="left_vertical ">But with swift wheel reverse, deep entering, shared</span><br>
             <span class="left_vertical ">All his right side: then Satan first knew pain,</span><br>
             <span class="left_vertical ">And writhed him to and fro convolved; <span class="single_underline ">so sore</span></span><br>
-            <span class="left_vertical "><span class="single_underline ">The griding sword with discontinous wound</span></span><br>
+            <span class="left_vertical "><span class="single_underline ">The griding sword with discontinuous wound</span></span><br>
             <span class="left_vertical "><span class="single_underline ">Pass'd thro' him</span>; but the etherial substance closed,</span><br>
             <span class="left_vertical ">Not long divisible; and from the gash</span><br>
             A stream of nectarous humour issuing flow'd<br>
@@ -11954,7 +11954,7 @@
             Presence divine. Rejoicing, but with awe,<br>
             In adoration at his feet I fell<br>
             Submiss: he rear'd me, and "Whom thou soughtst I am,"<br>
-            Said mildy, "Author of all this thou seest<br>
+            Said mildly, "Author of all this thou seest<br>
             "Above, or round about thee, or beneath.<br>
             "This Paradise I give thee, count it thine<br>
             "To till and keep, and of the fruit to eat:<br>
@@ -11963,7 +11963,7 @@
             "But of the tree whose operation brings<br>
             "Knowledge of good and ill, which I have set<br>
             "The pledge of thy obedience and thy faith,<br>
-            "Amid the garden by the gree of life,<br>
+            "Amid the garden by the tree of life,<br>
             "Remember what I warn thee, shun to taste,<br>
             "And shun the bitter consequence: for know,<br>
             "The day thou eatst thereof, my sole command<br>
@@ -14401,7 +14401,7 @@
             No evil durst attempt thee; but I rue<br>
             That error now, which is become my crime, <br>
             And thou the accuser.  Thus it shall befall<br>
-            Him who to worth in woman overthrusting, <br>
+            Him who to worth in woman overtrusting, <br>
             Lets her will rule; restraint she will not brook; <br>
             And left to herself, if evil thence ensue, <br>
             She first his weak indulgence will accuse. <br>
@@ -15784,7 +15784,7 @@
             And horrors hast thou driven me; out of which<br>
             I find no way, from deep to deeper plunged!<br>
             <span class="tab_space">   </span>   Thus Adam to himself lamented loud<br>
-            Through the still night: now now, as ere Man fell, <br>
+            Through the still night: not now, as ere Man fell, <br>
             Wholesome, and cool, and mild, but with black air<br>
             Accompanied, with damps, and dreadful gloom; <br>
             Which to his evil conscience represented <br>
@@ -17658,8 +17658,8 @@
             the mention of Abraham, comes by degrees to explain, who that Seed of the Woman shall
             be, which was promised Adam and Eve in the Fall; his incarnation, death, resurrection,
             and ascension: the state of the church till his second coming. Adam, greatly satisfied
-            and recomforted by these relations adn promises, descends the hill with Michael: wakens
-            Even, who all this while had slept, but with gentle dreams composed to quietness of
+            and recomforted by these relations and promises, descends the hill with Michael: wakens
+            Eve, who all this while had slept, but with gentle dreams composed to quietness of
             mind and submission. Michael in either hand leads them out of Paradise, the fiery
             sword waving behind them, and the Cherubim taking their stations to guard the place.</span><br>
 </div>
@@ -17752,7 +17752,7 @@
             Upon their tongues, a various spirit, to rase<br>
             Quite out their native language; and, instead,<br>
             To sow a jangling noise of words unknown:<br>
-            Forwith a hideous gabble rises loud,<br>
+            Forthwith a hideous gabble rises loud,<br>
             Among the builders; each to other calls<br>
             Not understood; till hoarse, and all in rage,<br>
             
@@ -18389,7 +18389,7 @@
             <span class="tab_space">   </span>   So spake the Arch-Angel Michael; then paused,<br>
             As at the world's great period; and our Sire<br>
             Replete with joy and wonder, thus replied.<br>
-            <span class="tab_space">   </span>  O Goodness infite, Goodness immense!<br>
+            <span class="tab_space">   </span>  O Goodness infinite, Goodness immense!<br>
             That all this good of evil shall produce,<br>
             And evil turn to good; more wonderful<br>
             Than that which by creation first brought forth<br>
@@ -18542,7 +18542,7 @@
             Merciful over all his works, with good<br>
             Still overcoming evil, and by small<br>
             Accomplishing great things, by things deem'd weak<br>
-            Subverting worldly strong, and wordly wise<br>
+            Subverting worldly strong, and worldly wise<br>
             By simply meek; that suffering for truth's sake<br>
             Is fortitude to highest victory,<br>
             And, to the faithful, death the gate of life;<br>
@@ -18570,7 +18570,7 @@
             <span class="single_underline ">In signal of remove, waves fiercely round;</span><br>
             We may no longer stay: go, waken Eve:<br>
             Her also I with gentle dreams have calm'd<br>
-            Portending good, and all her spirts composed<br>
+            Portending good, and all her spirits composed<br>
             To meek submission; thou, at season fit,<br>
             Let her with thee partake what thou hast heard;<br>
             
@@ -18776,8 +18776,7 @@
             <br>
             
             [Back cover]<br><br>
-            </div>
-         </div>
+            </div></div>
       </div>
    </body>
 </html>

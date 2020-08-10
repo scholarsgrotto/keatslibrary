@@ -72,6 +72,15 @@
      
      <revisionDesc>
         
+        <change who="#DJJ" when="2020-08-10" n="1.0.0">
+           <label>Changed by</label>
+           <name>Daniel J. Johnson</name>
+           <list>
+              <item>Corrected spelling typos throughout.</item>
+              <item>Technically doesn't effect this XML file, but added to the web front end links to the ruler / color card for each volume.</item>
+           </list>
+        </change>
+        
         <change who="#DJJ" when="2020-01-30" n="RC-03">
            <label>Changed by</label>
            <name>Daniel J. Johnson</name>
@@ -567,7 +576,7 @@
          <l>Hurl'd headlong flaming from the ethereal sky,</l>
          <l>With hideous ruin and combustion, down</l>
          <l>To bottomless perdition, there to dwell</l>
-         <l>In adamantine chaims and penal fire,</l>
+         <l>In adamantine chains and penal fire,</l>
          <l>Who durst defy the Omnipotent to arms<anchor xml:id="kpl1.004.0049"/>.</l>
          <l>Nine times the space that measures day and night</l>
          <l>To mortal men, he with his horrid crew</l>
@@ -598,7 +607,7 @@
          <l>The dismal situation waste and wild;<anchor xml:id="kpl1.005.0060"/></l>
          <l>A dungeon horrible on all sides round</l>
          <l>As one great furnace flamed, yet from those flames</l>
-         <l>No light, but rather darkenss visible</l>
+         <l>No light, but rather darkness visible</l>
          <l>Serv'd only to discover <mod rend="su" spanTo="#kpl1.005.0067"/>sights of woe,</l>
          <l>Regions of sorrow, doleful shades, where peace</l>
          <l>And rest can never dwell; hope never comes</l>
@@ -958,7 +967,7 @@
          <l>Of some great admiral, were but a wand,</l>
          <l>He walk'd with to support uneasy steps</l>
          <l><mod rend="su" spanTo="#kpl1.011.0298"/>Over the burning marle; not like those steps</l>
-         <l>On Heaven's azure, and the the torrid clime</l>
+         <l>On Heaven's azure, and the torrid clime</l>
          <l>Smote on him sore besides, vaulted with fire<anchor xml:id="kpl1.011.0298"/>:</l>
          <l>Nathless he so endured, till on the beach</l>
          <l>Of that inflamed sea he stood, and call'd </l>
@@ -1054,7 +1063,7 @@
          <l>Forthwith from every squadron and each band</l>
          <l>The heads and leaders thither haste, where stood</l>
          <l>Their great commander; godlike shapes and forms</l>
-         <l>Excelling human, pricely dignities,</l>
+         <l>Excelling human, princely dignities,</l>
          <l>And powers that erst in Heaven sat on thrones;</l>
          <l>Though of their names in heavenly records now</l>
          <l>Be no memorial, blotted out and rased</l>
@@ -1062,7 +1071,7 @@
          <l>Nor had they yet among the sons of Eve</l>
          <l>Got them new names, till wandering o'er the earth,</l>
          <l>Through God's high sufferance for the trial of man,</l>
-         <l>By falsitites and lies the greatest part</l>
+         <l>By falsities and lies the greatest part</l>
          <l>Of mankind they corrupted to forsake</l>
          <l>God their Creator, and the invisible</l>
          <l>Glory of him that made them to transform</l>
@@ -1122,7 +1131,7 @@
          <l>Of southmost Abarim; in Hesebon</l>
          <l>And Horoniam, Seon's realm, beyond</l>
          <l>The flowery dale of Sibma clad with vines,</l>
-         <l>And Eleale to the Asphaltic pool<anchor xml:id="kpl1.014.0411"/>.</l>
+         <l>And Eleale to the Asphaltic pool<anchor xml:id="kpl1.014.0411"/>.</l> <!--Dieresis over a in Eleale-->
          <l>Peor his other name, when he enticed</l>
          <l>Israel in Sittim on their march from Nile</l>
          <l>To do him wanton rites, which cost them woe.</l>
@@ -1685,7 +1694,7 @@
          <l>The great Seraphic Lords and Cherubim</l>
          <l>In close recess, and secret conclave sat;</l>
          <l>A thousand Demi-gods on golden seats,</l>
-         <l>Frequent and full<anchor xml:id="kpl1.025.0797"/>.  After short selence then</l>
+         <l>Frequent and full<anchor xml:id="kpl1.025.0797"/>.  After short silence then</l>
          <l>And summons read, the great consult began.</l>
          
       </lg>
@@ -2220,7 +2229,7 @@
          <l>Beyond his potent arm, to live exempt</l>
          <l>From Heaven's high jurisdiction, in new league</l>
          <l>Banded against his throne, but to remain</l>
-         <l>In strictest bondange, though thus far removed</l>
+         <l>In strictest bondage, though thus far removed</l>
          <l>Under the inevitable curb, reserved</l>
          <l>His captive multitude: for he, be sure,</l>
          <l>In heighth or depth, still first and last will reign</l>
@@ -2242,7 +2251,7 @@
          <l>In doing what we most in suffering feel?</l>
          <l>Nor will occasion want, nor shall we need</l>
          <l>With dangerous expedition to invade</l>
-         <l>Heaven, whose high walls fear no assualt or siege,</l>
+         <l>Heaven, whose high walls fear no assault or siege,</l>
          <l>Or ambush from the deep.  What if we find</l>
          <l>Some easier enterprise?  There is a place,</l>
          
@@ -2377,7 +2386,7 @@
          <l>Astonish'd:  None among the choice and prime</l>
          <l>Of those Heaven-warring champions could be found</l>
          <l>So hardy as to proffer or accept</l>
-         <l>Alone, the dreaful voyage; till at last</l>
+         <l>Alone, the dreadful voyage; till at last</l>
          <l>Satan, whom now transcendent glory raised</l>
          <l>Above his fellows, with monarchial pride,</l>
          <l>Conscious of highest worth, unmoved thus spake.</l>
@@ -3362,7 +3371,7 @@
       <pb n="paratextl" type="argument" facs="dz010p1222q"/>
          
          <p rend="italic">ARGUMENT.</p>
-         <p rend="italic">God, sitting on his throne, sees Satan flying towards this world, then newly created; shews him to the Son who sat at his right hand; foretells the success of Satan in perverting mankind; clears his own justice and wisdom from all imputation, having created Man free, and able enough to have withstood his tempter; yet declares his purpose of grace towards him, in regard he fell not of his own malice, as did Satan, but by him seduced. The Son of God renders praises to his Father for the manifestation of his gracious purpose towards Man: but God again declares, that Grace cannot be extended towards Man without the satisfaction of divine justice: Man hath offended the majesty of God by aspiring to Godhead, and therefore, with all his progeny, devoted to death, must die, unless some one can be found sufficient to answer for his offence, and undergo his punishment. The Son of God freely offers himself a ransom for Man; the Father accepts him, ordains his incarnation, pronounces his exaltation above all names in Heaven and Earth; commands all the Angels to adore him; they obey, and hymning to their harps in full quire, celebrate the Father and the Son. Meanwhile Satan alights upon the bare convex of this world's outermost orb; where wandering he first finds a place, since called the Limbo of vanity; what persons and things fly up thither: thence comes to the gate of Heaven, described ascending by stairs, and the waters above the firmament that flow about it: His passage thence to the orb of the sun; he finds there Uriel the regent of that orb, but first changes himeself into the shape of a meaner Angel: and pretending a zealous desire to behold the new creation, and Man whom God had placed here, inqures of him the place of his habitation, and is directed: alights first on mount Niphates.</p>
+         <p rend="italic">God, sitting on his throne, sees Satan flying towards this world, then newly created; shews him to the Son who sat at his right hand; foretells the success of Satan in perverting mankind; clears his own justice and wisdom from all imputation, having created Man free, and able enough to have withstood his tempter; yet declares his purpose of grace towards him, in regard he fell not of his own malice, as did Satan, but by him seduced. The Son of God renders praises to his Father for the manifestation of his gracious purpose towards Man: but God again declares, that Grace cannot be extended towards Man without the satisfaction of divine justice: Man hath offended the majesty of God by aspiring to Godhead, and therefore, with all his progeny, devoted to death, must die, unless some one can be found sufficient to answer for his offence, and undergo his punishment. The Son of God freely offers himself a ransom for Man; the Father accepts him, ordains his incarnation, pronounces his exaltation above all names in Heaven and Earth; commands all the Angels to adore him; they obey, and hymning to their harps in full quire, celebrate the Father and the Son. Meanwhile Satan alights upon the bare convex of this world's outermost orb; where wandering he first finds a place, since called the Limbo of vanity; what persons and things fly up thither: thence comes to the gate of Heaven, described ascending by stairs, and the waters above the firmament that flow about it: His passage thence to the orb of the sun; he finds there Uriel the regent of that orb, but first changes himself into the shape of a meaner Angel: and pretending a zealous desire to behold the new creation, and Man whom God had placed here, inquires of him the place of his habitation, and is directed: alights first on mount Niphates.</p>
          
          
          
@@ -3503,7 +3512,7 @@
          <l>And Man there placed, with purpose to assay</l>
          <l>If him by force he can destroy, or worse,</l>
          <l>By some false guile pervert; and shall pervert,</l>
-         <l>For Man will hearken to his glosing lies,</l>
+         <l>For Man will hearken to his glozing lies,</l>
          <l>And easily transgress the sole command,</l>
          
          
@@ -4050,7 +4059,7 @@
          <l xml:id="kpl1.073.0431l">As when a vulture on Imaus bred,</l>
          <l>Whose snowy ridge the roving Tartar bounds,</l>
          <l>Dislodging from a region scarce of prey</l>
-         <l>To gorge the flesh of lambs or yeanling kids</l>
+         <l>To gorge the flesh of lambs or yeanling <!--(sic)-->kids</l>
          <l>On hills where flocks are fed, flies toward the springs</l>
          <l>Of Ganges or Hydaspes, Indian streams;</l>
          <l>But in his way lights on the barren plains</l>
@@ -4733,7 +4742,7 @@
          <l>Him counterfeit, if any eye beheld:</l>
          <l>For heavenly minds from such distempers foul</l>
          <l>Are ever clear.  Whereof he soon aware,</l>
-         <l>Each pertubation smooth'd with outward calm,</l>
+         <l>Each perturbation smooth'd with outward calm,</l>
          <l>Artificer of fraud; and was the first</l>
          <l>That practised falsehood under saintly show,</l>
          <l>Deep malice to conceal, couch'd with revenge:</l>
@@ -4827,7 +4836,7 @@
          <l>Of hill or highest wall, and sheer within</l>
          <l>Lights on his feet.  As when a prowling wolf,</l>
          <l>Whom hunger drives to seek new haunt for prey,</l>
-         <l><mod rend="su" spanTo="#kpl1.090.0187"/>Watching where shpherds pen their flocks at eve</l>
+         <l><mod rend="su" spanTo="#kpl1.090.0187"/>Watching where shepherds pen their flocks at eve</l>
          <l>In hurdled cotes amid the field secure,</l>
          <l>Leaps o'er the fence with ease into the fold<anchor xml:id="kpl1.090.0187"/>;</l>
          <l>Or as a thief bent to unhoard the cash</l>
@@ -4889,7 +4898,7 @@
          <l>Which from his darksome passage now appears,</l>
          <l>And now divided into four main streams,</l>
          <l>Runs diverse, wandering many a famous realm</l>
-         <l>And country, wherof here needs no account;</l>
+         <l>And country, whereof here needs no account;</l>
          <l>But rather to tell how, if Art could tell,</l>
          <l xml:id="kpl1.091.0237l"><mod rend="su" spanTo="#kpl1.092.0246"/>How from that sapphire fount the crisped brooks,</l>
          <l>Rolling on orient pearl and sands of gold,</l>
@@ -5394,7 +5403,7 @@
          <l>Alien from Heaven,<anchor xml:id="kpl1.101.0571"/> with passions foul obscured;</l>
          <l>Mine eye pursued him still, but under shade</l>
          <l>Lost sight of him: one of the banish'd crew,</l>
-         <l>I fear, hath ventued from the deep, to raise</l>
+         <l>I fear, hath ventured from the deep, to raise</l>
          <l>New troubles; him thy care must be to find.</l>
          
       </lg>
@@ -5833,7 +5842,7 @@
          <l>For you; there sitting where ye durst not soar:</l>
          <l>Not to know me argues yourselves unknown,</l>
          <l>The lowest of your throng; or if ye know,</l>
-         <l>Why ask ye, and superflous begin</l>
+         <l>Why ask ye, and superfluous begin</l>
          <l>Your message, like to end as much in vain?</l>
          
       </lg>
@@ -6677,7 +6686,7 @@
          <l>To us perhaps he brings, and will vouchsafe</l>
          <l>This day to be our guest.  But go with speed,</l>
          <l>And what thy stores contain bring forth, and pour</l>
-         <l>Abudance, fit to honour and receive</l>
+         <l>Abundance, fit to honour and receive</l>
          <l>Our heavenly stranger: Well we may afford</l>
          <l>Our givers their own gifts, and large bestow</l>
          <l>From large bestow'd, where Nature multiplies</l>
@@ -7114,7 +7123,7 @@
          <l>Of Angels by imperial summons call'd,</l>
          <l>Innumerable before the Almighty's throne,</l>
          <l>Forthwith from all the ends of Heaven appear'd</l>
-         <l>Under their Heirarchs in orders bright:</l>
+         <l>Under their Hierarchs in orders bright:</l>
          <l><mod rend="su" spanTo="#kpl1.133.0590"/>Ten thousand thousand ensigns high advanced,</l>
          <l>Standards, and gonfalons 'twixt van and rear</l>
          <l>Stream in the air<anchor xml:id="kpl1.133.0590"/>, and for distinction serve</l>
@@ -7224,7 +7233,7 @@
          <l>In favour and pre-eminence, yet fraught</l>
          <l>With envy against the Son of God, that day</l>
          <l>Honour'd by his great Father, and proclaim'd</l>
-         <l>Messiah King annointed, could not bear</l>
+         <l>Messiah King anointed, could not bear</l>
          <l>Through pride that sight, and thought himself impair'd.</l>
          <l>Deep malice thence conceiving, and disdain,</l>
          <l>Soon as midnight brought on the dusky hour</l>
@@ -8046,7 +8055,7 @@
          </lg>
          <lg>
             
-            <l>   O Heaven! that such resemblance of the Hightest</l>
+            <l>   O Heaven! that such resemblance of the Highest</l>
             <l>Should yet remain, where faith and realty <!-- "sic" candidate --></l>
             <l>Remain not: Wherefore should not strength and might</l>
             <l>There fail where virtue fails, or weakest prove</l>
@@ -8115,7 +8124,7 @@
             <l>Of this right hand provoked, since first that tongue,</l>
             <l>Inspired with contradiction, durst oppose</l>
             <l>A third part of the Gods, in synod met</l>
-            <l>Their dieties to assert, who, while they feel</l>
+            <l>Their deities to assert, who, while they feel</l>
             <l>Vigour divine within them, can allow</l>
             <l>Omnipotence to none.  But well thou comest</l>
             <l>Before thy fellows, ambitious to win</l>
@@ -8138,7 +8147,7 @@
             
             
          
-            <l>Minstering Spirits, train'd up in feast and song;</l>
+            <l>Ministering Spirits, train'd up in feast and song;</l>
             <l>Such hast thou arm'd, the minstrelsy of Heaven,</l>
             <l>Servility with freedom to contend,</l>
             <l>As both their deeds compared this day shall prove.</l>
@@ -8383,7 +8392,7 @@
             <l>But with swift wheel reverse, deep entering, shared</l>
             <l>All his right side: then Satan first knew pain,</l>
             <l>And writhed him to and fro convolved; <mod rend="su" spanTo="#kpl2.012.0330"/>so sore</l>
-            <l>The griding sword with discontinous wound</l>
+            <l>The griding sword with discontinuous wound</l>
             <l>Pass'd thro' him<anchor xml:id="kpl2.012.0330"/>; but the etherial substance closed,</l>
             <l>Not long divisible; and from the gash<anchor xml:id="kpl2.012.0331eol"/></l>
             <l>A stream of nectarous humour issuing flow'd</l>
@@ -10829,7 +10838,7 @@
             <l>Presence divine. Rejoicing, but with awe,</l>
             <l>In adoration at his feet I fell</l>
             <l>Submiss: he rear'd me, and "Whom thou soughtst I am,"</l>
-            <l>Said mildy, "Author of all this thou seest</l>
+            <l>Said mildly, "Author of all this thou seest</l>
             <l>"Above, or round about thee, or beneath.</l>
             <l>"This Paradise I give thee, count it thine</l>
             <l>"To till and keep, and of the fruit to eat:</l>
@@ -10838,7 +10847,7 @@
             <l>"But of the tree whose operation brings</l>
             <l>"Knowledge of good and ill, which I have set</l>
             <l>"The pledge of thy obedience and thy faith,</l>
-            <l>"Amid the garden by the gree of life,</l>
+            <l>"Amid the garden by the tree of life,</l>
             <l>"Remember what I warn thee, shun to taste,</l>
             <l>"And shun the bitter consequence: for know,</l>
             <l>"The day thou eatst thereof, my sole command</l>
@@ -12286,7 +12295,7 @@
             
          </lg><lg>
             
-            <l>   To whom the guileful Tempter thus replie.</l>
+            <l>   To whom the guileful Tempter thus replie.<!--sic?--></l>
             <l>Empress of this fair world, resplendent Eve!</l>
             <l>Easy to me it is to tell thee all</l>
             <l>What thou commandest; and right thou shouldst be obey'd:</l>
@@ -13247,7 +13256,7 @@
             <l>No evil durst attempt thee; but I rue</l>
             <l>That error now, which is become my crime, </l>
             <l>And thou the accuser.  Thus it shall befall</l>
-            <l>Him who to worth in woman overthrusting, </l>
+            <l>Him who to worth in woman overtrusting, </l>
             <l>Lets her will rule; restraint she will not brook; </l>
             <l>And left to herself, if evil thence ensue, </l>
             <l>She first his weak indulgence will accuse. </l>
@@ -14317,7 +14326,7 @@
             <l>And know not that I call'd and drew them thither</l>
             <l>My Hell-hounds, to lick up the draff and filth</l>
             <l>Which Man's polluting sin with taint hath shed</l>
-            <l>On whatwas pure; till, cramm'd and gorged, night burst</l>
+            <l>On whatwas<!--sic --> pure; till, cramm'd and gorged, night burst</l>
             <l>With suck'd and glutted offal, at one sling</l>
             <l>Of thy victorious arms, well-pleasing Son, </l>
             
@@ -14632,7 +14641,7 @@
          </lg><lg>
             
             <l>   Thus Adam to himself lamented loud</l>
-            <l>Through the still night: now now, as ere Man fell, </l>
+            <l>Through the still night: not now, as ere Man fell, </l>
             <l>Wholesome, and cool, and mild, but with black air</l>
             <l>Accompanied, with damps, and dreadful gloom; </l>
             <l>Which to his evil conscience represented </l>
@@ -16596,7 +16605,7 @@
          <pb n="paratextl" type="argument" facs="7h149p31p8k"/> 
             
             <p rend="italic">ARGUMENT.</p>
-            <p rend="italic">THE Angel Michael continues, from the flood, to relate what shall succeed; then, in the mention of Abraham, comes by degrees to explain, who that Seed of the Woman shall be, which was promised Adam and Eve in the Fall; his incarnation, death, resurrection, and ascension: the state of the church till his second coming. Adam, greatly satisfied and recomforted by these relations adn promises, descends the hill with Michael: wakens Even, who all this while had slept, but with gentle dreams composed to quietness of mind and submission. Michael in either hand leads them out of Paradise, the fiery sword waving behind them, and the Cherubim taking their stations to guard the place.</p>
+            <p rend="italic">THE Angel Michael continues, from the flood, to relate what shall succeed; then, in the mention of Abraham, comes by degrees to explain, who that Seed of the Woman shall be, which was promised Adam and Eve in the Fall; his incarnation, death, resurrection, and ascension: the state of the church till his second coming. Adam, greatly satisfied and recomforted by these relations and promises, descends the hill with Michael: wakens Eve, who all this while had slept, but with gentle dreams composed to quietness of mind and submission. Michael in either hand leads them out of Paradise, the fiery sword waving behind them, and the Cherubim taking their stations to guard the place.</p>
             
             
             
@@ -16687,7 +16696,7 @@
             <l>Upon their tongues, a various spirit, to rase</l>
             <l>Quite out their native language; and, instead,</l>
             <l>To sow a jangling noise of words unknown:</l>
-            <l>Forwith a hideous gabble rises loud,</l>
+            <l>Forthwith a hideous gabble rises loud,</l>
             <l>Among the builders; each to other calls</l>
             <l>Not understood; till hoarse, and all in rage,</l>
             
@@ -17305,7 +17314,7 @@
             
          </lg><lg>
             
-            <l>  O Goodness infite, Goodness immense!</l>
+            <l>  O Goodness infinite, Goodness immense!</l>
             <l>That all this good of evil shall produce,</l>
             <l>And evil turn to good; more wonderful</l>
             <l>Than that which by creation first brought forth</l>
@@ -17453,7 +17462,7 @@
             <l>Merciful over all his works, with good</l>
             <l>Still overcoming evil, and by small</l>
             <l>Accomplishing great things, by things deem'd weak</l>
-            <l>Subverting worldly strong, and wordly wise</l>
+            <l>Subverting worldly strong, and worldly wise</l>
             <l>By simply meek; that suffering for truth's sake</l>
             <l>Is fortitude to highest victory,</l>
             <l>And, to the faithful, death the gate of life;</l>
@@ -17484,7 +17493,7 @@
             <l>In signal of remove, waves fiercely round;<anchor xml:id="kpl2.189.0593"/></l>
             <l>We may no longer stay: go, waken Eve:</l>
             <l>Her also I with gentle dreams have calm'd</l>
-            <l>Portending good, and all her spirts composed</l>
+            <l>Portending good, and all her spirits composed</l>
             <l>To meek submission; thou, at season fit,</l>
             <l>Let her with thee partake what thou hast heard;</l>
             
