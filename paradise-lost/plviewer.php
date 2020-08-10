@@ -523,7 +523,7 @@ $(document).ready(function(){
 	<!-- For everything below the header -->
 	
 	<div class="centeredText">
-		<span class = "workTitle">Keats's Paradise Lost, a Digital Edition</span> (Version: Release Candidate 1)
+		<span class = "workTitle">Keats's Paradise Lost, a Digital Edition</span> (Version: 1.0.0)
 
 		<br/>
 
