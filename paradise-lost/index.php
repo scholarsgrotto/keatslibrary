@@ -252,7 +252,7 @@
             but readers can see them in the page scans.) Second, the vertical lines Keats draws
             are typically in the left margin, alongside the first words in the lines of poetry
             he highlights, but in two instances he draws a vertical line in the right margin (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=113">3.644</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=247">8.93-94</a>).  In the second passage, Keats might have used the right margin because a phrase
-            he also underscores in 8.94 (“barren shines”) is near the end of the line. This is not the case with the passage in book 3, however,
+            he also underscores in <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=247">8.94</a> (“barren shines”) is near the end of the line. This is not the case with the passage in book 3, however,
             where <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=113">the entire line 644</a> (as well as the eight previous lines of text) is underscored. In addition, on both
             pages that contain vertical strokes in the right margin, other passages are marked
             with the usual vertical line in the left margin (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=113">3.659-67</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=247">8.61-62</a>). It is not clear whether Keats deviated in these two instances from his customary
