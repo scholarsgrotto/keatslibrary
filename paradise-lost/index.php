@@ -14,7 +14,7 @@
                     <?php include '../head.php';?>
                     </div>
       <div id="pageWrapper">
-         <div id="contentWrapper"><span style="font-size:135%;font-weight:bold;">Keats's Paradise Lost: a Digital Edition </span><br><span class="usageText" style="color:red;">1.0.0, last updated August 10, 2020</span><p><a href="plviewer.php"><img src="images/pl-small-title.jpg" alt="Link to the Keats copy of Paradise Lost" title="Open Keats's Paradise Lost" align="middle" style="margin:0px 10px 0px 0px;float:left;"></a><br><span style="font-size:120%"><a href="plviewer.php" title="Paradise Lost">OPEN Keats's <span class="titleAttribution">Paradise Lost</span></a></span><br><br>
+         <div id="contentWrapper"><span style="font-size:135%;font-weight:bold;">Keats's Paradise Lost: a Digital Edition </span><br><span class="usageText" style="color:red;">1.0.1, last updated January 26, 2021</span><p><a href="plviewer.php"><img src="images/pl-small-title.jpg" alt="Link to the Keats copy of Paradise Lost" title="Open Keats's Paradise Lost" align="middle" style="margin:0px 10px 0px 0px;float:left;"></a><br><span style="font-size:120%"><a href="plviewer.php" title="Paradise Lost">OPEN Keats's <span class="titleAttribution">Paradise Lost</span></a></span><br><br>
                
                ... <a href="#schol_in" title="Scholarly Introduction">View scholarly introduction</a> by Beth Lau<br>
                
@@ -44,7 +44,7 @@
                   in an ornate hand, “John Keats / 1810,” indicating that the book was probably given to the poet when he was a student at
                   John Clarke’s school (see Owings 42-43).  It contains no marginalia.</span></span> 
             
-            Besides the text of <span class="titleAttribution">Paradise Lost</span>, this edition contains at the beginning of volume 1 a “<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=11">Life of Milton</a>” by Elijah Fenton, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=21">a postscript</a> that lists passages added to the 2nd, twelve-book edition of <span class="titleAttribution">Paradise Lost</span>, a Latin poem by Samuel Barrow, “<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=25">In Paradisum Amissam Summi Poetae Johannes Miltoni</a>,” Andrew Marvell’s poem “<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=27">On Paradise Lost</a>,” and Milton’s explanatory paragraph “<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=29">On the Verse</a>.” None of these items in the front matter is marked or annotated by Keats. The volumes
+            Besides the text of <span class="titleAttribution">Paradise Lost</span>, this edition contains at the beginning of volume 1 a “Life of Milton</a>” by Elijah Fenton, a postscript</a> that lists passages added to the 2nd, twelve-book edition of <span class="titleAttribution">Paradise Lost</span>, a Latin poem by Samuel Barrow, “In Paradisum Amissam Summi Poetae Johannes Miltoni</a>,” Andrew Marvell’s poem “On Paradise Lost</a>,” and Milton’s explanatory paragraph “On the Verse</a>.” None of these items in the front matter is marked or annotated by Keats. The volumes
             also include six engraved illustrations of Milton’s poem. Five of these are after
             paintings by Henry Fuseli (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=33"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=44"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=45">Satan Calling Up His Legions</a> from book 1; <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=36"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=82">Satan Encountering Death at Hell’s Gate, Sin Interposing</a> from book 2; <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=33"><a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=143">Satan Starting from the Touch of Ithuriel’s Spear</a> from book 4; <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=218">The Triumphant Messiah</a> from book 6; and <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=384">The Explusion from Paradise</a> from book 12), and one is after William Hamilton (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=289">Eve Tempted</a> from book 9).  All are engraved by Daniel Lizars, a painter and engraver who worked
             in Edinburgh.
@@ -75,7 +75,7 @@
             of his own edition of Milton’s poem, and Marianne Reynolds went to the trouble of
             reproducing not only the notes but all of Keats’s markings into her personal copy
             of <span class="titleAttribution">Paradise Lost</span>.
-            <span class="noteTooltip">(NOTE)<span class="noteTooltipText">The information about Mariane Reynolds comes from Forman 5: 291. The whereabouts of Marianne Reynolds’s and George Keats’s copies of <span class="titleAttribution">Paradise Lost</span> are currently unknown.             
+            <span class="noteTooltip">(NOTE)<span class="noteTooltipText">The information about Marianne Reynolds comes from Forman 5: 291. The whereabouts of Marianne Reynolds’s and George Keats’s copies of <span class="titleAttribution">Paradise Lost</span> are currently unknown.             
                   </span></span> 
             
             When Keats gave the volumes to Maria Dilke, the significance of the gift resided in
@@ -251,9 +251,12 @@
             of Milton’s lines.  (These breaks are not shown in the transcription of the marginalia,
             but readers can see them in the page scans.) Second, the vertical lines Keats draws
             are typically in the left margin, alongside the first words in the lines of poetry
-            he highlights, but in one instance he draws a vertical line in the right margin (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=247">8.93-94</a>).  This is probably because a phrase he also underscores in line 94 (“barren shines”) is near the end of the line.  Another passage on the same page (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=247">8.61-62</a>) is highlighted with the usual vertical stroke in the left margin.  It does seem
-            somewhat odd, however, that Keats was impelled to make a line in the right margin
-            only once in his reading of the entire poem.  
+            he highlights, but in two instances he draws a vertical line in the right margin (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=113">3.644</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=247">8.93-94</a>).  In the second passage, Keats might have used the right margin because a phrase
+            he also underscores in 8.94 (“barren shines”) is near the end of the line. This is not the case with the passage in book 3, however,
+            where <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=113">the entire line 644</a> (as well as the eight previous lines of text) is underscored. In addition, on both
+            pages that contain vertical strokes in the right margin, other passages are marked
+            with the usual vertical line in the left margin (<a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=113">3.659-67</a>, <a href="http://keatslibrary.org/paradise-lost/plviewer.php?pid=247">8.61-62</a>). It is not clear whether Keats deviated in these two instances from his customary
+            practice by conscious design or from a more haphazard impulse of the moment. 
             <br><br>
             
             In a 21 September 1819 letter to Reynolds in which he announces that he has abandoned
