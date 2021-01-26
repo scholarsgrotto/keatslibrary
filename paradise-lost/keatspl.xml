@@ -72,6 +72,14 @@
      
      <revisionDesc>
         
+        <change who="#DJJ" when="2021-01-26" n="1.0.1">
+           <label>Changed by</label>
+           <name>Daniel J. Johnson</name>
+           <list>
+              <item>Make some corrections to Beth Lau's introduction, which required generating some additional xml ids for poetry lines.</item>
+           </list>
+        </change>
+        
         <change who="#DJJ" when="2020-08-10" n="1.0.0">
            <label>Changed by</label>
            <name>Daniel J. Johnson</name>
@@ -4366,7 +4374,7 @@
          <l>In curls on either cheek play'd; wings he wore</l>
          <l>Of many a colour'd plume sprinkled with gold;</l>
          <l>His habit fit for speed succinct, and held</l>
-         <l><mod rend="rvs" spanTo="#kpl1.079.0644"/>Before his decent steps a silver wand.<anchor xml:id="kpl1.079.0644"/><anchor xml:id="kpl1.079.0644eol"/></l>
+         <l xml:id="kpl1.079.0644l"><mod rend="rvs" spanTo="#kpl1.079.0644"/>Before his decent steps a silver wand.<anchor xml:id="kpl1.079.0644"/><anchor xml:id="kpl1.079.0644eol"/></l>
          <l>He drew not nigh unheard; the Angel bright,</l>
          <l>Ere he drew nigh, his radiant visage turn'd,</l>
          <l>Admonish'd by his ear, and straight was known</l>
@@ -4386,7 +4394,7 @@
          <l>The first art wont his great authentic will</l>
          <l>Interpreter through highest Heaven to bring,</l>
          <l>Where all his sons thy embassy attend;</l>
-         <l><mod rend="lvs" spanTo="#kpl1.079.0668eol"/>And here art likeliest by supreme decree</l>
+         <l xml:id="kpl1.079.0659l"><mod rend="lvs" spanTo="#kpl1.079.0668eol"/>And here art likeliest by supreme decree</l>
          <l>Like honour to obtain, and as his eye</l>
          <l>To visit oft this new creation round;</l>
          <l>Unspeakable desire to see, and know</l>
